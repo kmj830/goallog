@@ -1,7 +1,5 @@
 """
 GoalLog - 2026 월드컵 정보 앱
-설계서 UI Design(4장) 기반 구현
-Flet 0.85.x + DuckDB
 """
 import flet as ft
 import pandas as pd

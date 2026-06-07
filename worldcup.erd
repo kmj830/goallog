@@ -1,0 +1,827 @@
+{
+  "$schema": "https://raw.githubusercontent.com/dineug/erd-editor/main/json-schema/schema.json",
+  "version": "3.0.0",
+  "settings": {
+    "width": 2000,
+    "height": 2000,
+    "scrollTop": 0,
+    "scrollLeft": 0,
+    "zoomLevel": 1,
+    "show": 431,
+    "database": 4,
+    "databaseName": "",
+    "canvasType": "ERD",
+    "language": 1,
+    "tableNameCase": 4,
+    "columnNameCase": 2,
+    "bracketType": 1,
+    "relationshipDataTypeSync": true,
+    "relationshipOptimization": false,
+    "columnOrder": [
+      1,
+      2,
+      4,
+      8,
+      16,
+      32,
+      64
+    ],
+    "maxWidthComment": -1,
+    "ignoreSaveSettings": 0
+  },
+  "doc": {
+    "tableIds": [
+      "U4GyXv7IGd0Jz1GRO1nIk",
+      "rsUiX6tp8yUvklVvn_eix",
+      "uHF07LqUBm5tImA7YtRPI",
+      "yZbPvskW_PkaCHcVUQA5G"
+    ],
+    "relationshipIds": [
+      "C2QF5Gj0cHvll35x8doae",
+      "nDjAG92YyzJXW4VSuX6Ww",
+      "M_t3otzgaevdiqiUHU70S",
+      "PNYtWO12NIRk-up5igzIC"
+    ],
+    "indexIds": [],
+    "memoIds": []
+  },
+  "collections": {
+    "tableEntities": {
+      "U4GyXv7IGd0Jz1GRO1nIk": {
+        "id": "U4GyXv7IGd0Jz1GRO1nIk",
+        "name": "teams",
+        "comment": "",
+        "columnIds": [
+          "WAiFvN3geeBVluZTdx6dy",
+          "CV8CTeXRWfqOrkd11CP8p",
+          "XSH8EnkTfwvpsQtcA1nQa",
+          "S_FlVbk64tgp2WtCmyZfP",
+          "bOjkbqOlWU_zCPOLu9VWM",
+          "bUtwfzZBH_piWClrBLX1j"
+        ],
+        "seqColumnIds": [
+          "WAiFvN3geeBVluZTdx6dy",
+          "CV8CTeXRWfqOrkd11CP8p",
+          "XSH8EnkTfwvpsQtcA1nQa",
+          "S_FlVbk64tgp2WtCmyZfP",
+          "bOjkbqOlWU_zCPOLu9VWM",
+          "bUtwfzZBH_piWClrBLX1j"
+        ],
+        "ui": {
+          "x": 50,
+          "y": 50,
+          "zIndex": 2,
+          "widthName": 60,
+          "widthComment": 60,
+          "color": ""
+        },
+        "meta": {
+          "updateAt": 1780833452264,
+          "createAt": 1780833452264
+        }
+      },
+      "rsUiX6tp8yUvklVvn_eix": {
+        "id": "rsUiX6tp8yUvklVvn_eix",
+        "name": "players",
+        "comment": "",
+        "columnIds": [
+          "6Wf0mi0MaiIYEQzY7Oqvm",
+          "SVZrftuU1a4bxDgWrWrga",
+          "opHdERu5apWz_bHJjuFlS",
+          "YbVA8_jGKz_HTRrfSHfbg",
+          "M4WqlmXj8PmFBJVY8UdTT",
+          "blVopElfaagX0gBAn2jGU"
+        ],
+        "seqColumnIds": [
+          "6Wf0mi0MaiIYEQzY7Oqvm",
+          "SVZrftuU1a4bxDgWrWrga",
+          "opHdERu5apWz_bHJjuFlS",
+          "YbVA8_jGKz_HTRrfSHfbg",
+          "M4WqlmXj8PmFBJVY8UdTT",
+          "blVopElfaagX0gBAn2jGU"
+        ],
+        "ui": {
+          "x": 538,
+          "y": 50,
+          "zIndex": 2,
+          "widthName": 60,
+          "widthComment": 60,
+          "color": ""
+        },
+        "meta": {
+          "updateAt": 1780833452264,
+          "createAt": 1780833452264
+        }
+      },
+      "uHF07LqUBm5tImA7YtRPI": {
+        "id": "uHF07LqUBm5tImA7YtRPI",
+        "name": "stadiums",
+        "comment": "",
+        "columnIds": [
+          "oGWS8y31MnNZ89zh3FCJU",
+          "ekvFR9KTj64VzkuotWxTN",
+          "E1RRRsMMQp55wr4p_-aAM",
+          "Nr7G28W7gftH_b2XHXHrJ",
+          "xBR4fg9a3nf0AkyBmxn1_",
+          "jMmh-E0nlfP4cF8uZf_D4",
+          "fvDClHvV_2LLP0xRuDFC9"
+        ],
+        "seqColumnIds": [
+          "oGWS8y31MnNZ89zh3FCJU",
+          "ekvFR9KTj64VzkuotWxTN",
+          "E1RRRsMMQp55wr4p_-aAM",
+          "Nr7G28W7gftH_b2XHXHrJ",
+          "xBR4fg9a3nf0AkyBmxn1_",
+          "jMmh-E0nlfP4cF8uZf_D4",
+          "fvDClHvV_2LLP0xRuDFC9"
+        ],
+        "ui": {
+          "x": 679,
+          "y": 356,
+          "zIndex": 2,
+          "widthName": 60,
+          "widthComment": 60,
+          "color": ""
+        },
+        "meta": {
+          "updateAt": 1780833468820,
+          "createAt": 1780833452265
+        }
+      },
+      "yZbPvskW_PkaCHcVUQA5G": {
+        "id": "yZbPvskW_PkaCHcVUQA5G",
+        "name": "matches",
+        "comment": "",
+        "columnIds": [
+          "mTiXP_RpvlWoya_Zxptxu",
+          "dpXGSkdEC-Eoa8wKtFol6",
+          "ist8PZposPiprRTObUDGV",
+          "5qriAyx8rwoWuxqJHwpxN",
+          "1JNyWM42vHdQmrPL6r1V4",
+          "785kszz0OxBuWf-sjekpe",
+          "UnrKDEMfzCDxGzZb3pnkO"
+        ],
+        "seqColumnIds": [
+          "mTiXP_RpvlWoya_Zxptxu",
+          "dpXGSkdEC-Eoa8wKtFol6",
+          "ist8PZposPiprRTObUDGV",
+          "5qriAyx8rwoWuxqJHwpxN",
+          "1JNyWM42vHdQmrPL6r1V4",
+          "785kszz0OxBuWf-sjekpe",
+          "UnrKDEMfzCDxGzZb3pnkO"
+        ],
+        "ui": {
+          "x": 94,
+          "y": 360,
+          "zIndex": 2,
+          "widthName": 60,
+          "widthComment": 60,
+          "color": ""
+        },
+        "meta": {
+          "updateAt": 1780833464060,
+          "createAt": 1780833452265
+        }
+      }
+    },
+    "tableColumnEntities": {
+      "WAiFvN3geeBVluZTdx6dy": {
+        "id": "WAiFvN3geeBVluZTdx6dy",
+        "tableId": "U4GyXv7IGd0Jz1GRO1nIk",
+        "name": "fifa_code",
+        "comment": "",
+        "dataType": "VARCHAR(10)",
+        "default": "",
+        "options": 2,
+        "ui": {
+          "keys": 1,
+          "widthName": 60,
+          "widthComment": 60,
+          "widthDataType": 81,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1780833452264,
+          "createAt": 1780833452264
+        }
+      },
+      "CV8CTeXRWfqOrkd11CP8p": {
+        "id": "CV8CTeXRWfqOrkd11CP8p",
+        "tableId": "U4GyXv7IGd0Jz1GRO1nIk",
+        "name": "name",
+        "comment": "",
+        "dataType": "VARCHAR(100)",
+        "default": "",
+        "options": 8,
+        "ui": {
+          "keys": 0,
+          "widthName": 60,
+          "widthComment": 60,
+          "widthDataType": 89,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1780833452264,
+          "createAt": 1780833452264
+        }
+      },
+      "XSH8EnkTfwvpsQtcA1nQa": {
+        "id": "XSH8EnkTfwvpsQtcA1nQa",
+        "tableId": "U4GyXv7IGd0Jz1GRO1nIk",
+        "name": "flag_icon",
+        "comment": "",
+        "dataType": "VARCHAR(255)",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 60,
+          "widthComment": 60,
+          "widthDataType": 90,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1780833452264,
+          "createAt": 1780833452264
+        }
+      },
+      "S_FlVbk64tgp2WtCmyZfP": {
+        "id": "S_FlVbk64tgp2WtCmyZfP",
+        "tableId": "U4GyXv7IGd0Jz1GRO1nIk",
+        "name": "group_name",
+        "comment": "",
+        "dataType": "VARCHAR(5)",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 73,
+          "widthComment": 60,
+          "widthDataType": 75,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1780833452264,
+          "createAt": 1780833452264
+        }
+      },
+      "bOjkbqOlWU_zCPOLu9VWM": {
+        "id": "bOjkbqOlWU_zCPOLu9VWM",
+        "tableId": "U4GyXv7IGd0Jz1GRO1nIk",
+        "name": "confed",
+        "comment": "",
+        "dataType": "VARCHAR(50)",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 60,
+          "widthComment": 60,
+          "widthDataType": 83,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1780833452264,
+          "createAt": 1780833452264
+        }
+      },
+      "bUtwfzZBH_piWClrBLX1j": {
+        "id": "bUtwfzZBH_piWClrBLX1j",
+        "tableId": "U4GyXv7IGd0Jz1GRO1nIk",
+        "name": "continent",
+        "comment": "",
+        "dataType": "VARCHAR(50)",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 60,
+          "widthComment": 60,
+          "widthDataType": 83,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1780833452264,
+          "createAt": 1780833452264
+        }
+      },
+      "6Wf0mi0MaiIYEQzY7Oqvm": {
+        "id": "6Wf0mi0MaiIYEQzY7Oqvm",
+        "tableId": "rsUiX6tp8yUvklVvn_eix",
+        "name": "player_id",
+        "comment": "",
+        "dataType": "INTEGER",
+        "default": "",
+        "options": 2,
+        "ui": {
+          "keys": 1,
+          "widthName": 60,
+          "widthComment": 60,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1780833452264,
+          "createAt": 1780833452264
+        }
+      },
+      "SVZrftuU1a4bxDgWrWrga": {
+        "id": "SVZrftuU1a4bxDgWrWrga",
+        "tableId": "rsUiX6tp8yUvklVvn_eix",
+        "name": "name",
+        "comment": "",
+        "dataType": "VARCHAR(100)",
+        "default": "",
+        "options": 8,
+        "ui": {
+          "keys": 0,
+          "widthName": 60,
+          "widthComment": 60,
+          "widthDataType": 89,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1780833452264,
+          "createAt": 1780833452264
+        }
+      },
+      "opHdERu5apWz_bHJjuFlS": {
+        "id": "opHdERu5apWz_bHJjuFlS",
+        "tableId": "rsUiX6tp8yUvklVvn_eix",
+        "name": "team_fifa_code",
+        "comment": "",
+        "dataType": "VARCHAR(10)",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 2,
+          "widthName": 90,
+          "widthComment": 60,
+          "widthDataType": 81,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1780833452264,
+          "createAt": 1780833452264
+        }
+      },
+      "YbVA8_jGKz_HTRrfSHfbg": {
+        "id": "YbVA8_jGKz_HTRrfSHfbg",
+        "tableId": "rsUiX6tp8yUvklVvn_eix",
+        "name": "position",
+        "comment": "",
+        "dataType": "VARCHAR(20)",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 60,
+          "widthComment": 60,
+          "widthDataType": 83,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1780833452264,
+          "createAt": 1780833452264
+        }
+      },
+      "M4WqlmXj8PmFBJVY8UdTT": {
+        "id": "M4WqlmXj8PmFBJVY8UdTT",
+        "tableId": "rsUiX6tp8yUvklVvn_eix",
+        "name": "jersey_number",
+        "comment": "",
+        "dataType": "INTEGER",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 85,
+          "widthComment": 60,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1780833452265,
+          "createAt": 1780833452265
+        }
+      },
+      "blVopElfaagX0gBAn2jGU": {
+        "id": "blVopElfaagX0gBAn2jGU",
+        "tableId": "rsUiX6tp8yUvklVvn_eix",
+        "name": "birth_date",
+        "comment": "",
+        "dataType": "DATE",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 60,
+          "widthComment": 60,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1780833452265,
+          "createAt": 1780833452265
+        }
+      },
+      "oGWS8y31MnNZ89zh3FCJU": {
+        "id": "oGWS8y31MnNZ89zh3FCJU",
+        "tableId": "uHF07LqUBm5tImA7YtRPI",
+        "name": "stadium_id",
+        "comment": "",
+        "dataType": "INTEGER",
+        "default": "",
+        "options": 2,
+        "ui": {
+          "keys": 1,
+          "widthName": 64,
+          "widthComment": 60,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1780833452265,
+          "createAt": 1780833452265
+        }
+      },
+      "ekvFR9KTj64VzkuotWxTN": {
+        "id": "ekvFR9KTj64VzkuotWxTN",
+        "tableId": "uHF07LqUBm5tImA7YtRPI",
+        "name": "name",
+        "comment": "",
+        "dataType": "VARCHAR(100)",
+        "default": "",
+        "options": 8,
+        "ui": {
+          "keys": 0,
+          "widthName": 60,
+          "widthComment": 60,
+          "widthDataType": 89,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1780833452265,
+          "createAt": 1780833452265
+        }
+      },
+      "E1RRRsMMQp55wr4p_-aAM": {
+        "id": "E1RRRsMMQp55wr4p_-aAM",
+        "tableId": "uHF07LqUBm5tImA7YtRPI",
+        "name": "city",
+        "comment": "",
+        "dataType": "VARCHAR(100)",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 60,
+          "widthComment": 60,
+          "widthDataType": 89,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1780833452265,
+          "createAt": 1780833452265
+        }
+      },
+      "Nr7G28W7gftH_b2XHXHrJ": {
+        "id": "Nr7G28W7gftH_b2XHXHrJ",
+        "tableId": "uHF07LqUBm5tImA7YtRPI",
+        "name": "timezone",
+        "comment": "",
+        "dataType": "VARCHAR(50)",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 60,
+          "widthComment": 60,
+          "widthDataType": 83,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1780833452265,
+          "createAt": 1780833452265
+        }
+      },
+      "xBR4fg9a3nf0AkyBmxn1_": {
+        "id": "xBR4fg9a3nf0AkyBmxn1_",
+        "tableId": "uHF07LqUBm5tImA7YtRPI",
+        "name": "country_code",
+        "comment": "",
+        "dataType": "VARCHAR(10)",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 79,
+          "widthComment": 60,
+          "widthDataType": 81,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1780833452265,
+          "createAt": 1780833452265
+        }
+      },
+      "jMmh-E0nlfP4cF8uZf_D4": {
+        "id": "jMmh-E0nlfP4cF8uZf_D4",
+        "tableId": "uHF07LqUBm5tImA7YtRPI",
+        "name": "capacity",
+        "comment": "",
+        "dataType": "BIGINT",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 60,
+          "widthComment": 60,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1780833452265,
+          "createAt": 1780833452265
+        }
+      },
+      "fvDClHvV_2LLP0xRuDFC9": {
+        "id": "fvDClHvV_2LLP0xRuDFC9",
+        "tableId": "uHF07LqUBm5tImA7YtRPI",
+        "name": "coordinates",
+        "comment": "",
+        "dataType": "VARCHAR(100)",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 69,
+          "widthComment": 60,
+          "widthDataType": 89,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1780833452265,
+          "createAt": 1780833452265
+        }
+      },
+      "mTiXP_RpvlWoya_Zxptxu": {
+        "id": "mTiXP_RpvlWoya_Zxptxu",
+        "tableId": "yZbPvskW_PkaCHcVUQA5G",
+        "name": "match_id",
+        "comment": "",
+        "dataType": "INTEGER",
+        "default": "",
+        "options": 2,
+        "ui": {
+          "keys": 1,
+          "widthName": 60,
+          "widthComment": 60,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1780833452265,
+          "createAt": 1780833452265
+        }
+      },
+      "dpXGSkdEC-Eoa8wKtFol6": {
+        "id": "dpXGSkdEC-Eoa8wKtFol6",
+        "tableId": "yZbPvskW_PkaCHcVUQA5G",
+        "name": "team1_fifa_code",
+        "comment": "",
+        "dataType": "VARCHAR(10)",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 2,
+          "widthName": 95,
+          "widthComment": 60,
+          "widthDataType": 81,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1780833452265,
+          "createAt": 1780833452265
+        }
+      },
+      "ist8PZposPiprRTObUDGV": {
+        "id": "ist8PZposPiprRTObUDGV",
+        "tableId": "yZbPvskW_PkaCHcVUQA5G",
+        "name": "team2_fifa_code",
+        "comment": "",
+        "dataType": "VARCHAR(10)",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 2,
+          "widthName": 97,
+          "widthComment": 60,
+          "widthDataType": 81,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1780833452265,
+          "createAt": 1780833452265
+        }
+      },
+      "5qriAyx8rwoWuxqJHwpxN": {
+        "id": "5qriAyx8rwoWuxqJHwpxN",
+        "tableId": "yZbPvskW_PkaCHcVUQA5G",
+        "name": "match_date",
+        "comment": "",
+        "dataType": "TIMESTAMP",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 69,
+          "widthComment": 60,
+          "widthDataType": 71,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1780833452265,
+          "createAt": 1780833452265
+        }
+      },
+      "1JNyWM42vHdQmrPL6r1V4": {
+        "id": "1JNyWM42vHdQmrPL6r1V4",
+        "tableId": "yZbPvskW_PkaCHcVUQA5G",
+        "name": "stadium_id",
+        "comment": "",
+        "dataType": "INTEGER",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 2,
+          "widthName": 64,
+          "widthComment": 60,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1780833452265,
+          "createAt": 1780833452265
+        }
+      },
+      "785kszz0OxBuWf-sjekpe": {
+        "id": "785kszz0OxBuWf-sjekpe",
+        "tableId": "yZbPvskW_PkaCHcVUQA5G",
+        "name": "home_score",
+        "comment": "",
+        "dataType": "INTEGER",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 71,
+          "widthComment": 60,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1780833452265,
+          "createAt": 1780833452265
+        }
+      },
+      "UnrKDEMfzCDxGzZb3pnkO": {
+        "id": "UnrKDEMfzCDxGzZb3pnkO",
+        "tableId": "yZbPvskW_PkaCHcVUQA5G",
+        "name": "away_score",
+        "comment": "",
+        "dataType": "INTEGER",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 68,
+          "widthComment": 60,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1780833452265,
+          "createAt": 1780833452265
+        }
+      }
+    },
+    "relationshipEntities": {
+      "C2QF5Gj0cHvll35x8doae": {
+        "id": "C2QF5Gj0cHvll35x8doae",
+        "identification": false,
+        "relationshipType": 4,
+        "startRelationshipType": 1,
+        "start": {
+          "tableId": "U4GyXv7IGd0Jz1GRO1nIk",
+          "columnIds": [
+            "WAiFvN3geeBVluZTdx6dy"
+          ],
+          "x": 458,
+          "y": 150,
+          "direction": 2
+        },
+        "end": {
+          "tableId": "rsUiX6tp8yUvklVvn_eix",
+          "columnIds": [
+            "opHdERu5apWz_bHJjuFlS"
+          ],
+          "x": 538,
+          "y": 150,
+          "direction": 1
+        },
+        "meta": {
+          "updateAt": 1780833452265,
+          "createAt": 1780833452265
+        }
+      },
+      "nDjAG92YyzJXW4VSuX6Ww": {
+        "id": "nDjAG92YyzJXW4VSuX6Ww",
+        "identification": false,
+        "relationshipType": 4,
+        "startRelationshipType": 1,
+        "start": {
+          "tableId": "U4GyXv7IGd0Jz1GRO1nIk",
+          "columnIds": [
+            "WAiFvN3geeBVluZTdx6dy"
+          ],
+          "x": 152,
+          "y": 250,
+          "direction": 8
+        },
+        "end": {
+          "tableId": "yZbPvskW_PkaCHcVUQA5G",
+          "columnIds": [
+            "dpXGSkdEC-Eoa8wKtFol6"
+          ],
+          "x": 199.75,
+          "y": 360,
+          "direction": 4
+        },
+        "meta": {
+          "updateAt": 1780833452265,
+          "createAt": 1780833452265
+        }
+      },
+      "M_t3otzgaevdiqiUHU70S": {
+        "id": "M_t3otzgaevdiqiUHU70S",
+        "identification": false,
+        "relationshipType": 4,
+        "startRelationshipType": 1,
+        "start": {
+          "tableId": "U4GyXv7IGd0Jz1GRO1nIk",
+          "columnIds": [
+            "WAiFvN3geeBVluZTdx6dy"
+          ],
+          "x": 356,
+          "y": 250,
+          "direction": 8
+        },
+        "end": {
+          "tableId": "yZbPvskW_PkaCHcVUQA5G",
+          "columnIds": [
+            "ist8PZposPiprRTObUDGV"
+          ],
+          "x": 411.25,
+          "y": 360,
+          "direction": 4
+        },
+        "meta": {
+          "updateAt": 1780833452265,
+          "createAt": 1780833452265
+        }
+      },
+      "PNYtWO12NIRk-up5igzIC": {
+        "id": "PNYtWO12NIRk-up5igzIC",
+        "identification": false,
+        "relationshipType": 4,
+        "startRelationshipType": 1,
+        "start": {
+          "tableId": "uHF07LqUBm5tImA7YtRPI",
+          "columnIds": [
+            "oGWS8y31MnNZ89zh3FCJU"
+          ],
+          "x": 679,
+          "y": 468,
+          "direction": 1
+        },
+        "end": {
+          "tableId": "yZbPvskW_PkaCHcVUQA5G",
+          "columnIds": [
+            "1JNyWM42vHdQmrPL6r1V4"
+          ],
+          "x": 517,
+          "y": 472,
+          "direction": 2
+        },
+        "meta": {
+          "updateAt": 1780833452265,
+          "createAt": 1780833452265
+        }
+      }
+    },
+    "indexEntities": {},
+    "indexColumnEntities": {},
+    "memoEntities": {}
+  }
+}
