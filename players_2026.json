@@ -1,0 +1,8164 @@
+[
+  {
+    "name": "Matěj Kovář",
+    "team_fifa_code": "CZE",
+    "position": "GK",
+    "jersey_number": 1,
+    "birth_date": "2000-05-17"
+  },
+  {
+    "name": "David Zima",
+    "team_fifa_code": "CZE",
+    "position": "DF",
+    "jersey_number": 2,
+    "birth_date": "2000-11-08"
+  },
+  {
+    "name": "Tomáš Holeš",
+    "team_fifa_code": "CZE",
+    "position": "DF",
+    "jersey_number": 3,
+    "birth_date": "1993-03-31"
+  },
+  {
+    "name": "Robin Hranáč",
+    "team_fifa_code": "CZE",
+    "position": "DF",
+    "jersey_number": 4,
+    "birth_date": "2000-01-29"
+  },
+  {
+    "name": "Vladimír Coufal",
+    "team_fifa_code": "CZE",
+    "position": "DF",
+    "jersey_number": 5,
+    "birth_date": "1992-08-22"
+  },
+  {
+    "name": "Štěpán Chaloupek",
+    "team_fifa_code": "CZE",
+    "position": "DF",
+    "jersey_number": 6,
+    "birth_date": "2003-03-08"
+  },
+  {
+    "name": "Ladislav Krejčí ( captain )",
+    "team_fifa_code": "CZE",
+    "position": "DF",
+    "jersey_number": 7,
+    "birth_date": "1999-04-20"
+  },
+  {
+    "name": "Vladimír Darida",
+    "team_fifa_code": "CZE",
+    "position": "MF",
+    "jersey_number": 8,
+    "birth_date": "1990-08-08"
+  },
+  {
+    "name": "Adam Hložek",
+    "team_fifa_code": "CZE",
+    "position": "FW",
+    "jersey_number": 9,
+    "birth_date": "2002-07-25"
+  },
+  {
+    "name": "Patrik Schick",
+    "team_fifa_code": "CZE",
+    "position": "FW",
+    "jersey_number": 10,
+    "birth_date": "1996-01-24"
+  },
+  {
+    "name": "Jan Kuchta",
+    "team_fifa_code": "CZE",
+    "position": "FW",
+    "jersey_number": 11,
+    "birth_date": "1997-01-08"
+  },
+  {
+    "name": "Lukáš Červ",
+    "team_fifa_code": "CZE",
+    "position": "MF",
+    "jersey_number": 12,
+    "birth_date": "2001-04-10"
+  },
+  {
+    "name": "Mojmír Chytil",
+    "team_fifa_code": "CZE",
+    "position": "FW",
+    "jersey_number": 13,
+    "birth_date": "1999-04-29"
+  },
+  {
+    "name": "David Jurásek",
+    "team_fifa_code": "CZE",
+    "position": "DF",
+    "jersey_number": 14,
+    "birth_date": "2000-08-07"
+  },
+  {
+    "name": "Pavel Šulc",
+    "team_fifa_code": "CZE",
+    "position": "FW",
+    "jersey_number": 15,
+    "birth_date": "2000-12-29"
+  },
+  {
+    "name": "Jindřich Staněk",
+    "team_fifa_code": "CZE",
+    "position": "GK",
+    "jersey_number": 16,
+    "birth_date": "1996-04-27"
+  },
+  {
+    "name": "Lukáš Provod",
+    "team_fifa_code": "CZE",
+    "position": "MF",
+    "jersey_number": 17,
+    "birth_date": "1996-10-23"
+  },
+  {
+    "name": "Michal Sadílek",
+    "team_fifa_code": "CZE",
+    "position": "MF",
+    "jersey_number": 18,
+    "birth_date": "1999-05-31"
+  },
+  {
+    "name": "Tomáš Chorý",
+    "team_fifa_code": "CZE",
+    "position": "FW",
+    "jersey_number": 19,
+    "birth_date": "1995-01-26"
+  },
+  {
+    "name": "Jaroslav Zelený",
+    "team_fifa_code": "CZE",
+    "position": "DF",
+    "jersey_number": 20,
+    "birth_date": "1992-08-20"
+  },
+  {
+    "name": "David Douděra",
+    "team_fifa_code": "CZE",
+    "position": "DF",
+    "jersey_number": 21,
+    "birth_date": "1998-05-31"
+  },
+  {
+    "name": "Tomáš Souček",
+    "team_fifa_code": "CZE",
+    "position": "MF",
+    "jersey_number": 22,
+    "birth_date": "1995-02-27"
+  },
+  {
+    "name": "Lukáš Horníček",
+    "team_fifa_code": "CZE",
+    "position": "GK",
+    "jersey_number": 23,
+    "birth_date": "2002-07-13"
+  },
+  {
+    "name": "Alexandr Sojka",
+    "team_fifa_code": "CZE",
+    "position": "MF",
+    "jersey_number": 24,
+    "birth_date": "2003-04-02"
+  },
+  {
+    "name": "Hugo Sochůrek",
+    "team_fifa_code": "CZE",
+    "position": "MF",
+    "jersey_number": 25,
+    "birth_date": "2008-06-07"
+  },
+  {
+    "name": "Denis Višinský",
+    "team_fifa_code": "CZE",
+    "position": "FW",
+    "jersey_number": 26,
+    "birth_date": "2003-03-21"
+  },
+  {
+    "name": "Raúl Rangel",
+    "team_fifa_code": "MEX",
+    "position": "GK",
+    "jersey_number": 1,
+    "birth_date": "2000-02-25"
+  },
+  {
+    "name": "Jorge Sánchez",
+    "team_fifa_code": "MEX",
+    "position": "DF",
+    "jersey_number": 2,
+    "birth_date": "1997-12-10"
+  },
+  {
+    "name": "César Montes",
+    "team_fifa_code": "MEX",
+    "position": "DF",
+    "jersey_number": 3,
+    "birth_date": "1997-02-24"
+  },
+  {
+    "name": "Edson Álvarez ( captain )",
+    "team_fifa_code": "MEX",
+    "position": "DF",
+    "jersey_number": 4,
+    "birth_date": "1997-10-24"
+  },
+  {
+    "name": "Johan Vásquez",
+    "team_fifa_code": "MEX",
+    "position": "DF",
+    "jersey_number": 5,
+    "birth_date": "1998-10-22"
+  },
+  {
+    "name": "Érik Lira",
+    "team_fifa_code": "MEX",
+    "position": "MF",
+    "jersey_number": 6,
+    "birth_date": "2000-05-08"
+  },
+  {
+    "name": "Luis Romo",
+    "team_fifa_code": "MEX",
+    "position": "MF",
+    "jersey_number": 7,
+    "birth_date": "1995-06-05"
+  },
+  {
+    "name": "Álvaro Fidalgo",
+    "team_fifa_code": "MEX",
+    "position": "MF",
+    "jersey_number": 8,
+    "birth_date": "1997-04-09"
+  },
+  {
+    "name": "Raúl Jiménez",
+    "team_fifa_code": "MEX",
+    "position": "FW",
+    "jersey_number": 9,
+    "birth_date": "1991-05-05"
+  },
+  {
+    "name": "Alexis Vega",
+    "team_fifa_code": "MEX",
+    "position": "FW",
+    "jersey_number": 10,
+    "birth_date": "1997-11-25"
+  },
+  {
+    "name": "Santiago Giménez",
+    "team_fifa_code": "MEX",
+    "position": "FW",
+    "jersey_number": 11,
+    "birth_date": "2001-04-18"
+  },
+  {
+    "name": "Carlos Acevedo",
+    "team_fifa_code": "MEX",
+    "position": "GK",
+    "jersey_number": 12,
+    "birth_date": "1996-04-19"
+  },
+  {
+    "name": "Guillermo Ochoa",
+    "team_fifa_code": "MEX",
+    "position": "GK",
+    "jersey_number": 13,
+    "birth_date": "1985-07-13"
+  },
+  {
+    "name": "Armando González",
+    "team_fifa_code": "MEX",
+    "position": "FW",
+    "jersey_number": 14,
+    "birth_date": "2003-04-20"
+  },
+  {
+    "name": "Israel Reyes",
+    "team_fifa_code": "MEX",
+    "position": "DF",
+    "jersey_number": 15,
+    "birth_date": "2000-05-23"
+  },
+  {
+    "name": "Julián Quiñones",
+    "team_fifa_code": "MEX",
+    "position": "FW",
+    "jersey_number": 16,
+    "birth_date": "1997-03-24"
+  },
+  {
+    "name": "Orbelín Pineda",
+    "team_fifa_code": "MEX",
+    "position": "MF",
+    "jersey_number": 17,
+    "birth_date": "1996-03-24"
+  },
+  {
+    "name": "Obed Vargas",
+    "team_fifa_code": "MEX",
+    "position": "MF",
+    "jersey_number": 18,
+    "birth_date": "2005-08-05"
+  },
+  {
+    "name": "Gilberto Mora",
+    "team_fifa_code": "MEX",
+    "position": "MF",
+    "jersey_number": 19,
+    "birth_date": "2008-10-14"
+  },
+  {
+    "name": "Mateo Chávez",
+    "team_fifa_code": "MEX",
+    "position": "DF",
+    "jersey_number": 20,
+    "birth_date": "2004-05-12"
+  },
+  {
+    "name": "César Huerta",
+    "team_fifa_code": "MEX",
+    "position": "FW",
+    "jersey_number": 21,
+    "birth_date": "2000-12-03"
+  },
+  {
+    "name": "Guillermo Martínez",
+    "team_fifa_code": "MEX",
+    "position": "FW",
+    "jersey_number": 22,
+    "birth_date": "1995-03-15"
+  },
+  {
+    "name": "Jesús Gallardo",
+    "team_fifa_code": "MEX",
+    "position": "DF",
+    "jersey_number": 23,
+    "birth_date": "1994-08-15"
+  },
+  {
+    "name": "Luis Chávez",
+    "team_fifa_code": "MEX",
+    "position": "MF",
+    "jersey_number": 24,
+    "birth_date": "1996-01-15"
+  },
+  {
+    "name": "Roberto Alvarado",
+    "team_fifa_code": "MEX",
+    "position": "FW",
+    "jersey_number": 25,
+    "birth_date": "1998-09-07"
+  },
+  {
+    "name": "Brian Gutiérrez",
+    "team_fifa_code": "MEX",
+    "position": "MF",
+    "jersey_number": 26,
+    "birth_date": "2003-06-17"
+  },
+  {
+    "name": "Ronwen Williams ( captain )",
+    "team_fifa_code": "RSA",
+    "position": "GK",
+    "jersey_number": 1,
+    "birth_date": "1992-01-21"
+  },
+  {
+    "name": "Thabang Matuludi",
+    "team_fifa_code": "RSA",
+    "position": "DF",
+    "jersey_number": 2,
+    "birth_date": "1999-01-14"
+  },
+  {
+    "name": "Khulumani Ndamane",
+    "team_fifa_code": "RSA",
+    "position": "DF",
+    "jersey_number": 3,
+    "birth_date": "2004-02-05"
+  },
+  {
+    "name": "Teboho Mokoena",
+    "team_fifa_code": "RSA",
+    "position": "MF",
+    "jersey_number": 4,
+    "birth_date": "1997-01-24"
+  },
+  {
+    "name": "Thalente Mbatha",
+    "team_fifa_code": "RSA",
+    "position": "MF",
+    "jersey_number": 5,
+    "birth_date": "2000-03-06"
+  },
+  {
+    "name": "Aubrey Modiba",
+    "team_fifa_code": "RSA",
+    "position": "DF",
+    "jersey_number": 6,
+    "birth_date": "1995-07-22"
+  },
+  {
+    "name": "Oswin Appollis",
+    "team_fifa_code": "RSA",
+    "position": "FW",
+    "jersey_number": 7,
+    "birth_date": "2001-08-25"
+  },
+  {
+    "name": "Tshepang Moremi",
+    "team_fifa_code": "RSA",
+    "position": "FW",
+    "jersey_number": 8,
+    "birth_date": "2000-10-02"
+  },
+  {
+    "name": "Lyle Foster",
+    "team_fifa_code": "RSA",
+    "position": "FW",
+    "jersey_number": 9,
+    "birth_date": "2000-09-03"
+  },
+  {
+    "name": "Relebohile Mofokeng",
+    "team_fifa_code": "RSA",
+    "position": "FW",
+    "jersey_number": 10,
+    "birth_date": "2004-10-23"
+  },
+  {
+    "name": "Themba Zwane",
+    "team_fifa_code": "RSA",
+    "position": "MF",
+    "jersey_number": 11,
+    "birth_date": "1989-08-03"
+  },
+  {
+    "name": "Thapelo Maseko",
+    "team_fifa_code": "RSA",
+    "position": "FW",
+    "jersey_number": 12,
+    "birth_date": "2003-11-11"
+  },
+  {
+    "name": "Sphephelo Sithole",
+    "team_fifa_code": "RSA",
+    "position": "MF",
+    "jersey_number": 13,
+    "birth_date": "1999-03-03"
+  },
+  {
+    "name": "Mbekezeli Mbokazi",
+    "team_fifa_code": "RSA",
+    "position": "DF",
+    "jersey_number": 14,
+    "birth_date": "2005-09-19"
+  },
+  {
+    "name": "Iqraam Rayners",
+    "team_fifa_code": "RSA",
+    "position": "FW",
+    "jersey_number": 15,
+    "birth_date": "1995-12-19"
+  },
+  {
+    "name": "Sipho Chaine",
+    "team_fifa_code": "RSA",
+    "position": "GK",
+    "jersey_number": 16,
+    "birth_date": "1996-12-14"
+  },
+  {
+    "name": "Evidence Makgopa",
+    "team_fifa_code": "RSA",
+    "position": "FW",
+    "jersey_number": 17,
+    "birth_date": "2000-06-05"
+  },
+  {
+    "name": "Samukele Kabini",
+    "team_fifa_code": "RSA",
+    "position": "DF",
+    "jersey_number": 18,
+    "birth_date": "2004-03-15"
+  },
+  {
+    "name": "Nkosinathi Sibisi",
+    "team_fifa_code": "RSA",
+    "position": "DF",
+    "jersey_number": 19,
+    "birth_date": "1995-09-22"
+  },
+  {
+    "name": "Khuliso Mudau",
+    "team_fifa_code": "RSA",
+    "position": "DF",
+    "jersey_number": 20,
+    "birth_date": "1995-04-26"
+  },
+  {
+    "name": "Ime Okon",
+    "team_fifa_code": "RSA",
+    "position": "DF",
+    "jersey_number": 21,
+    "birth_date": "2004-02-20"
+  },
+  {
+    "name": "Ricardo Goss",
+    "team_fifa_code": "RSA",
+    "position": "GK",
+    "jersey_number": 22,
+    "birth_date": "1994-04-02"
+  },
+  {
+    "name": "Jayden Adams",
+    "team_fifa_code": "RSA",
+    "position": "MF",
+    "jersey_number": 23,
+    "birth_date": "2001-05-05"
+  },
+  {
+    "name": "Olwethu Makhanya",
+    "team_fifa_code": "RSA",
+    "position": "DF",
+    "jersey_number": 24,
+    "birth_date": "2004-04-30"
+  },
+  {
+    "name": "Kamogelo Sebelebele",
+    "team_fifa_code": "RSA",
+    "position": "FW",
+    "jersey_number": 25,
+    "birth_date": "2002-07-21"
+  },
+  {
+    "name": "Bradley Cross",
+    "team_fifa_code": "RSA",
+    "position": "DF",
+    "jersey_number": 26,
+    "birth_date": "2001-01-30"
+  },
+  {
+    "name": "Kim Seung-gyu",
+    "team_fifa_code": "KOR",
+    "position": "GK",
+    "jersey_number": 1,
+    "birth_date": "1990-09-30"
+  },
+  {
+    "name": "Lee Han-beom",
+    "team_fifa_code": "KOR",
+    "position": "DF",
+    "jersey_number": 2,
+    "birth_date": "2002-06-17"
+  },
+  {
+    "name": "Lee Gi-hyuk",
+    "team_fifa_code": "KOR",
+    "position": "MF",
+    "jersey_number": 3,
+    "birth_date": "2000-07-07"
+  },
+  {
+    "name": "Kim Min-jae",
+    "team_fifa_code": "KOR",
+    "position": "DF",
+    "jersey_number": 4,
+    "birth_date": "1996-11-15"
+  },
+  {
+    "name": "Kim Tae-hyeon",
+    "team_fifa_code": "KOR",
+    "position": "DF",
+    "jersey_number": 5,
+    "birth_date": "2000-09-17"
+  },
+  {
+    "name": "Hwang In-beom",
+    "team_fifa_code": "KOR",
+    "position": "MF",
+    "jersey_number": 6,
+    "birth_date": "1996-09-20"
+  },
+  {
+    "name": "Son Heung-min ( captain )",
+    "team_fifa_code": "KOR",
+    "position": "FW",
+    "jersey_number": 7,
+    "birth_date": "1992-07-08"
+  },
+  {
+    "name": "Paik Seung-ho",
+    "team_fifa_code": "KOR",
+    "position": "MF",
+    "jersey_number": 8,
+    "birth_date": "1997-03-17"
+  },
+  {
+    "name": "Cho Gue-sung",
+    "team_fifa_code": "KOR",
+    "position": "FW",
+    "jersey_number": 9,
+    "birth_date": "1998-01-25"
+  },
+  {
+    "name": "Lee Jae-sung",
+    "team_fifa_code": "KOR",
+    "position": "MF",
+    "jersey_number": 10,
+    "birth_date": "1992-08-10"
+  },
+  {
+    "name": "Hwang Hee-chan",
+    "team_fifa_code": "KOR",
+    "position": "MF",
+    "jersey_number": 11,
+    "birth_date": "1996-01-26"
+  },
+  {
+    "name": "Song Bum-keun",
+    "team_fifa_code": "KOR",
+    "position": "GK",
+    "jersey_number": 12,
+    "birth_date": "1997-10-15"
+  },
+  {
+    "name": "Lee Tae-seok",
+    "team_fifa_code": "KOR",
+    "position": "DF",
+    "jersey_number": 13,
+    "birth_date": "2002-07-28"
+  },
+  {
+    "name": "Cho Wi-je",
+    "team_fifa_code": "KOR",
+    "position": "DF",
+    "jersey_number": 14,
+    "birth_date": "2001-08-25"
+  },
+  {
+    "name": "Kim Moon-hwan",
+    "team_fifa_code": "KOR",
+    "position": "DF",
+    "jersey_number": 15,
+    "birth_date": "1995-08-01"
+  },
+  {
+    "name": "Park Jin-seob",
+    "team_fifa_code": "KOR",
+    "position": "DF",
+    "jersey_number": 16,
+    "birth_date": "1995-10-23"
+  },
+  {
+    "name": "Bae Jun-ho",
+    "team_fifa_code": "KOR",
+    "position": "MF",
+    "jersey_number": 17,
+    "birth_date": "2003-08-21"
+  },
+  {
+    "name": "Oh Hyeon-gyu",
+    "team_fifa_code": "KOR",
+    "position": "FW",
+    "jersey_number": 18,
+    "birth_date": "2001-04-12"
+  },
+  {
+    "name": "Lee Kang-in",
+    "team_fifa_code": "KOR",
+    "position": "MF",
+    "jersey_number": 19,
+    "birth_date": "2001-02-19"
+  },
+  {
+    "name": "Yang Hyun-jun",
+    "team_fifa_code": "KOR",
+    "position": "MF",
+    "jersey_number": 20,
+    "birth_date": "2002-05-25"
+  },
+  {
+    "name": "Jo Hyeon-woo",
+    "team_fifa_code": "KOR",
+    "position": "GK",
+    "jersey_number": 21,
+    "birth_date": "1991-09-25"
+  },
+  {
+    "name": "Seol Young-woo",
+    "team_fifa_code": "KOR",
+    "position": "DF",
+    "jersey_number": 22,
+    "birth_date": "1998-12-05"
+  },
+  {
+    "name": "Jens Castrop",
+    "team_fifa_code": "KOR",
+    "position": "DF",
+    "jersey_number": 23,
+    "birth_date": "2003-07-29"
+  },
+  {
+    "name": "Kim Jin-gyu",
+    "team_fifa_code": "KOR",
+    "position": "MF",
+    "jersey_number": 24,
+    "birth_date": "1997-02-24"
+  },
+  {
+    "name": "Eom Ji-sung",
+    "team_fifa_code": "KOR",
+    "position": "MF",
+    "jersey_number": 25,
+    "birth_date": "2002-05-09"
+  },
+  {
+    "name": "Lee Dong-gyeong",
+    "team_fifa_code": "KOR",
+    "position": "MF",
+    "jersey_number": 26,
+    "birth_date": "1997-09-20"
+  },
+  {
+    "name": "Nikola Vasilj",
+    "team_fifa_code": "BIH",
+    "position": "GK",
+    "jersey_number": 1,
+    "birth_date": "1995-12-02"
+  },
+  {
+    "name": "Nihad Mujakić",
+    "team_fifa_code": "BIH",
+    "position": "DF",
+    "jersey_number": 2,
+    "birth_date": "1998-04-15"
+  },
+  {
+    "name": "Dennis Hadžikadunić",
+    "team_fifa_code": "BIH",
+    "position": "DF",
+    "jersey_number": 3,
+    "birth_date": "1998-07-09"
+  },
+  {
+    "name": "Tarik Muharemović",
+    "team_fifa_code": "BIH",
+    "position": "DF",
+    "jersey_number": 4,
+    "birth_date": "2003-02-28"
+  },
+  {
+    "name": "Sead Kolašinac",
+    "team_fifa_code": "BIH",
+    "position": "DF",
+    "jersey_number": 5,
+    "birth_date": "1993-06-20"
+  },
+  {
+    "name": "Benjamin Tahirović",
+    "team_fifa_code": "BIH",
+    "position": "MF",
+    "jersey_number": 6,
+    "birth_date": "2003-03-03"
+  },
+  {
+    "name": "Amar Dedić",
+    "team_fifa_code": "BIH",
+    "position": "DF",
+    "jersey_number": 7,
+    "birth_date": "2002-08-18"
+  },
+  {
+    "name": "Armin Gigović",
+    "team_fifa_code": "BIH",
+    "position": "MF",
+    "jersey_number": 8,
+    "birth_date": "2002-04-06"
+  },
+  {
+    "name": "Samed Baždar",
+    "team_fifa_code": "BIH",
+    "position": "FW",
+    "jersey_number": 9,
+    "birth_date": "2004-01-31"
+  },
+  {
+    "name": "Ermedin Demirović",
+    "team_fifa_code": "BIH",
+    "position": "FW",
+    "jersey_number": 10,
+    "birth_date": "1998-03-25"
+  },
+  {
+    "name": "Edin Džeko ( captain )",
+    "team_fifa_code": "BIH",
+    "position": "FW",
+    "jersey_number": 11,
+    "birth_date": "1986-03-17"
+  },
+  {
+    "name": "Mladen Jurkas",
+    "team_fifa_code": "BIH",
+    "position": "GK",
+    "jersey_number": 12,
+    "birth_date": "2007-10-07"
+  },
+  {
+    "name": "Ivan Bašić",
+    "team_fifa_code": "BIH",
+    "position": "MF",
+    "jersey_number": 13,
+    "birth_date": "2002-04-30"
+  },
+  {
+    "name": "Ivan Šunjić",
+    "team_fifa_code": "BIH",
+    "position": "MF",
+    "jersey_number": 14,
+    "birth_date": "1996-10-09"
+  },
+  {
+    "name": "Amar Memić",
+    "team_fifa_code": "BIH",
+    "position": "MF",
+    "jersey_number": 15,
+    "birth_date": "2001-01-20"
+  },
+  {
+    "name": "Amir Hadžiahmetović",
+    "team_fifa_code": "BIH",
+    "position": "MF",
+    "jersey_number": 16,
+    "birth_date": "1997-03-08"
+  },
+  {
+    "name": "Dženis Burnić",
+    "team_fifa_code": "BIH",
+    "position": "MF",
+    "jersey_number": 17,
+    "birth_date": "1998-05-22"
+  },
+  {
+    "name": "Nikola Katić",
+    "team_fifa_code": "BIH",
+    "position": "DF",
+    "jersey_number": 18,
+    "birth_date": "1996-10-10"
+  },
+  {
+    "name": "Kerim Alajbegović",
+    "team_fifa_code": "BIH",
+    "position": "FW",
+    "jersey_number": 19,
+    "birth_date": "2007-09-21"
+  },
+  {
+    "name": "Esmir Bajraktarević",
+    "team_fifa_code": "BIH",
+    "position": "FW",
+    "jersey_number": 20,
+    "birth_date": "2005-03-10"
+  },
+  {
+    "name": "Stjepan Radeljić",
+    "team_fifa_code": "BIH",
+    "position": "DF",
+    "jersey_number": 21,
+    "birth_date": "1997-09-05"
+  },
+  {
+    "name": "Martin Zlomislić",
+    "team_fifa_code": "BIH",
+    "position": "GK",
+    "jersey_number": 22,
+    "birth_date": "1998-08-16"
+  },
+  {
+    "name": "Haris Tabaković",
+    "team_fifa_code": "BIH",
+    "position": "FW",
+    "jersey_number": 23,
+    "birth_date": "1994-06-20"
+  },
+  {
+    "name": "Nidal Čelik",
+    "team_fifa_code": "BIH",
+    "position": "DF",
+    "jersey_number": 24,
+    "birth_date": "2006-07-17"
+  },
+  {
+    "name": "Jovo Lukić",
+    "team_fifa_code": "BIH",
+    "position": "FW",
+    "jersey_number": 25,
+    "birth_date": "1998-11-28"
+  },
+  {
+    "name": "Ermin Mahmić",
+    "team_fifa_code": "BIH",
+    "position": "MF",
+    "jersey_number": 26,
+    "birth_date": "2005-03-14"
+  },
+  {
+    "name": "Dayne St. Clair",
+    "team_fifa_code": "CAN",
+    "position": "GK",
+    "jersey_number": 1,
+    "birth_date": "1997-05-09"
+  },
+  {
+    "name": "Alistair Johnston",
+    "team_fifa_code": "CAN",
+    "position": "DF",
+    "jersey_number": 2,
+    "birth_date": "1998-10-08"
+  },
+  {
+    "name": "Alfie Jones",
+    "team_fifa_code": "CAN",
+    "position": "DF",
+    "jersey_number": 3,
+    "birth_date": "1997-10-07"
+  },
+  {
+    "name": "Luc de Fougerolles",
+    "team_fifa_code": "CAN",
+    "position": "DF",
+    "jersey_number": 4,
+    "birth_date": "2005-10-12"
+  },
+  {
+    "name": "Joel Waterman",
+    "team_fifa_code": "CAN",
+    "position": "DF",
+    "jersey_number": 5,
+    "birth_date": "1996-01-24"
+  },
+  {
+    "name": "Mathieu Choinière",
+    "team_fifa_code": "CAN",
+    "position": "MF",
+    "jersey_number": 6,
+    "birth_date": "1999-02-07"
+  },
+  {
+    "name": "Stephen Eustáquio",
+    "team_fifa_code": "CAN",
+    "position": "MF",
+    "jersey_number": 7,
+    "birth_date": "1996-12-21"
+  },
+  {
+    "name": "Ismaël Koné",
+    "team_fifa_code": "CAN",
+    "position": "MF",
+    "jersey_number": 8,
+    "birth_date": "2002-06-16"
+  },
+  {
+    "name": "Cyle Larin",
+    "team_fifa_code": "CAN",
+    "position": "FW",
+    "jersey_number": 9,
+    "birth_date": "1995-04-17"
+  },
+  {
+    "name": "Jonathan David",
+    "team_fifa_code": "CAN",
+    "position": "FW",
+    "jersey_number": 10,
+    "birth_date": "2000-01-14"
+  },
+  {
+    "name": "Liam Millar",
+    "team_fifa_code": "CAN",
+    "position": "MF",
+    "jersey_number": 11,
+    "birth_date": "1999-09-27"
+  },
+  {
+    "name": "Tani Oluwaseyi",
+    "team_fifa_code": "CAN",
+    "position": "FW",
+    "jersey_number": 12,
+    "birth_date": "2000-05-15"
+  },
+  {
+    "name": "Derek Cornelius",
+    "team_fifa_code": "CAN",
+    "position": "DF",
+    "jersey_number": 13,
+    "birth_date": "1997-11-25"
+  },
+  {
+    "name": "Jacob Shaffelburg",
+    "team_fifa_code": "CAN",
+    "position": "MF",
+    "jersey_number": 14,
+    "birth_date": "1999-11-26"
+  },
+  {
+    "name": "Moïse Bombito",
+    "team_fifa_code": "CAN",
+    "position": "DF",
+    "jersey_number": 15,
+    "birth_date": "2000-03-30"
+  },
+  {
+    "name": "Maxime Crépeau",
+    "team_fifa_code": "CAN",
+    "position": "GK",
+    "jersey_number": 16,
+    "birth_date": "1994-05-11"
+  },
+  {
+    "name": "Tajon Buchanan",
+    "team_fifa_code": "CAN",
+    "position": "FW",
+    "jersey_number": 17,
+    "birth_date": "1999-02-08"
+  },
+  {
+    "name": "Owen Goodman",
+    "team_fifa_code": "CAN",
+    "position": "GK",
+    "jersey_number": 18,
+    "birth_date": "2003-11-27"
+  },
+  {
+    "name": "Alphonso Davies ( captain )",
+    "team_fifa_code": "CAN",
+    "position": "DF",
+    "jersey_number": 19,
+    "birth_date": "2000-11-02"
+  },
+  {
+    "name": "Ali Ahmed",
+    "team_fifa_code": "CAN",
+    "position": "FW",
+    "jersey_number": 20,
+    "birth_date": "2000-10-10"
+  },
+  {
+    "name": "Jonathan Osorio",
+    "team_fifa_code": "CAN",
+    "position": "MF",
+    "jersey_number": 21,
+    "birth_date": "1992-06-12"
+  },
+  {
+    "name": "Richie Laryea",
+    "team_fifa_code": "CAN",
+    "position": "DF",
+    "jersey_number": 22,
+    "birth_date": "1995-01-07"
+  },
+  {
+    "name": "Niko Sigur",
+    "team_fifa_code": "CAN",
+    "position": "DF",
+    "jersey_number": 23,
+    "birth_date": "2003-09-09"
+  },
+  {
+    "name": "Promise David",
+    "team_fifa_code": "CAN",
+    "position": "FW",
+    "jersey_number": 24,
+    "birth_date": "2001-07-03"
+  },
+  {
+    "name": "Nathan Saliba",
+    "team_fifa_code": "CAN",
+    "position": "MF",
+    "jersey_number": 25,
+    "birth_date": "2004-02-07"
+  },
+  {
+    "name": "Mahmud Abunada",
+    "team_fifa_code": "QAT",
+    "position": "GK",
+    "jersey_number": 1,
+    "birth_date": "2000-02-05"
+  },
+  {
+    "name": "Pedro Miguel",
+    "team_fifa_code": "QAT",
+    "position": "DF",
+    "jersey_number": 2,
+    "birth_date": "1990-08-06"
+  },
+  {
+    "name": "Lucas Mendes",
+    "team_fifa_code": "QAT",
+    "position": "DF",
+    "jersey_number": 3,
+    "birth_date": "1990-07-03"
+  },
+  {
+    "name": "Issa Laye",
+    "team_fifa_code": "QAT",
+    "position": "DF",
+    "jersey_number": 4,
+    "birth_date": "1997-12-22"
+  },
+  {
+    "name": "Jassem Gaber",
+    "team_fifa_code": "QAT",
+    "position": "DF",
+    "jersey_number": 5,
+    "birth_date": "2002-02-20"
+  },
+  {
+    "name": "Abdulaziz Hatem",
+    "team_fifa_code": "QAT",
+    "position": "MF",
+    "jersey_number": 6,
+    "birth_date": "1990-01-01"
+  },
+  {
+    "name": "Ahmed Alaaeldin",
+    "team_fifa_code": "QAT",
+    "position": "FW",
+    "jersey_number": 7,
+    "birth_date": "1993-01-31"
+  },
+  {
+    "name": "Edmilson Junior",
+    "team_fifa_code": "QAT",
+    "position": "FW",
+    "jersey_number": 8,
+    "birth_date": "1994-08-19"
+  },
+  {
+    "name": "Mohammed Muntari",
+    "team_fifa_code": "QAT",
+    "position": "FW",
+    "jersey_number": 9,
+    "birth_date": "1993-12-20"
+  },
+  {
+    "name": "Hassan Al-Haydos ( captain )",
+    "team_fifa_code": "QAT",
+    "position": "FW",
+    "jersey_number": 10,
+    "birth_date": "1990-12-11"
+  },
+  {
+    "name": "Akram Afif",
+    "team_fifa_code": "QAT",
+    "position": "FW",
+    "jersey_number": 11,
+    "birth_date": "1996-11-18"
+  },
+  {
+    "name": "Karim Boudiaf",
+    "team_fifa_code": "QAT",
+    "position": "MF",
+    "jersey_number": 12,
+    "birth_date": "1990-09-16"
+  },
+  {
+    "name": "Ayoub Al-Oui",
+    "team_fifa_code": "QAT",
+    "position": "DF",
+    "jersey_number": 13,
+    "birth_date": "2005-03-11"
+  },
+  {
+    "name": "Homam Ahmed",
+    "team_fifa_code": "QAT",
+    "position": "DF",
+    "jersey_number": 14,
+    "birth_date": "1999-08-25"
+  },
+  {
+    "name": "Yusuf Abdurisag",
+    "team_fifa_code": "QAT",
+    "position": "FW",
+    "jersey_number": 15,
+    "birth_date": "1999-08-06"
+  },
+  {
+    "name": "Boualem Khoukhi",
+    "team_fifa_code": "QAT",
+    "position": "DF",
+    "jersey_number": 16,
+    "birth_date": "1990-07-09"
+  },
+  {
+    "name": "Ahmed Al-Ganehi",
+    "team_fifa_code": "QAT",
+    "position": "MF",
+    "jersey_number": 17,
+    "birth_date": "2000-09-22"
+  },
+  {
+    "name": "Sultan Al-Brake",
+    "team_fifa_code": "QAT",
+    "position": "DF",
+    "jersey_number": 18,
+    "birth_date": "1996-04-07"
+  },
+  {
+    "name": "Almoez Ali",
+    "team_fifa_code": "QAT",
+    "position": "FW",
+    "jersey_number": 19,
+    "birth_date": "1996-08-19"
+  },
+  {
+    "name": "Ahmed Fathy",
+    "team_fifa_code": "QAT",
+    "position": "MF",
+    "jersey_number": 20,
+    "birth_date": "1993-01-25"
+  },
+  {
+    "name": "Salah Zakaria",
+    "team_fifa_code": "QAT",
+    "position": "GK",
+    "jersey_number": 21,
+    "birth_date": "1999-04-24"
+  },
+  {
+    "name": "Meshaal Barsham",
+    "team_fifa_code": "QAT",
+    "position": "GK",
+    "jersey_number": 22,
+    "birth_date": "1998-02-14"
+  },
+  {
+    "name": "Assim Madibo",
+    "team_fifa_code": "QAT",
+    "position": "MF",
+    "jersey_number": 23,
+    "birth_date": "1996-10-22"
+  },
+  {
+    "name": "Tahsin Jamshid",
+    "team_fifa_code": "QAT",
+    "position": "FW",
+    "jersey_number": 24,
+    "birth_date": "2006-06-16"
+  },
+  {
+    "name": "Al-Hashmi Al-Hussain",
+    "team_fifa_code": "QAT",
+    "position": "DF",
+    "jersey_number": 25,
+    "birth_date": "2003-08-15"
+  },
+  {
+    "name": "Mohamed Manai",
+    "team_fifa_code": "QAT",
+    "position": "FW",
+    "jersey_number": 26,
+    "birth_date": "2002-10-25"
+  },
+  {
+    "name": "Gregor Kobel",
+    "team_fifa_code": "SUI",
+    "position": "GK",
+    "jersey_number": 1,
+    "birth_date": "1997-12-06"
+  },
+  {
+    "name": "Miro Muheim",
+    "team_fifa_code": "SUI",
+    "position": "DF",
+    "jersey_number": 2,
+    "birth_date": "1998-03-24"
+  },
+  {
+    "name": "Silvan Widmer",
+    "team_fifa_code": "SUI",
+    "position": "DF",
+    "jersey_number": 3,
+    "birth_date": "1993-03-05"
+  },
+  {
+    "name": "Nico Elvedi",
+    "team_fifa_code": "SUI",
+    "position": "DF",
+    "jersey_number": 4,
+    "birth_date": "1996-09-30"
+  },
+  {
+    "name": "Manuel Akanji",
+    "team_fifa_code": "SUI",
+    "position": "DF",
+    "jersey_number": 5,
+    "birth_date": "1995-07-19"
+  },
+  {
+    "name": "Denis Zakaria",
+    "team_fifa_code": "SUI",
+    "position": "MF",
+    "jersey_number": 6,
+    "birth_date": "1996-11-20"
+  },
+  {
+    "name": "Breel Embolo",
+    "team_fifa_code": "SUI",
+    "position": "FW",
+    "jersey_number": 7,
+    "birth_date": "1997-02-14"
+  },
+  {
+    "name": "Remo Freuler",
+    "team_fifa_code": "SUI",
+    "position": "MF",
+    "jersey_number": 8,
+    "birth_date": "1992-04-15"
+  },
+  {
+    "name": "Johan Manzambi",
+    "team_fifa_code": "SUI",
+    "position": "MF",
+    "jersey_number": 9,
+    "birth_date": "2005-10-14"
+  },
+  {
+    "name": "Granit Xhaka ( captain )",
+    "team_fifa_code": "SUI",
+    "position": "MF",
+    "jersey_number": 10,
+    "birth_date": "1992-09-27"
+  },
+  {
+    "name": "Dan Ndoye",
+    "team_fifa_code": "SUI",
+    "position": "FW",
+    "jersey_number": 11,
+    "birth_date": "2000-10-25"
+  },
+  {
+    "name": "Yvon Mvogo",
+    "team_fifa_code": "SUI",
+    "position": "GK",
+    "jersey_number": 12,
+    "birth_date": "1994-06-06"
+  },
+  {
+    "name": "Ricardo Rodriguez",
+    "team_fifa_code": "SUI",
+    "position": "DF",
+    "jersey_number": 13,
+    "birth_date": "1992-08-25"
+  },
+  {
+    "name": "Ardon Jashari",
+    "team_fifa_code": "SUI",
+    "position": "MF",
+    "jersey_number": 14,
+    "birth_date": "2002-07-30"
+  },
+  {
+    "name": "Djibril Sow",
+    "team_fifa_code": "SUI",
+    "position": "MF",
+    "jersey_number": 15,
+    "birth_date": "1997-02-06"
+  },
+  {
+    "name": "Christian Fassnacht",
+    "team_fifa_code": "SUI",
+    "position": "FW",
+    "jersey_number": 16,
+    "birth_date": "1993-11-11"
+  },
+  {
+    "name": "Rubén Vargas",
+    "team_fifa_code": "SUI",
+    "position": "FW",
+    "jersey_number": 17,
+    "birth_date": "1998-08-05"
+  },
+  {
+    "name": "Eray Cömert",
+    "team_fifa_code": "SUI",
+    "position": "DF",
+    "jersey_number": 18,
+    "birth_date": "1998-02-04"
+  },
+  {
+    "name": "Noah Okafor",
+    "team_fifa_code": "SUI",
+    "position": "FW",
+    "jersey_number": 19,
+    "birth_date": "2000-05-24"
+  },
+  {
+    "name": "Michel Aebischer",
+    "team_fifa_code": "SUI",
+    "position": "MF",
+    "jersey_number": 20,
+    "birth_date": "1997-01-06"
+  },
+  {
+    "name": "Marvin Keller",
+    "team_fifa_code": "SUI",
+    "position": "GK",
+    "jersey_number": 21,
+    "birth_date": "2002-07-03"
+  },
+  {
+    "name": "Fabian Rieder",
+    "team_fifa_code": "SUI",
+    "position": "MF",
+    "jersey_number": 22,
+    "birth_date": "2002-02-16"
+  },
+  {
+    "name": "Zeki Amdouni",
+    "team_fifa_code": "SUI",
+    "position": "FW",
+    "jersey_number": 23,
+    "birth_date": "2000-12-04"
+  },
+  {
+    "name": "Aurèle Amenda",
+    "team_fifa_code": "SUI",
+    "position": "DF",
+    "jersey_number": 24,
+    "birth_date": "2003-07-31"
+  },
+  {
+    "name": "Luca Jaquez",
+    "team_fifa_code": "SUI",
+    "position": "DF",
+    "jersey_number": 25,
+    "birth_date": "2003-06-02"
+  },
+  {
+    "name": "Cedric Itten",
+    "team_fifa_code": "SUI",
+    "position": "FW",
+    "jersey_number": 26,
+    "birth_date": "1996-12-27"
+  },
+  {
+    "name": "Alisson",
+    "team_fifa_code": "BRA",
+    "position": "GK",
+    "jersey_number": 1,
+    "birth_date": "1992-10-02"
+  },
+  {
+    "name": "Wesley",
+    "team_fifa_code": "BRA",
+    "position": "DF",
+    "jersey_number": 2,
+    "birth_date": "2003-09-06"
+  },
+  {
+    "name": "Gabriel Magalhães",
+    "team_fifa_code": "BRA",
+    "position": "DF",
+    "jersey_number": 3,
+    "birth_date": "1997-12-19"
+  },
+  {
+    "name": "Marquinhos ( captain )",
+    "team_fifa_code": "BRA",
+    "position": "DF",
+    "jersey_number": 4,
+    "birth_date": "1994-05-14"
+  },
+  {
+    "name": "Casemiro",
+    "team_fifa_code": "BRA",
+    "position": "MF",
+    "jersey_number": 5,
+    "birth_date": "1992-02-23"
+  },
+  {
+    "name": "Alex Sandro",
+    "team_fifa_code": "BRA",
+    "position": "DF",
+    "jersey_number": 6,
+    "birth_date": "1991-01-26"
+  },
+  {
+    "name": "Vinícius Júnior",
+    "team_fifa_code": "BRA",
+    "position": "FW",
+    "jersey_number": 7,
+    "birth_date": "2000-07-12"
+  },
+  {
+    "name": "Bruno Guimarães",
+    "team_fifa_code": "BRA",
+    "position": "MF",
+    "jersey_number": 8,
+    "birth_date": "1997-11-16"
+  },
+  {
+    "name": "Matheus Cunha",
+    "team_fifa_code": "BRA",
+    "position": "FW",
+    "jersey_number": 9,
+    "birth_date": "1999-05-27"
+  },
+  {
+    "name": "Neymar",
+    "team_fifa_code": "BRA",
+    "position": "FW",
+    "jersey_number": 10,
+    "birth_date": "1992-02-05"
+  },
+  {
+    "name": "Raphinha",
+    "team_fifa_code": "BRA",
+    "position": "FW",
+    "jersey_number": 11,
+    "birth_date": "1996-12-14"
+  },
+  {
+    "name": "Weverton",
+    "team_fifa_code": "BRA",
+    "position": "GK",
+    "jersey_number": 12,
+    "birth_date": "1987-12-13"
+  },
+  {
+    "name": "Danilo Luiz",
+    "team_fifa_code": "BRA",
+    "position": "DF",
+    "jersey_number": 13,
+    "birth_date": "1991-07-15"
+  },
+  {
+    "name": "Bremer",
+    "team_fifa_code": "BRA",
+    "position": "DF",
+    "jersey_number": 14,
+    "birth_date": "1997-03-18"
+  },
+  {
+    "name": "Léo Pereira",
+    "team_fifa_code": "BRA",
+    "position": "DF",
+    "jersey_number": 15,
+    "birth_date": "1996-01-31"
+  },
+  {
+    "name": "Douglas Santos",
+    "team_fifa_code": "BRA",
+    "position": "DF",
+    "jersey_number": 16,
+    "birth_date": "1994-03-22"
+  },
+  {
+    "name": "Fabinho",
+    "team_fifa_code": "BRA",
+    "position": "MF",
+    "jersey_number": 17,
+    "birth_date": "1993-10-23"
+  },
+  {
+    "name": "Danilo Santos",
+    "team_fifa_code": "BRA",
+    "position": "MF",
+    "jersey_number": 18,
+    "birth_date": "2001-04-29"
+  },
+  {
+    "name": "Endrick",
+    "team_fifa_code": "BRA",
+    "position": "FW",
+    "jersey_number": 19,
+    "birth_date": "2006-07-21"
+  },
+  {
+    "name": "Lucas Paquetá",
+    "team_fifa_code": "BRA",
+    "position": "MF",
+    "jersey_number": 20,
+    "birth_date": "1997-08-27"
+  },
+  {
+    "name": "Luiz Henrique",
+    "team_fifa_code": "BRA",
+    "position": "FW",
+    "jersey_number": 21,
+    "birth_date": "2001-01-02"
+  },
+  {
+    "name": "Gabriel Martinelli",
+    "team_fifa_code": "BRA",
+    "position": "FW",
+    "jersey_number": 22,
+    "birth_date": "2001-06-18"
+  },
+  {
+    "name": "Ederson",
+    "team_fifa_code": "BRA",
+    "position": "GK",
+    "jersey_number": 23,
+    "birth_date": "1993-08-17"
+  },
+  {
+    "name": "Roger Ibañez",
+    "team_fifa_code": "BRA",
+    "position": "DF",
+    "jersey_number": 24,
+    "birth_date": "1998-11-23"
+  },
+  {
+    "name": "Igor Thiago",
+    "team_fifa_code": "BRA",
+    "position": "FW",
+    "jersey_number": 25,
+    "birth_date": "2001-06-26"
+  },
+  {
+    "name": "Rayan",
+    "team_fifa_code": "BRA",
+    "position": "FW",
+    "jersey_number": 26,
+    "birth_date": "2006-08-03"
+  },
+  {
+    "name": "Yassine Bounou",
+    "team_fifa_code": "MAR",
+    "position": "GK",
+    "jersey_number": 1,
+    "birth_date": "1991-04-05"
+  },
+  {
+    "name": "Achraf Hakimi ( captain )",
+    "team_fifa_code": "MAR",
+    "position": "DF",
+    "jersey_number": 2,
+    "birth_date": "1998-11-04"
+  },
+  {
+    "name": "Noussair Mazraoui",
+    "team_fifa_code": "MAR",
+    "position": "DF",
+    "jersey_number": 3,
+    "birth_date": "1997-11-14"
+  },
+  {
+    "name": "Sofyan Amrabat",
+    "team_fifa_code": "MAR",
+    "position": "MF",
+    "jersey_number": 4,
+    "birth_date": "1996-08-21"
+  },
+  {
+    "name": "Nayef Aguerd",
+    "team_fifa_code": "MAR",
+    "position": "DF",
+    "jersey_number": 5,
+    "birth_date": "1996-03-30"
+  },
+  {
+    "name": "Ayyoub Bouaddi",
+    "team_fifa_code": "MAR",
+    "position": "MF",
+    "jersey_number": 6,
+    "birth_date": "2007-10-02"
+  },
+  {
+    "name": "Chemsdine Talbi",
+    "team_fifa_code": "MAR",
+    "position": "MF",
+    "jersey_number": 7,
+    "birth_date": "2005-05-09"
+  },
+  {
+    "name": "Azzedine Ounahi",
+    "team_fifa_code": "MAR",
+    "position": "MF",
+    "jersey_number": 8,
+    "birth_date": "2000-04-19"
+  },
+  {
+    "name": "Soufiane Rahimi",
+    "team_fifa_code": "MAR",
+    "position": "FW",
+    "jersey_number": 9,
+    "birth_date": "1996-06-02"
+  },
+  {
+    "name": "Brahim Díaz",
+    "team_fifa_code": "MAR",
+    "position": "FW",
+    "jersey_number": 10,
+    "birth_date": "1999-08-03"
+  },
+  {
+    "name": "Ismael Saibari",
+    "team_fifa_code": "MAR",
+    "position": "MF",
+    "jersey_number": 11,
+    "birth_date": "2001-01-28"
+  },
+  {
+    "name": "Munir Mohamedi",
+    "team_fifa_code": "MAR",
+    "position": "GK",
+    "jersey_number": 12,
+    "birth_date": "1989-05-10"
+  },
+  {
+    "name": "Zakaria El Ouahdi",
+    "team_fifa_code": "MAR",
+    "position": "DF",
+    "jersey_number": 13,
+    "birth_date": "2001-12-31"
+  },
+  {
+    "name": "Issa Diop",
+    "team_fifa_code": "MAR",
+    "position": "DF",
+    "jersey_number": 14,
+    "birth_date": "1997-01-09"
+  },
+  {
+    "name": "Samir El Mourabet",
+    "team_fifa_code": "MAR",
+    "position": "MF",
+    "jersey_number": 15,
+    "birth_date": "2005-10-06"
+  },
+  {
+    "name": "Gessime Yassine",
+    "team_fifa_code": "MAR",
+    "position": "MF",
+    "jersey_number": 16,
+    "birth_date": "2005-11-22"
+  },
+  {
+    "name": "Abde Ezzalzouli",
+    "team_fifa_code": "MAR",
+    "position": "FW",
+    "jersey_number": 17,
+    "birth_date": "2001-12-17"
+  },
+  {
+    "name": "Chadi Riad",
+    "team_fifa_code": "MAR",
+    "position": "DF",
+    "jersey_number": 18,
+    "birth_date": "2003-06-17"
+  },
+  {
+    "name": "Youssef Belammari",
+    "team_fifa_code": "MAR",
+    "position": "DF",
+    "jersey_number": 19,
+    "birth_date": "1998-09-20"
+  },
+  {
+    "name": "Ayoub El Kaabi",
+    "team_fifa_code": "MAR",
+    "position": "FW",
+    "jersey_number": 20,
+    "birth_date": "1993-06-25"
+  },
+  {
+    "name": "Ayoube Amaimouni",
+    "team_fifa_code": "MAR",
+    "position": "FW",
+    "jersey_number": 21,
+    "birth_date": "2004-11-30"
+  },
+  {
+    "name": "Ahmed Reda Tagnaouti",
+    "team_fifa_code": "MAR",
+    "position": "GK",
+    "jersey_number": 22,
+    "birth_date": "1996-04-05"
+  },
+  {
+    "name": "Bilal El Khannouss",
+    "team_fifa_code": "MAR",
+    "position": "MF",
+    "jersey_number": 23,
+    "birth_date": "2004-05-10"
+  },
+  {
+    "name": "Neil El Aynaoui",
+    "team_fifa_code": "MAR",
+    "position": "MF",
+    "jersey_number": 24,
+    "birth_date": "2001-07-02"
+  },
+  {
+    "name": "Redouane Halhal",
+    "team_fifa_code": "MAR",
+    "position": "DF",
+    "jersey_number": 25,
+    "birth_date": "2003-03-05"
+  },
+  {
+    "name": "Anass Salah-Eddine",
+    "team_fifa_code": "MAR",
+    "position": "DF",
+    "jersey_number": 26,
+    "birth_date": "2002-01-18"
+  },
+  {
+    "name": "Mathew Ryan ( captain )",
+    "team_fifa_code": "AUS",
+    "position": "GK",
+    "jersey_number": 1,
+    "birth_date": "1992-04-08"
+  },
+  {
+    "name": "Miloš Degenek",
+    "team_fifa_code": "AUS",
+    "position": "DF",
+    "jersey_number": 2,
+    "birth_date": "1994-04-28"
+  },
+  {
+    "name": "Alessandro Circati",
+    "team_fifa_code": "AUS",
+    "position": "DF",
+    "jersey_number": 3,
+    "birth_date": "2003-10-10"
+  },
+  {
+    "name": "Jacob Italiano",
+    "team_fifa_code": "AUS",
+    "position": "DF",
+    "jersey_number": 4,
+    "birth_date": "2001-07-30"
+  },
+  {
+    "name": "Jordan Bos",
+    "team_fifa_code": "AUS",
+    "position": "DF",
+    "jersey_number": 5,
+    "birth_date": "2002-10-29"
+  },
+  {
+    "name": "Jason Geria",
+    "team_fifa_code": "AUS",
+    "position": "DF",
+    "jersey_number": 6,
+    "birth_date": "1993-05-10"
+  },
+  {
+    "name": "Mathew Leckie",
+    "team_fifa_code": "AUS",
+    "position": "FW",
+    "jersey_number": 7,
+    "birth_date": "1991-02-04"
+  },
+  {
+    "name": "Connor Metcalfe",
+    "team_fifa_code": "AUS",
+    "position": "MF",
+    "jersey_number": 8,
+    "birth_date": "1999-11-05"
+  },
+  {
+    "name": "Mohamed Touré",
+    "team_fifa_code": "AUS",
+    "position": "FW",
+    "jersey_number": 9,
+    "birth_date": "2004-03-26"
+  },
+  {
+    "name": "Ajdin Hrustic",
+    "team_fifa_code": "AUS",
+    "position": "FW",
+    "jersey_number": 10,
+    "birth_date": "1996-07-05"
+  },
+  {
+    "name": "Awer Mabil",
+    "team_fifa_code": "AUS",
+    "position": "FW",
+    "jersey_number": 11,
+    "birth_date": "1995-09-15"
+  },
+  {
+    "name": "Paul Izzo",
+    "team_fifa_code": "AUS",
+    "position": "GK",
+    "jersey_number": 12,
+    "birth_date": "1995-01-06"
+  },
+  {
+    "name": "Aiden O'Neill",
+    "team_fifa_code": "AUS",
+    "position": "MF",
+    "jersey_number": 13,
+    "birth_date": "1998-07-04"
+  },
+  {
+    "name": "Cammy Devlin",
+    "team_fifa_code": "AUS",
+    "position": "MF",
+    "jersey_number": 14,
+    "birth_date": "1998-06-07"
+  },
+  {
+    "name": "Kai Trewin",
+    "team_fifa_code": "AUS",
+    "position": "DF",
+    "jersey_number": 15,
+    "birth_date": "2001-05-18"
+  },
+  {
+    "name": "Aziz Behich",
+    "team_fifa_code": "AUS",
+    "position": "DF",
+    "jersey_number": 16,
+    "birth_date": "1990-12-16"
+  },
+  {
+    "name": "Nestory Irankunda",
+    "team_fifa_code": "AUS",
+    "position": "FW",
+    "jersey_number": 17,
+    "birth_date": "2006-02-09"
+  },
+  {
+    "name": "Patrick Beach",
+    "team_fifa_code": "AUS",
+    "position": "GK",
+    "jersey_number": 18,
+    "birth_date": "2003-08-06"
+  },
+  {
+    "name": "Harry Souttar",
+    "team_fifa_code": "AUS",
+    "position": "DF",
+    "jersey_number": 19,
+    "birth_date": "1998-10-22"
+  },
+  {
+    "name": "Cristian Volpato",
+    "team_fifa_code": "AUS",
+    "position": "FW",
+    "jersey_number": 20,
+    "birth_date": "2003-11-15"
+  },
+  {
+    "name": "Cameron Burgess",
+    "team_fifa_code": "AUS",
+    "position": "DF",
+    "jersey_number": 21,
+    "birth_date": "1995-10-21"
+  },
+  {
+    "name": "Jackson Irvine",
+    "team_fifa_code": "AUS",
+    "position": "MF",
+    "jersey_number": 22,
+    "birth_date": "1993-03-07"
+  },
+  {
+    "name": "Nishan Velupillay",
+    "team_fifa_code": "AUS",
+    "position": "FW",
+    "jersey_number": 23,
+    "birth_date": "2001-05-07"
+  },
+  {
+    "name": "Paul Okon-Engstler",
+    "team_fifa_code": "AUS",
+    "position": "MF",
+    "jersey_number": 24,
+    "birth_date": "2005-01-24"
+  },
+  {
+    "name": "Lucas Herrington",
+    "team_fifa_code": "AUS",
+    "position": "DF",
+    "jersey_number": 25,
+    "birth_date": "2007-09-05"
+  },
+  {
+    "name": "Tete Yengi",
+    "team_fifa_code": "AUS",
+    "position": "FW",
+    "jersey_number": 26,
+    "birth_date": "2000-11-28"
+  },
+  {
+    "name": "Gatito Fernández",
+    "team_fifa_code": "PAR",
+    "position": "GK",
+    "jersey_number": 1,
+    "birth_date": "1988-03-29"
+  },
+  {
+    "name": "Gustavo Velázquez",
+    "team_fifa_code": "PAR",
+    "position": "DF",
+    "jersey_number": 2,
+    "birth_date": "1991-04-17"
+  },
+  {
+    "name": "Omar Alderete",
+    "team_fifa_code": "PAR",
+    "position": "DF",
+    "jersey_number": 3,
+    "birth_date": "1996-12-26"
+  },
+  {
+    "name": "Juan José Cáceres",
+    "team_fifa_code": "PAR",
+    "position": "DF",
+    "jersey_number": 4,
+    "birth_date": "2000-06-01"
+  },
+  {
+    "name": "Fabián Balbuena",
+    "team_fifa_code": "PAR",
+    "position": "DF",
+    "jersey_number": 5,
+    "birth_date": "1991-08-23"
+  },
+  {
+    "name": "Júnior Alonso",
+    "team_fifa_code": "PAR",
+    "position": "DF",
+    "jersey_number": 6,
+    "birth_date": "1993-02-09"
+  },
+  {
+    "name": "Ramón Sosa",
+    "team_fifa_code": "PAR",
+    "position": "MF",
+    "jersey_number": 7,
+    "birth_date": "1999-08-31"
+  },
+  {
+    "name": "Diego Gómez",
+    "team_fifa_code": "PAR",
+    "position": "MF",
+    "jersey_number": 8,
+    "birth_date": "2003-03-27"
+  },
+  {
+    "name": "Antonio Sanabria",
+    "team_fifa_code": "PAR",
+    "position": "FW",
+    "jersey_number": 9,
+    "birth_date": "1996-03-04"
+  },
+  {
+    "name": "Miguel Almirón",
+    "team_fifa_code": "PAR",
+    "position": "MF",
+    "jersey_number": 10,
+    "birth_date": "1994-02-10"
+  },
+  {
+    "name": "Maurício",
+    "team_fifa_code": "PAR",
+    "position": "MF",
+    "jersey_number": 11,
+    "birth_date": "2001-06-22"
+  },
+  {
+    "name": "Orlando Gill",
+    "team_fifa_code": "PAR",
+    "position": "GK",
+    "jersey_number": 12,
+    "birth_date": "2000-06-11"
+  },
+  {
+    "name": "José Canale",
+    "team_fifa_code": "PAR",
+    "position": "DF",
+    "jersey_number": 13,
+    "birth_date": "1996-07-20"
+  },
+  {
+    "name": "Andrés Cubas",
+    "team_fifa_code": "PAR",
+    "position": "MF",
+    "jersey_number": 14,
+    "birth_date": "1996-05-11"
+  },
+  {
+    "name": "Gustavo Gómez ( captain )",
+    "team_fifa_code": "PAR",
+    "position": "DF",
+    "jersey_number": 15,
+    "birth_date": "1993-05-06"
+  },
+  {
+    "name": "Damián Bobadilla",
+    "team_fifa_code": "PAR",
+    "position": "MF",
+    "jersey_number": 16,
+    "birth_date": "2001-07-11"
+  },
+  {
+    "name": "Kaku",
+    "team_fifa_code": "PAR",
+    "position": "FW",
+    "jersey_number": 17,
+    "birth_date": "1995-01-11"
+  },
+  {
+    "name": "Álex Arce",
+    "team_fifa_code": "PAR",
+    "position": "FW",
+    "jersey_number": 18,
+    "birth_date": "1995-06-16"
+  },
+  {
+    "name": "Julio Enciso",
+    "team_fifa_code": "PAR",
+    "position": "FW",
+    "jersey_number": 19,
+    "birth_date": "2004-01-23"
+  },
+  {
+    "name": "Braian Ojeda",
+    "team_fifa_code": "PAR",
+    "position": "MF",
+    "jersey_number": 20,
+    "birth_date": "2000-06-27"
+  },
+  {
+    "name": "Gabriel Ávalos",
+    "team_fifa_code": "PAR",
+    "position": "FW",
+    "jersey_number": 21,
+    "birth_date": "1990-10-12"
+  },
+  {
+    "name": "Gastón Olveira",
+    "team_fifa_code": "PAR",
+    "position": "GK",
+    "jersey_number": 22,
+    "birth_date": "1993-04-21"
+  },
+  {
+    "name": "Matías Galarza",
+    "team_fifa_code": "PAR",
+    "position": "MF",
+    "jersey_number": 23,
+    "birth_date": "2002-02-11"
+  },
+  {
+    "name": "Gustavo Caballero",
+    "team_fifa_code": "PAR",
+    "position": "MF",
+    "jersey_number": 24,
+    "birth_date": "2001-09-21"
+  },
+  {
+    "name": "Isidro Pitta",
+    "team_fifa_code": "PAR",
+    "position": "FW",
+    "jersey_number": 25,
+    "birth_date": "1999-08-14"
+  },
+  {
+    "name": "Alexandro Maidana",
+    "team_fifa_code": "PAR",
+    "position": "DF",
+    "jersey_number": 26,
+    "birth_date": "2005-07-26"
+  },
+  {
+    "name": "Mert Günok",
+    "team_fifa_code": "TUR",
+    "position": "GK",
+    "jersey_number": 1,
+    "birth_date": "1989-03-01"
+  },
+  {
+    "name": "Zeki Çelik",
+    "team_fifa_code": "TUR",
+    "position": "DF",
+    "jersey_number": 2,
+    "birth_date": "1997-02-17"
+  },
+  {
+    "name": "Merih Demiral",
+    "team_fifa_code": "TUR",
+    "position": "DF",
+    "jersey_number": 3,
+    "birth_date": "1998-03-05"
+  },
+  {
+    "name": "Çağlar Söyüncü",
+    "team_fifa_code": "TUR",
+    "position": "DF",
+    "jersey_number": 4,
+    "birth_date": "1996-05-23"
+  },
+  {
+    "name": "Salih Özcan",
+    "team_fifa_code": "TUR",
+    "position": "MF",
+    "jersey_number": 5,
+    "birth_date": "1998-01-11"
+  },
+  {
+    "name": "Orkun Kökçü",
+    "team_fifa_code": "TUR",
+    "position": "MF",
+    "jersey_number": 6,
+    "birth_date": "2000-12-29"
+  },
+  {
+    "name": "Kerem Aktürkoğlu",
+    "team_fifa_code": "TUR",
+    "position": "FW",
+    "jersey_number": 7,
+    "birth_date": "1998-10-21"
+  },
+  {
+    "name": "Arda Güler",
+    "team_fifa_code": "TUR",
+    "position": "FW",
+    "jersey_number": 8,
+    "birth_date": "2005-02-25"
+  },
+  {
+    "name": "Deniz Gül",
+    "team_fifa_code": "TUR",
+    "position": "FW",
+    "jersey_number": 9,
+    "birth_date": "2004-07-02"
+  },
+  {
+    "name": "Hakan Çalhanoğlu ( captain )",
+    "team_fifa_code": "TUR",
+    "position": "MF",
+    "jersey_number": 10,
+    "birth_date": "1994-02-08"
+  },
+  {
+    "name": "Kenan Yıldız",
+    "team_fifa_code": "TUR",
+    "position": "FW",
+    "jersey_number": 11,
+    "birth_date": "2005-05-04"
+  },
+  {
+    "name": "Altay Bayındır",
+    "team_fifa_code": "TUR",
+    "position": "GK",
+    "jersey_number": 12,
+    "birth_date": "1998-04-14"
+  },
+  {
+    "name": "Eren Elmalı",
+    "team_fifa_code": "TUR",
+    "position": "DF",
+    "jersey_number": 13,
+    "birth_date": "2000-07-07"
+  },
+  {
+    "name": "Abdülkerim Bardakcı",
+    "team_fifa_code": "TUR",
+    "position": "DF",
+    "jersey_number": 14,
+    "birth_date": "1994-09-07"
+  },
+  {
+    "name": "Ozan Kabak",
+    "team_fifa_code": "TUR",
+    "position": "DF",
+    "jersey_number": 15,
+    "birth_date": "2000-03-25"
+  },
+  {
+    "name": "İsmail Yüksek",
+    "team_fifa_code": "TUR",
+    "position": "MF",
+    "jersey_number": 16,
+    "birth_date": "1999-01-26"
+  },
+  {
+    "name": "İrfan Can Kahveci",
+    "team_fifa_code": "TUR",
+    "position": "FW",
+    "jersey_number": 17,
+    "birth_date": "1995-07-15"
+  },
+  {
+    "name": "Mert Müldür",
+    "team_fifa_code": "TUR",
+    "position": "DF",
+    "jersey_number": 18,
+    "birth_date": "1999-04-03"
+  },
+  {
+    "name": "Yunus Akgün",
+    "team_fifa_code": "TUR",
+    "position": "FW",
+    "jersey_number": 19,
+    "birth_date": "2000-07-07"
+  },
+  {
+    "name": "Ferdi Kadıoğlu",
+    "team_fifa_code": "TUR",
+    "position": "DF",
+    "jersey_number": 20,
+    "birth_date": "1999-10-07"
+  },
+  {
+    "name": "Barış Alper Yılmaz",
+    "team_fifa_code": "TUR",
+    "position": "FW",
+    "jersey_number": 21,
+    "birth_date": "2000-05-23"
+  },
+  {
+    "name": "Kaan Ayhan",
+    "team_fifa_code": "TUR",
+    "position": "MF",
+    "jersey_number": 22,
+    "birth_date": "1994-11-10"
+  },
+  {
+    "name": "Uğurcan Çakır",
+    "team_fifa_code": "TUR",
+    "position": "GK",
+    "jersey_number": 23,
+    "birth_date": "1996-04-05"
+  },
+  {
+    "name": "Oğuz Aydın",
+    "team_fifa_code": "TUR",
+    "position": "FW",
+    "jersey_number": 24,
+    "birth_date": "2000-10-27"
+  },
+  {
+    "name": "Samet Akaydin",
+    "team_fifa_code": "TUR",
+    "position": "DF",
+    "jersey_number": 25,
+    "birth_date": "1994-03-13"
+  },
+  {
+    "name": "Can Uzun",
+    "team_fifa_code": "TUR",
+    "position": "FW",
+    "jersey_number": 26,
+    "birth_date": "2005-11-11"
+  },
+  {
+    "name": "Matt Turner",
+    "team_fifa_code": "USA",
+    "position": "GK",
+    "jersey_number": 1,
+    "birth_date": "1994-06-24"
+  },
+  {
+    "name": "Sergiño Dest",
+    "team_fifa_code": "USA",
+    "position": "DF",
+    "jersey_number": 2,
+    "birth_date": "2000-11-03"
+  },
+  {
+    "name": "Chris Richards",
+    "team_fifa_code": "USA",
+    "position": "DF",
+    "jersey_number": 3,
+    "birth_date": "2000-03-28"
+  },
+  {
+    "name": "Tyler Adams",
+    "team_fifa_code": "USA",
+    "position": "MF",
+    "jersey_number": 4,
+    "birth_date": "1999-02-14"
+  },
+  {
+    "name": "Antonee Robinson",
+    "team_fifa_code": "USA",
+    "position": "DF",
+    "jersey_number": 5,
+    "birth_date": "1997-08-08"
+  },
+  {
+    "name": "Auston Trusty",
+    "team_fifa_code": "USA",
+    "position": "DF",
+    "jersey_number": 6,
+    "birth_date": "1998-08-12"
+  },
+  {
+    "name": "Giovanni Reyna",
+    "team_fifa_code": "USA",
+    "position": "MF",
+    "jersey_number": 7,
+    "birth_date": "2002-11-13"
+  },
+  {
+    "name": "Weston McKennie",
+    "team_fifa_code": "USA",
+    "position": "MF",
+    "jersey_number": 8,
+    "birth_date": "1998-08-28"
+  },
+  {
+    "name": "Ricardo Pepi",
+    "team_fifa_code": "USA",
+    "position": "FW",
+    "jersey_number": 9,
+    "birth_date": "2003-01-09"
+  },
+  {
+    "name": "Christian Pulisic",
+    "team_fifa_code": "USA",
+    "position": "FW",
+    "jersey_number": 10,
+    "birth_date": "1998-09-18"
+  },
+  {
+    "name": "Brenden Aaronson",
+    "team_fifa_code": "USA",
+    "position": "FW",
+    "jersey_number": 11,
+    "birth_date": "2000-10-22"
+  },
+  {
+    "name": "Miles Robinson",
+    "team_fifa_code": "USA",
+    "position": "DF",
+    "jersey_number": 12,
+    "birth_date": "1997-03-14"
+  },
+  {
+    "name": "Tim Ream ( captain )",
+    "team_fifa_code": "USA",
+    "position": "DF",
+    "jersey_number": 13,
+    "birth_date": "1987-10-05"
+  },
+  {
+    "name": "Sebastian Berhalter",
+    "team_fifa_code": "USA",
+    "position": "MF",
+    "jersey_number": 14,
+    "birth_date": "2001-05-10"
+  },
+  {
+    "name": "Cristian Roldan",
+    "team_fifa_code": "USA",
+    "position": "MF",
+    "jersey_number": 15,
+    "birth_date": "1995-06-03"
+  },
+  {
+    "name": "Alex Freeman",
+    "team_fifa_code": "USA",
+    "position": "DF",
+    "jersey_number": 16,
+    "birth_date": "2004-08-09"
+  },
+  {
+    "name": "Malik Tillman",
+    "team_fifa_code": "USA",
+    "position": "MF",
+    "jersey_number": 17,
+    "birth_date": "2002-05-28"
+  },
+  {
+    "name": "Maximilian Arfsten",
+    "team_fifa_code": "USA",
+    "position": "DF",
+    "jersey_number": 18,
+    "birth_date": "2001-04-19"
+  },
+  {
+    "name": "Haji Wright",
+    "team_fifa_code": "USA",
+    "position": "FW",
+    "jersey_number": 19,
+    "birth_date": "1998-03-27"
+  },
+  {
+    "name": "Folarin Balogun",
+    "team_fifa_code": "USA",
+    "position": "FW",
+    "jersey_number": 20,
+    "birth_date": "2001-07-03"
+  },
+  {
+    "name": "Timothy Weah",
+    "team_fifa_code": "USA",
+    "position": "FW",
+    "jersey_number": 21,
+    "birth_date": "2000-02-22"
+  },
+  {
+    "name": "Mark McKenzie",
+    "team_fifa_code": "USA",
+    "position": "DF",
+    "jersey_number": 22,
+    "birth_date": "1999-02-25"
+  },
+  {
+    "name": "Joe Scally",
+    "team_fifa_code": "USA",
+    "position": "DF",
+    "jersey_number": 23,
+    "birth_date": "2002-12-31"
+  },
+  {
+    "name": "Matt Freese",
+    "team_fifa_code": "USA",
+    "position": "GK",
+    "jersey_number": 24,
+    "birth_date": "1998-09-02"
+  },
+  {
+    "name": "Chris Brady",
+    "team_fifa_code": "USA",
+    "position": "GK",
+    "jersey_number": 25,
+    "birth_date": "2004-03-03"
+  },
+  {
+    "name": "Alejandro Zendejas",
+    "team_fifa_code": "USA",
+    "position": "FW",
+    "jersey_number": 26,
+    "birth_date": "1998-02-07"
+  },
+  {
+    "name": "Hernán Galíndez",
+    "team_fifa_code": "ECU",
+    "position": "GK",
+    "jersey_number": 1,
+    "birth_date": "1987-03-30"
+  },
+  {
+    "name": "Félix Torres",
+    "team_fifa_code": "ECU",
+    "position": "DF",
+    "jersey_number": 2,
+    "birth_date": "1997-01-11"
+  },
+  {
+    "name": "Piero Hincapié",
+    "team_fifa_code": "ECU",
+    "position": "DF",
+    "jersey_number": 3,
+    "birth_date": "2002-01-09"
+  },
+  {
+    "name": "Joel Ordóñez",
+    "team_fifa_code": "ECU",
+    "position": "DF",
+    "jersey_number": 4,
+    "birth_date": "2004-04-21"
+  },
+  {
+    "name": "Jordy Alcívar",
+    "team_fifa_code": "ECU",
+    "position": "MF",
+    "jersey_number": 5,
+    "birth_date": "1999-08-05"
+  },
+  {
+    "name": "Willian Pacho",
+    "team_fifa_code": "ECU",
+    "position": "DF",
+    "jersey_number": 6,
+    "birth_date": "2001-10-16"
+  },
+  {
+    "name": "Pervis Estupiñán",
+    "team_fifa_code": "ECU",
+    "position": "DF",
+    "jersey_number": 7,
+    "birth_date": "1998-01-21"
+  },
+  {
+    "name": "Anthony Valencia",
+    "team_fifa_code": "ECU",
+    "position": "MF",
+    "jersey_number": 8,
+    "birth_date": "2003-07-21"
+  },
+  {
+    "name": "John Yeboah",
+    "team_fifa_code": "ECU",
+    "position": "FW",
+    "jersey_number": 9,
+    "birth_date": "2000-06-23"
+  },
+  {
+    "name": "Kendry Páez",
+    "team_fifa_code": "ECU",
+    "position": "MF",
+    "jersey_number": 10,
+    "birth_date": "2007-05-04"
+  },
+  {
+    "name": "Kevin Rodríguez",
+    "team_fifa_code": "ECU",
+    "position": "FW",
+    "jersey_number": 11,
+    "birth_date": "2000-03-04"
+  },
+  {
+    "name": "Moisés Ramírez",
+    "team_fifa_code": "ECU",
+    "position": "GK",
+    "jersey_number": 12,
+    "birth_date": "2000-09-09"
+  },
+  {
+    "name": "Enner Valencia ( captain )",
+    "team_fifa_code": "ECU",
+    "position": "FW",
+    "jersey_number": 13,
+    "birth_date": "1989-11-04"
+  },
+  {
+    "name": "Alan Minda",
+    "team_fifa_code": "ECU",
+    "position": "MF",
+    "jersey_number": 14,
+    "birth_date": "2003-05-14"
+  },
+  {
+    "name": "Pedro Vite",
+    "team_fifa_code": "ECU",
+    "position": "MF",
+    "jersey_number": 15,
+    "birth_date": "2002-03-09"
+  },
+  {
+    "name": "Jordy Caicedo",
+    "team_fifa_code": "ECU",
+    "position": "FW",
+    "jersey_number": 16,
+    "birth_date": "1997-11-18"
+  },
+  {
+    "name": "Ángelo Preciado",
+    "team_fifa_code": "ECU",
+    "position": "DF",
+    "jersey_number": 17,
+    "birth_date": "1998-02-18"
+  },
+  {
+    "name": "Denil Castillo",
+    "team_fifa_code": "ECU",
+    "position": "MF",
+    "jersey_number": 18,
+    "birth_date": "2004-03-24"
+  },
+  {
+    "name": "Gonzalo Plata",
+    "team_fifa_code": "ECU",
+    "position": "FW",
+    "jersey_number": 19,
+    "birth_date": "2000-11-01"
+  },
+  {
+    "name": "Nilson Angulo",
+    "team_fifa_code": "ECU",
+    "position": "FW",
+    "jersey_number": 20,
+    "birth_date": "2003-06-19"
+  },
+  {
+    "name": "Alan Franco",
+    "team_fifa_code": "ECU",
+    "position": "MF",
+    "jersey_number": 21,
+    "birth_date": "1998-08-21"
+  },
+  {
+    "name": "Gonzalo Valle",
+    "team_fifa_code": "ECU",
+    "position": "GK",
+    "jersey_number": 22,
+    "birth_date": "1996-02-28"
+  },
+  {
+    "name": "Moisés Caicedo",
+    "team_fifa_code": "ECU",
+    "position": "MF",
+    "jersey_number": 23,
+    "birth_date": "2001-11-02"
+  },
+  {
+    "name": "Jeremy Arévalo",
+    "team_fifa_code": "ECU",
+    "position": "FW",
+    "jersey_number": 24,
+    "birth_date": "2005-03-19"
+  },
+  {
+    "name": "Jackson Porozo",
+    "team_fifa_code": "ECU",
+    "position": "DF",
+    "jersey_number": 25,
+    "birth_date": "2000-08-04"
+  },
+  {
+    "name": "Yaimar Medina",
+    "team_fifa_code": "ECU",
+    "position": "DF",
+    "jersey_number": 26,
+    "birth_date": "2004-11-05"
+  },
+  {
+    "name": "Manuel Neuer",
+    "team_fifa_code": "GER",
+    "position": "GK",
+    "jersey_number": 1,
+    "birth_date": "1986-03-27"
+  },
+  {
+    "name": "Antonio Rüdiger",
+    "team_fifa_code": "GER",
+    "position": "DF",
+    "jersey_number": 2,
+    "birth_date": "1993-03-03"
+  },
+  {
+    "name": "Waldemar Anton",
+    "team_fifa_code": "GER",
+    "position": "DF",
+    "jersey_number": 3,
+    "birth_date": "1996-07-20"
+  },
+  {
+    "name": "Jonathan Tah",
+    "team_fifa_code": "GER",
+    "position": "DF",
+    "jersey_number": 4,
+    "birth_date": "1996-02-11"
+  },
+  {
+    "name": "Aleksandar Pavlović",
+    "team_fifa_code": "GER",
+    "position": "MF",
+    "jersey_number": 5,
+    "birth_date": "2004-05-03"
+  },
+  {
+    "name": "Joshua Kimmich ( captain )",
+    "team_fifa_code": "GER",
+    "position": "DF",
+    "jersey_number": 6,
+    "birth_date": "1995-02-08"
+  },
+  {
+    "name": "Kai Havertz",
+    "team_fifa_code": "GER",
+    "position": "FW",
+    "jersey_number": 7,
+    "birth_date": "1999-06-11"
+  },
+  {
+    "name": "Leon Goretzka",
+    "team_fifa_code": "GER",
+    "position": "MF",
+    "jersey_number": 8,
+    "birth_date": "1995-02-06"
+  },
+  {
+    "name": "Jamie Leweling",
+    "team_fifa_code": "GER",
+    "position": "MF",
+    "jersey_number": 9,
+    "birth_date": "2001-02-26"
+  },
+  {
+    "name": "Jamal Musiala",
+    "team_fifa_code": "GER",
+    "position": "MF",
+    "jersey_number": 10,
+    "birth_date": "2003-02-26"
+  },
+  {
+    "name": "Nick Woltemade",
+    "team_fifa_code": "GER",
+    "position": "FW",
+    "jersey_number": 11,
+    "birth_date": "2002-02-14"
+  },
+  {
+    "name": "Oliver Baumann",
+    "team_fifa_code": "GER",
+    "position": "GK",
+    "jersey_number": 12,
+    "birth_date": "1990-06-02"
+  },
+  {
+    "name": "Pascal Groß",
+    "team_fifa_code": "GER",
+    "position": "MF",
+    "jersey_number": 13,
+    "birth_date": "1991-06-15"
+  },
+  {
+    "name": "Maximilian Beier",
+    "team_fifa_code": "GER",
+    "position": "FW",
+    "jersey_number": 14,
+    "birth_date": "2002-10-17"
+  },
+  {
+    "name": "Nico Schlotterbeck",
+    "team_fifa_code": "GER",
+    "position": "DF",
+    "jersey_number": 15,
+    "birth_date": "1999-12-01"
+  },
+  {
+    "name": "Angelo Stiller",
+    "team_fifa_code": "GER",
+    "position": "MF",
+    "jersey_number": 16,
+    "birth_date": "2001-04-04"
+  },
+  {
+    "name": "Florian Wirtz",
+    "team_fifa_code": "GER",
+    "position": "MF",
+    "jersey_number": 17,
+    "birth_date": "2003-05-03"
+  },
+  {
+    "name": "Nathaniel Brown",
+    "team_fifa_code": "GER",
+    "position": "DF",
+    "jersey_number": 18,
+    "birth_date": "2003-06-16"
+  },
+  {
+    "name": "Leroy Sané",
+    "team_fifa_code": "GER",
+    "position": "MF",
+    "jersey_number": 19,
+    "birth_date": "1996-01-11"
+  },
+  {
+    "name": "Nadiem Amiri",
+    "team_fifa_code": "GER",
+    "position": "MF",
+    "jersey_number": 20,
+    "birth_date": "1996-10-27"
+  },
+  {
+    "name": "Alexander Nübel",
+    "team_fifa_code": "GER",
+    "position": "GK",
+    "jersey_number": 21,
+    "birth_date": "1996-09-30"
+  },
+  {
+    "name": "David Raum",
+    "team_fifa_code": "GER",
+    "position": "DF",
+    "jersey_number": 22,
+    "birth_date": "1998-04-22"
+  },
+  {
+    "name": "Felix Nmecha",
+    "team_fifa_code": "GER",
+    "position": "MF",
+    "jersey_number": 23,
+    "birth_date": "2000-10-10"
+  },
+  {
+    "name": "Malick Thiaw",
+    "team_fifa_code": "GER",
+    "position": "DF",
+    "jersey_number": 24,
+    "birth_date": "2001-08-08"
+  },
+  {
+    "name": "Assan Ouédraogo",
+    "team_fifa_code": "GER",
+    "position": "MF",
+    "jersey_number": 25,
+    "birth_date": "2006-05-09"
+  },
+  {
+    "name": "Deniz Undav",
+    "team_fifa_code": "GER",
+    "position": "FW",
+    "jersey_number": 26,
+    "birth_date": "1996-07-19"
+  },
+  {
+    "name": "Yahia Fofana",
+    "team_fifa_code": "CIV",
+    "position": "GK",
+    "jersey_number": 1,
+    "birth_date": "2000-08-21"
+  },
+  {
+    "name": "Ousmane Diomande",
+    "team_fifa_code": "CIV",
+    "position": "DF",
+    "jersey_number": 2,
+    "birth_date": "2003-12-04"
+  },
+  {
+    "name": "Ghislain Konan",
+    "team_fifa_code": "CIV",
+    "position": "DF",
+    "jersey_number": 3,
+    "birth_date": "1995-12-27"
+  },
+  {
+    "name": "Jean Michaël Seri",
+    "team_fifa_code": "CIV",
+    "position": "MF",
+    "jersey_number": 4,
+    "birth_date": "1991-07-19"
+  },
+  {
+    "name": "Wilfried Singo",
+    "team_fifa_code": "CIV",
+    "position": "DF",
+    "jersey_number": 5,
+    "birth_date": "2000-12-25"
+  },
+  {
+    "name": "Seko Fofana",
+    "team_fifa_code": "CIV",
+    "position": "MF",
+    "jersey_number": 6,
+    "birth_date": "1995-05-07"
+  },
+  {
+    "name": "Odilon Kossounou",
+    "team_fifa_code": "CIV",
+    "position": "DF",
+    "jersey_number": 7,
+    "birth_date": "2001-01-04"
+  },
+  {
+    "name": "Franck Kessié ( captain )",
+    "team_fifa_code": "CIV",
+    "position": "MF",
+    "jersey_number": 8,
+    "birth_date": "1996-12-19"
+  },
+  {
+    "name": "Ange-Yoan Bonny",
+    "team_fifa_code": "CIV",
+    "position": "FW",
+    "jersey_number": 9,
+    "birth_date": "2003-10-25"
+  },
+  {
+    "name": "Simon Adingra",
+    "team_fifa_code": "CIV",
+    "position": "FW",
+    "jersey_number": 10,
+    "birth_date": "2002-01-01"
+  },
+  {
+    "name": "Yan Diomande",
+    "team_fifa_code": "CIV",
+    "position": "FW",
+    "jersey_number": 11,
+    "birth_date": "2006-11-14"
+  },
+  {
+    "name": "Elye Wahi",
+    "team_fifa_code": "CIV",
+    "position": "FW",
+    "jersey_number": 12,
+    "birth_date": "2003-01-02"
+  },
+  {
+    "name": "Christopher Opéri",
+    "team_fifa_code": "CIV",
+    "position": "DF",
+    "jersey_number": 13,
+    "birth_date": "1997-04-29"
+  },
+  {
+    "name": "Oumar Diakité",
+    "team_fifa_code": "CIV",
+    "position": "FW",
+    "jersey_number": 14,
+    "birth_date": "2003-12-20"
+  },
+  {
+    "name": "Amad Diallo",
+    "team_fifa_code": "CIV",
+    "position": "FW",
+    "jersey_number": 15,
+    "birth_date": "2002-07-11"
+  },
+  {
+    "name": "Mohamed Koné",
+    "team_fifa_code": "CIV",
+    "position": "GK",
+    "jersey_number": 16,
+    "birth_date": "2002-03-07"
+  },
+  {
+    "name": "Guéla Doué",
+    "team_fifa_code": "CIV",
+    "position": "DF",
+    "jersey_number": 17,
+    "birth_date": "2002-10-17"
+  },
+  {
+    "name": "Ibrahim Sangaré",
+    "team_fifa_code": "CIV",
+    "position": "MF",
+    "jersey_number": 18,
+    "birth_date": "1997-12-02"
+  },
+  {
+    "name": "Nicolas Pépé",
+    "team_fifa_code": "CIV",
+    "position": "FW",
+    "jersey_number": 19,
+    "birth_date": "1995-05-29"
+  },
+  {
+    "name": "Emmanuel Agbadou",
+    "team_fifa_code": "CIV",
+    "position": "DF",
+    "jersey_number": 20,
+    "birth_date": "1997-06-17"
+  },
+  {
+    "name": "Evan Ndicka",
+    "team_fifa_code": "CIV",
+    "position": "DF",
+    "jersey_number": 21,
+    "birth_date": "1999-08-20"
+  },
+  {
+    "name": "Evann Guessand",
+    "team_fifa_code": "CIV",
+    "position": "FW",
+    "jersey_number": 22,
+    "birth_date": "2001-07-01"
+  },
+  {
+    "name": "Alban Lafont",
+    "team_fifa_code": "CIV",
+    "position": "GK",
+    "jersey_number": 23,
+    "birth_date": "1999-01-23"
+  },
+  {
+    "name": "Bazoumana Touré",
+    "team_fifa_code": "CIV",
+    "position": "FW",
+    "jersey_number": 24,
+    "birth_date": "2006-03-02"
+  },
+  {
+    "name": "Parfait Guiagon",
+    "team_fifa_code": "CIV",
+    "position": "MF",
+    "jersey_number": 25,
+    "birth_date": "2001-02-22"
+  },
+  {
+    "name": "Christ Inao Oulaï",
+    "team_fifa_code": "CIV",
+    "position": "MF",
+    "jersey_number": 26,
+    "birth_date": "2006-04-06"
+  },
+  {
+    "name": "Zion Suzuki",
+    "team_fifa_code": "JPN",
+    "position": "GK",
+    "jersey_number": 1,
+    "birth_date": "2002-08-21"
+  },
+  {
+    "name": "Yukinari Sugawara",
+    "team_fifa_code": "JPN",
+    "position": "DF",
+    "jersey_number": 2,
+    "birth_date": "2000-06-28"
+  },
+  {
+    "name": "Shōgo Taniguchi",
+    "team_fifa_code": "JPN",
+    "position": "DF",
+    "jersey_number": 3,
+    "birth_date": "1991-07-15"
+  },
+  {
+    "name": "Kō Itakura",
+    "team_fifa_code": "JPN",
+    "position": "DF",
+    "jersey_number": 4,
+    "birth_date": "1997-01-27"
+  },
+  {
+    "name": "Yūto Nagatomo",
+    "team_fifa_code": "JPN",
+    "position": "DF",
+    "jersey_number": 5,
+    "birth_date": "1986-09-12"
+  },
+  {
+    "name": "Wataru Endo ( captain )",
+    "team_fifa_code": "JPN",
+    "position": "MF",
+    "jersey_number": 6,
+    "birth_date": "1993-02-09"
+  },
+  {
+    "name": "Ao Tanaka",
+    "team_fifa_code": "JPN",
+    "position": "MF",
+    "jersey_number": 7,
+    "birth_date": "1998-09-10"
+  },
+  {
+    "name": "Takefusa Kubo",
+    "team_fifa_code": "JPN",
+    "position": "MF",
+    "jersey_number": 8,
+    "birth_date": "2001-06-04"
+  },
+  {
+    "name": "Keisuke Gotō",
+    "team_fifa_code": "JPN",
+    "position": "FW",
+    "jersey_number": 9,
+    "birth_date": "2005-06-03"
+  },
+  {
+    "name": "Ritsu Dōan",
+    "team_fifa_code": "JPN",
+    "position": "MF",
+    "jersey_number": 10,
+    "birth_date": "1998-06-16"
+  },
+  {
+    "name": "Daizen Maeda",
+    "team_fifa_code": "JPN",
+    "position": "MF",
+    "jersey_number": 11,
+    "birth_date": "1997-10-20"
+  },
+  {
+    "name": "Keisuke Ōsako",
+    "team_fifa_code": "JPN",
+    "position": "GK",
+    "jersey_number": 12,
+    "birth_date": "1999-07-28"
+  },
+  {
+    "name": "Keito Nakamura",
+    "team_fifa_code": "JPN",
+    "position": "MF",
+    "jersey_number": 13,
+    "birth_date": "2000-07-28"
+  },
+  {
+    "name": "Junya Itō",
+    "team_fifa_code": "JPN",
+    "position": "MF",
+    "jersey_number": 14,
+    "birth_date": "1993-03-09"
+  },
+  {
+    "name": "Daichi Kamada",
+    "team_fifa_code": "JPN",
+    "position": "MF",
+    "jersey_number": 15,
+    "birth_date": "1996-08-05"
+  },
+  {
+    "name": "Tsuyoshi Watanabe",
+    "team_fifa_code": "JPN",
+    "position": "DF",
+    "jersey_number": 16,
+    "birth_date": "1997-02-05"
+  },
+  {
+    "name": "Yuito Suzuki",
+    "team_fifa_code": "JPN",
+    "position": "MF",
+    "jersey_number": 17,
+    "birth_date": "2001-10-25"
+  },
+  {
+    "name": "Ayase Ueda",
+    "team_fifa_code": "JPN",
+    "position": "FW",
+    "jersey_number": 18,
+    "birth_date": "1998-08-28"
+  },
+  {
+    "name": "Kōki Ogawa",
+    "team_fifa_code": "JPN",
+    "position": "FW",
+    "jersey_number": 19,
+    "birth_date": "1997-08-08"
+  },
+  {
+    "name": "Ayumu Seko",
+    "team_fifa_code": "JPN",
+    "position": "DF",
+    "jersey_number": 20,
+    "birth_date": "2000-06-07"
+  },
+  {
+    "name": "Hiroki Itō",
+    "team_fifa_code": "JPN",
+    "position": "DF",
+    "jersey_number": 21,
+    "birth_date": "1999-05-12"
+  },
+  {
+    "name": "Takehiro Tomiyasu",
+    "team_fifa_code": "JPN",
+    "position": "DF",
+    "jersey_number": 22,
+    "birth_date": "1998-11-05"
+  },
+  {
+    "name": "Tomoki Hayakawa",
+    "team_fifa_code": "JPN",
+    "position": "GK",
+    "jersey_number": 23,
+    "birth_date": "1999-03-03"
+  },
+  {
+    "name": "Kaishū Sano",
+    "team_fifa_code": "JPN",
+    "position": "MF",
+    "jersey_number": 24,
+    "birth_date": "2000-12-30"
+  },
+  {
+    "name": "Junnosuke Suzuki",
+    "team_fifa_code": "JPN",
+    "position": "DF",
+    "jersey_number": 25,
+    "birth_date": "2003-07-12"
+  },
+  {
+    "name": "Kento Shiogai",
+    "team_fifa_code": "JPN",
+    "position": "FW",
+    "jersey_number": 26,
+    "birth_date": "2005-03-26"
+  },
+  {
+    "name": "Bart Verbruggen",
+    "team_fifa_code": "NED",
+    "position": "GK",
+    "jersey_number": 1,
+    "birth_date": "2002-08-18"
+  },
+  {
+    "name": "Jurriën Timber",
+    "team_fifa_code": "NED",
+    "position": "DF",
+    "jersey_number": 2,
+    "birth_date": "2001-06-17"
+  },
+  {
+    "name": "Marten de Roon",
+    "team_fifa_code": "NED",
+    "position": "MF",
+    "jersey_number": 3,
+    "birth_date": "1991-03-29"
+  },
+  {
+    "name": "Virgil van Dijk ( captain )",
+    "team_fifa_code": "NED",
+    "position": "DF",
+    "jersey_number": 4,
+    "birth_date": "1991-07-08"
+  },
+  {
+    "name": "Nathan Aké",
+    "team_fifa_code": "NED",
+    "position": "DF",
+    "jersey_number": 5,
+    "birth_date": "1995-02-18"
+  },
+  {
+    "name": "Jan Paul van Hecke",
+    "team_fifa_code": "NED",
+    "position": "DF",
+    "jersey_number": 6,
+    "birth_date": "2000-06-08"
+  },
+  {
+    "name": "Justin Kluivert",
+    "team_fifa_code": "NED",
+    "position": "MF",
+    "jersey_number": 7,
+    "birth_date": "1999-05-05"
+  },
+  {
+    "name": "Ryan Gravenberch",
+    "team_fifa_code": "NED",
+    "position": "MF",
+    "jersey_number": 8,
+    "birth_date": "2002-05-16"
+  },
+  {
+    "name": "Wout Weghorst",
+    "team_fifa_code": "NED",
+    "position": "FW",
+    "jersey_number": 9,
+    "birth_date": "1992-08-07"
+  },
+  {
+    "name": "Memphis Depay",
+    "team_fifa_code": "NED",
+    "position": "FW",
+    "jersey_number": 10,
+    "birth_date": "1994-02-13"
+  },
+  {
+    "name": "Cody Gakpo",
+    "team_fifa_code": "NED",
+    "position": "FW",
+    "jersey_number": 11,
+    "birth_date": "1999-05-07"
+  },
+  {
+    "name": "Mats Wieffer",
+    "team_fifa_code": "NED",
+    "position": "DF",
+    "jersey_number": 12,
+    "birth_date": "1999-11-16"
+  },
+  {
+    "name": "Robin Roefs",
+    "team_fifa_code": "NED",
+    "position": "GK",
+    "jersey_number": 13,
+    "birth_date": "2003-01-17"
+  },
+  {
+    "name": "Tijjani Reijnders",
+    "team_fifa_code": "NED",
+    "position": "MF",
+    "jersey_number": 14,
+    "birth_date": "1998-07-29"
+  },
+  {
+    "name": "Micky van de Ven",
+    "team_fifa_code": "NED",
+    "position": "DF",
+    "jersey_number": 15,
+    "birth_date": "2001-04-19"
+  },
+  {
+    "name": "Guus Til",
+    "team_fifa_code": "NED",
+    "position": "MF",
+    "jersey_number": 16,
+    "birth_date": "1997-12-22"
+  },
+  {
+    "name": "Noa Lang",
+    "team_fifa_code": "NED",
+    "position": "FW",
+    "jersey_number": 17,
+    "birth_date": "1999-06-17"
+  },
+  {
+    "name": "Donyell Malen",
+    "team_fifa_code": "NED",
+    "position": "FW",
+    "jersey_number": 18,
+    "birth_date": "1999-01-19"
+  },
+  {
+    "name": "Brian Brobbey",
+    "team_fifa_code": "NED",
+    "position": "FW",
+    "jersey_number": 19,
+    "birth_date": "2002-02-01"
+  },
+  {
+    "name": "Teun Koopmeiners",
+    "team_fifa_code": "NED",
+    "position": "MF",
+    "jersey_number": 20,
+    "birth_date": "1998-02-28"
+  },
+  {
+    "name": "Frenkie de Jong",
+    "team_fifa_code": "NED",
+    "position": "MF",
+    "jersey_number": 21,
+    "birth_date": "1997-05-12"
+  },
+  {
+    "name": "Denzel Dumfries",
+    "team_fifa_code": "NED",
+    "position": "DF",
+    "jersey_number": 22,
+    "birth_date": "1996-04-18"
+  },
+  {
+    "name": "Mark Flekken",
+    "team_fifa_code": "NED",
+    "position": "GK",
+    "jersey_number": 23,
+    "birth_date": "1993-06-13"
+  },
+  {
+    "name": "Crysencio Summerville",
+    "team_fifa_code": "NED",
+    "position": "FW",
+    "jersey_number": 24,
+    "birth_date": "2001-10-30"
+  },
+  {
+    "name": "Jorrel Hato",
+    "team_fifa_code": "NED",
+    "position": "DF",
+    "jersey_number": 25,
+    "birth_date": "2006-03-07"
+  },
+  {
+    "name": "Quinten Timber",
+    "team_fifa_code": "NED",
+    "position": "MF",
+    "jersey_number": 26,
+    "birth_date": "2001-06-17"
+  },
+  {
+    "name": "Jacob Widell Zetterström",
+    "team_fifa_code": "SWE",
+    "position": "GK",
+    "jersey_number": 1,
+    "birth_date": "1998-07-11"
+  },
+  {
+    "name": "Gustaf Lagerbielke",
+    "team_fifa_code": "SWE",
+    "position": "DF",
+    "jersey_number": 2,
+    "birth_date": "2000-04-10"
+  },
+  {
+    "name": "Victor Lindelöf ( captain )",
+    "team_fifa_code": "SWE",
+    "position": "DF",
+    "jersey_number": 3,
+    "birth_date": "1994-07-17"
+  },
+  {
+    "name": "Isak Hien",
+    "team_fifa_code": "SWE",
+    "position": "DF",
+    "jersey_number": 4,
+    "birth_date": "1999-01-13"
+  },
+  {
+    "name": "Gabriel Gudmundsson",
+    "team_fifa_code": "SWE",
+    "position": "DF",
+    "jersey_number": 5,
+    "birth_date": "1999-04-29"
+  },
+  {
+    "name": "Herman Johansson",
+    "team_fifa_code": "SWE",
+    "position": "DF",
+    "jersey_number": 6,
+    "birth_date": "1997-10-16"
+  },
+  {
+    "name": "Lucas Bergvall",
+    "team_fifa_code": "SWE",
+    "position": "MF",
+    "jersey_number": 7,
+    "birth_date": "2006-02-02"
+  },
+  {
+    "name": "Daniel Svensson",
+    "team_fifa_code": "SWE",
+    "position": "DF",
+    "jersey_number": 8,
+    "birth_date": "2002-02-12"
+  },
+  {
+    "name": "Alexander Isak",
+    "team_fifa_code": "SWE",
+    "position": "FW",
+    "jersey_number": 9,
+    "birth_date": "1999-09-21"
+  },
+  {
+    "name": "Benjamin Nygren",
+    "team_fifa_code": "SWE",
+    "position": "MF",
+    "jersey_number": 10,
+    "birth_date": "2001-07-08"
+  },
+  {
+    "name": "Anthony Elanga",
+    "team_fifa_code": "SWE",
+    "position": "FW",
+    "jersey_number": 11,
+    "birth_date": "2002-04-27"
+  },
+  {
+    "name": "Viktor Johansson",
+    "team_fifa_code": "SWE",
+    "position": "GK",
+    "jersey_number": 12,
+    "birth_date": "1998-09-14"
+  },
+  {
+    "name": "Ken Sema",
+    "team_fifa_code": "SWE",
+    "position": "MF",
+    "jersey_number": 13,
+    "birth_date": "1993-09-30"
+  },
+  {
+    "name": "Hjalmar Ekdal",
+    "team_fifa_code": "SWE",
+    "position": "DF",
+    "jersey_number": 14,
+    "birth_date": "1998-10-21"
+  },
+  {
+    "name": "Carl Starfelt",
+    "team_fifa_code": "SWE",
+    "position": "DF",
+    "jersey_number": 15,
+    "birth_date": "1995-06-01"
+  },
+  {
+    "name": "Jesper Karlström",
+    "team_fifa_code": "SWE",
+    "position": "MF",
+    "jersey_number": 16,
+    "birth_date": "1995-06-21"
+  },
+  {
+    "name": "Viktor Gyökeres",
+    "team_fifa_code": "SWE",
+    "position": "FW",
+    "jersey_number": 17,
+    "birth_date": "1998-06-04"
+  },
+  {
+    "name": "Yasin Ayari",
+    "team_fifa_code": "SWE",
+    "position": "MF",
+    "jersey_number": 18,
+    "birth_date": "2003-10-06"
+  },
+  {
+    "name": "Mattias Svanberg",
+    "team_fifa_code": "SWE",
+    "position": "MF",
+    "jersey_number": 19,
+    "birth_date": "1999-01-05"
+  },
+  {
+    "name": "Eric Smith",
+    "team_fifa_code": "SWE",
+    "position": "DF",
+    "jersey_number": 20,
+    "birth_date": "1997-01-08"
+  },
+  {
+    "name": "Alexander Bernhardsson",
+    "team_fifa_code": "SWE",
+    "position": "DF",
+    "jersey_number": 21,
+    "birth_date": "1998-09-08"
+  },
+  {
+    "name": "Besfort Zeneli",
+    "team_fifa_code": "SWE",
+    "position": "MF",
+    "jersey_number": 22,
+    "birth_date": "2002-11-21"
+  },
+  {
+    "name": "Kristoffer Nordfeldt",
+    "team_fifa_code": "SWE",
+    "position": "GK",
+    "jersey_number": 23,
+    "birth_date": "1989-06-23"
+  },
+  {
+    "name": "Elliot Stroud",
+    "team_fifa_code": "SWE",
+    "position": "DF",
+    "jersey_number": 24,
+    "birth_date": "2002-06-22"
+  },
+  {
+    "name": "Gustaf Nilsson",
+    "team_fifa_code": "SWE",
+    "position": "FW",
+    "jersey_number": 25,
+    "birth_date": "1997-05-23"
+  },
+  {
+    "name": "Taha Ali",
+    "team_fifa_code": "SWE",
+    "position": "FW",
+    "jersey_number": 26,
+    "birth_date": "1998-07-01"
+  },
+  {
+    "name": "Mouhib Chamakh",
+    "team_fifa_code": "TUN",
+    "position": "GK",
+    "jersey_number": 1,
+    "birth_date": "2001-08-25"
+  },
+  {
+    "name": "Ali Abdi",
+    "team_fifa_code": "TUN",
+    "position": "DF",
+    "jersey_number": 2,
+    "birth_date": "1993-12-20"
+  },
+  {
+    "name": "Montassar Talbi",
+    "team_fifa_code": "TUN",
+    "position": "DF",
+    "jersey_number": 3,
+    "birth_date": "1998-05-26"
+  },
+  {
+    "name": "Omar Rekik",
+    "team_fifa_code": "TUN",
+    "position": "DF",
+    "jersey_number": 4,
+    "birth_date": "2001-12-20"
+  },
+  {
+    "name": "Adem Arous",
+    "team_fifa_code": "TUN",
+    "position": "DF",
+    "jersey_number": 5,
+    "birth_date": "2004-07-17"
+  },
+  {
+    "name": "Dylan Bronn",
+    "team_fifa_code": "TUN",
+    "position": "DF",
+    "jersey_number": 6,
+    "birth_date": "1995-06-19"
+  },
+  {
+    "name": "Elias Achouri",
+    "team_fifa_code": "TUN",
+    "position": "FW",
+    "jersey_number": 7,
+    "birth_date": "1999-02-10"
+  },
+  {
+    "name": "Elias Saad",
+    "team_fifa_code": "TUN",
+    "position": "FW",
+    "jersey_number": 8,
+    "birth_date": "1999-12-27"
+  },
+  {
+    "name": "Hazem Mastouri",
+    "team_fifa_code": "TUN",
+    "position": "FW",
+    "jersey_number": 9,
+    "birth_date": "1997-06-18"
+  },
+  {
+    "name": "Hannibal Mejbri",
+    "team_fifa_code": "TUN",
+    "position": "MF",
+    "jersey_number": 10,
+    "birth_date": "2003-01-21"
+  },
+  {
+    "name": "Ismaël Gharbi",
+    "team_fifa_code": "TUN",
+    "position": "MF",
+    "jersey_number": 11,
+    "birth_date": "2004-04-10"
+  },
+  {
+    "name": "Mortadha Ben Ouanes",
+    "team_fifa_code": "TUN",
+    "position": "DF",
+    "jersey_number": 12,
+    "birth_date": "1994-07-02"
+  },
+  {
+    "name": "Rani Khedira",
+    "team_fifa_code": "TUN",
+    "position": "MF",
+    "jersey_number": 13,
+    "birth_date": "1994-01-27"
+  },
+  {
+    "name": "Khalil Ayari",
+    "team_fifa_code": "TUN",
+    "position": "MF",
+    "jersey_number": 14,
+    "birth_date": "2005-02-02"
+  },
+  {
+    "name": "Hadj Mahmoud",
+    "team_fifa_code": "TUN",
+    "position": "MF",
+    "jersey_number": 15,
+    "birth_date": "2000-04-24"
+  },
+  {
+    "name": "Aymen Dahmen",
+    "team_fifa_code": "TUN",
+    "position": "GK",
+    "jersey_number": 16,
+    "birth_date": "1997-01-28"
+  },
+  {
+    "name": "Ellyes Skhiri ( captain )",
+    "team_fifa_code": "TUN",
+    "position": "MF",
+    "jersey_number": 17,
+    "birth_date": "1995-05-10"
+  },
+  {
+    "name": "Rayan Elloumi",
+    "team_fifa_code": "TUN",
+    "position": "FW",
+    "jersey_number": 18,
+    "birth_date": "2007-09-17"
+  },
+  {
+    "name": "Firas Chaouat",
+    "team_fifa_code": "TUN",
+    "position": "FW",
+    "jersey_number": 19,
+    "birth_date": "1996-05-08"
+  },
+  {
+    "name": "Yan Valery",
+    "team_fifa_code": "TUN",
+    "position": "DF",
+    "jersey_number": 20,
+    "birth_date": "1999-02-22"
+  },
+  {
+    "name": "Mohamed Amine Ben Hamida",
+    "team_fifa_code": "TUN",
+    "position": "DF",
+    "jersey_number": 21,
+    "birth_date": "1995-12-15"
+  },
+  {
+    "name": "Sabri Ben Hessen",
+    "team_fifa_code": "TUN",
+    "position": "GK",
+    "jersey_number": 22,
+    "birth_date": "1996-06-13"
+  },
+  {
+    "name": "Moutaz Neffati",
+    "team_fifa_code": "TUN",
+    "position": "DF",
+    "jersey_number": 23,
+    "birth_date": "2004-09-04"
+  },
+  {
+    "name": "Raed Chikhaoui",
+    "team_fifa_code": "TUN",
+    "position": "DF",
+    "jersey_number": 24,
+    "birth_date": "2004-06-09"
+  },
+  {
+    "name": "Anis Ben Slimane",
+    "team_fifa_code": "TUN",
+    "position": "MF",
+    "jersey_number": 25,
+    "birth_date": "2001-03-16"
+  },
+  {
+    "name": "Sebastian Tounekti",
+    "team_fifa_code": "TUN",
+    "position": "MF",
+    "jersey_number": 26,
+    "birth_date": "2002-07-13"
+  },
+  {
+    "name": "Thibaut Courtois",
+    "team_fifa_code": "BEL",
+    "position": "GK",
+    "jersey_number": 1,
+    "birth_date": "1992-05-11"
+  },
+  {
+    "name": "Zeno Debast",
+    "team_fifa_code": "BEL",
+    "position": "DF",
+    "jersey_number": 2,
+    "birth_date": "2003-10-24"
+  },
+  {
+    "name": "Arthur Theate",
+    "team_fifa_code": "BEL",
+    "position": "DF",
+    "jersey_number": 3,
+    "birth_date": "2000-05-25"
+  },
+  {
+    "name": "Brandon Mechele",
+    "team_fifa_code": "BEL",
+    "position": "DF",
+    "jersey_number": 4,
+    "birth_date": "1993-01-28"
+  },
+  {
+    "name": "Maxim De Cuyper",
+    "team_fifa_code": "BEL",
+    "position": "DF",
+    "jersey_number": 5,
+    "birth_date": "2000-12-22"
+  },
+  {
+    "name": "Axel Witsel",
+    "team_fifa_code": "BEL",
+    "position": "MF",
+    "jersey_number": 6,
+    "birth_date": "1989-01-12"
+  },
+  {
+    "name": "Kevin De Bruyne",
+    "team_fifa_code": "BEL",
+    "position": "MF",
+    "jersey_number": 7,
+    "birth_date": "1991-06-28"
+  },
+  {
+    "name": "Youri Tielemans ( captain )",
+    "team_fifa_code": "BEL",
+    "position": "MF",
+    "jersey_number": 8,
+    "birth_date": "1997-05-07"
+  },
+  {
+    "name": "Romelu Lukaku",
+    "team_fifa_code": "BEL",
+    "position": "FW",
+    "jersey_number": 9,
+    "birth_date": "1993-05-13"
+  },
+  {
+    "name": "Leandro Trossard",
+    "team_fifa_code": "BEL",
+    "position": "FW",
+    "jersey_number": 10,
+    "birth_date": "1994-12-04"
+  },
+  {
+    "name": "Jérémy Doku",
+    "team_fifa_code": "BEL",
+    "position": "FW",
+    "jersey_number": 11,
+    "birth_date": "2002-05-27"
+  },
+  {
+    "name": "Senne Lammens",
+    "team_fifa_code": "BEL",
+    "position": "GK",
+    "jersey_number": 12,
+    "birth_date": "2002-07-07"
+  },
+  {
+    "name": "Mike Penders",
+    "team_fifa_code": "BEL",
+    "position": "GK",
+    "jersey_number": 13,
+    "birth_date": "2005-07-31"
+  },
+  {
+    "name": "Dodi Lukébakio",
+    "team_fifa_code": "BEL",
+    "position": "FW",
+    "jersey_number": 14,
+    "birth_date": "1997-09-24"
+  },
+  {
+    "name": "Thomas Meunier",
+    "team_fifa_code": "BEL",
+    "position": "DF",
+    "jersey_number": 15,
+    "birth_date": "1991-09-12"
+  },
+  {
+    "name": "Koni De Winter",
+    "team_fifa_code": "BEL",
+    "position": "DF",
+    "jersey_number": 16,
+    "birth_date": "2002-06-12"
+  },
+  {
+    "name": "Charles De Ketelaere",
+    "team_fifa_code": "BEL",
+    "position": "FW",
+    "jersey_number": 17,
+    "birth_date": "2001-03-10"
+  },
+  {
+    "name": "Joaquin Seys",
+    "team_fifa_code": "BEL",
+    "position": "DF",
+    "jersey_number": 18,
+    "birth_date": "2005-03-28"
+  },
+  {
+    "name": "Diego Moreira",
+    "team_fifa_code": "BEL",
+    "position": "MF",
+    "jersey_number": 19,
+    "birth_date": "2004-08-06"
+  },
+  {
+    "name": "Hans Vanaken",
+    "team_fifa_code": "BEL",
+    "position": "MF",
+    "jersey_number": 20,
+    "birth_date": "1992-08-24"
+  },
+  {
+    "name": "Timothy Castagne",
+    "team_fifa_code": "BEL",
+    "position": "DF",
+    "jersey_number": 21,
+    "birth_date": "1995-12-05"
+  },
+  {
+    "name": "Alexis Saelemaekers",
+    "team_fifa_code": "BEL",
+    "position": "MF",
+    "jersey_number": 22,
+    "birth_date": "1999-06-27"
+  },
+  {
+    "name": "Nicolas Raskin",
+    "team_fifa_code": "BEL",
+    "position": "MF",
+    "jersey_number": 23,
+    "birth_date": "2001-02-23"
+  },
+  {
+    "name": "Amadou Onana",
+    "team_fifa_code": "BEL",
+    "position": "MF",
+    "jersey_number": 24,
+    "birth_date": "2001-08-16"
+  },
+  {
+    "name": "Nathan Ngoy",
+    "team_fifa_code": "BEL",
+    "position": "DF",
+    "jersey_number": 25,
+    "birth_date": "2003-06-10"
+  },
+  {
+    "name": "Matias Fernandez-Pardo",
+    "team_fifa_code": "BEL",
+    "position": "FW",
+    "jersey_number": 26,
+    "birth_date": "2005-02-03"
+  },
+  {
+    "name": "Mohamed El Shenawy",
+    "team_fifa_code": "EGY",
+    "position": "GK",
+    "jersey_number": 1,
+    "birth_date": "1988-12-18"
+  },
+  {
+    "name": "Yasser Ibrahim",
+    "team_fifa_code": "EGY",
+    "position": "DF",
+    "jersey_number": 2,
+    "birth_date": "1993-02-10"
+  },
+  {
+    "name": "Mohamed Hany",
+    "team_fifa_code": "EGY",
+    "position": "DF",
+    "jersey_number": 3,
+    "birth_date": "1996-02-02"
+  },
+  {
+    "name": "Hossam Abdelmaguid",
+    "team_fifa_code": "EGY",
+    "position": "DF",
+    "jersey_number": 4,
+    "birth_date": "2001-04-30"
+  },
+  {
+    "name": "Ramy Rabia",
+    "team_fifa_code": "EGY",
+    "position": "DF",
+    "jersey_number": 5,
+    "birth_date": "1993-05-20"
+  },
+  {
+    "name": "Mohamed Abdelmonem",
+    "team_fifa_code": "EGY",
+    "position": "DF",
+    "jersey_number": 6,
+    "birth_date": "1999-02-01"
+  },
+  {
+    "name": "Trézéguet",
+    "team_fifa_code": "EGY",
+    "position": "FW",
+    "jersey_number": 7,
+    "birth_date": "1994-10-01"
+  },
+  {
+    "name": "Emam Ashour",
+    "team_fifa_code": "EGY",
+    "position": "MF",
+    "jersey_number": 8,
+    "birth_date": "1998-02-20"
+  },
+  {
+    "name": "Hamza Abdelkarim",
+    "team_fifa_code": "EGY",
+    "position": "FW",
+    "jersey_number": 9,
+    "birth_date": "2008-01-01"
+  },
+  {
+    "name": "Mohamed Salah ( captain )",
+    "team_fifa_code": "EGY",
+    "position": "FW",
+    "jersey_number": 10,
+    "birth_date": "1992-06-15"
+  },
+  {
+    "name": "Mostafa Ziko",
+    "team_fifa_code": "EGY",
+    "position": "MF",
+    "jersey_number": 11,
+    "birth_date": "1997-04-27"
+  },
+  {
+    "name": "Haissem Hassan",
+    "team_fifa_code": "EGY",
+    "position": "FW",
+    "jersey_number": 12,
+    "birth_date": "2002-02-08"
+  },
+  {
+    "name": "Ahmed Fatouh",
+    "team_fifa_code": "EGY",
+    "position": "DF",
+    "jersey_number": 13,
+    "birth_date": "1998-03-22"
+  },
+  {
+    "name": "Hamdy Fathy",
+    "team_fifa_code": "EGY",
+    "position": "MF",
+    "jersey_number": 14,
+    "birth_date": "1994-09-29"
+  },
+  {
+    "name": "Karim Hafez",
+    "team_fifa_code": "EGY",
+    "position": "DF",
+    "jersey_number": 15,
+    "birth_date": "1996-03-12"
+  },
+  {
+    "name": "El Mahdy Soliman",
+    "team_fifa_code": "EGY",
+    "position": "GK",
+    "jersey_number": 16,
+    "birth_date": "1987-06-08"
+  },
+  {
+    "name": "Mohanad Lasheen",
+    "team_fifa_code": "EGY",
+    "position": "MF",
+    "jersey_number": 17,
+    "birth_date": "1996-05-29"
+  },
+  {
+    "name": "Nabil Emad",
+    "team_fifa_code": "EGY",
+    "position": "MF",
+    "jersey_number": 18,
+    "birth_date": "1996-04-06"
+  },
+  {
+    "name": "Marwan Attia",
+    "team_fifa_code": "EGY",
+    "position": "MF",
+    "jersey_number": 19,
+    "birth_date": "1998-08-01"
+  },
+  {
+    "name": "Ibrahim Adel",
+    "team_fifa_code": "EGY",
+    "position": "FW",
+    "jersey_number": 20,
+    "birth_date": "2001-04-23"
+  },
+  {
+    "name": "Mahmoud Saber",
+    "team_fifa_code": "EGY",
+    "position": "MF",
+    "jersey_number": 21,
+    "birth_date": "2001-07-30"
+  },
+  {
+    "name": "Omar Marmoush",
+    "team_fifa_code": "EGY",
+    "position": "FW",
+    "jersey_number": 22,
+    "birth_date": "1999-02-07"
+  },
+  {
+    "name": "Mostafa Shobeir",
+    "team_fifa_code": "EGY",
+    "position": "GK",
+    "jersey_number": 23,
+    "birth_date": "2000-05-15"
+  },
+  {
+    "name": "Tarek Alaa",
+    "team_fifa_code": "EGY",
+    "position": "DF",
+    "jersey_number": 24,
+    "birth_date": "2002-01-05"
+  },
+  {
+    "name": "Zizo",
+    "team_fifa_code": "EGY",
+    "position": "FW",
+    "jersey_number": 25,
+    "birth_date": "1996-01-10"
+  },
+  {
+    "name": "Mohamed Alaa",
+    "team_fifa_code": "EGY",
+    "position": "GK",
+    "jersey_number": 26,
+    "birth_date": "1999-01-01"
+  },
+  {
+    "name": "Alireza Beiranvand",
+    "team_fifa_code": "IRN",
+    "position": "GK",
+    "jersey_number": 1,
+    "birth_date": "1992-09-21"
+  },
+  {
+    "name": "Saleh Hardani",
+    "team_fifa_code": "IRN",
+    "position": "DF",
+    "jersey_number": 2,
+    "birth_date": "1998-12-26"
+  },
+  {
+    "name": "Ehsan Hajsafi ( captain )",
+    "team_fifa_code": "IRN",
+    "position": "DF",
+    "jersey_number": 3,
+    "birth_date": "1990-02-25"
+  },
+  {
+    "name": "Shojae Khalilzadeh",
+    "team_fifa_code": "IRN",
+    "position": "DF",
+    "jersey_number": 4,
+    "birth_date": "1989-05-14"
+  },
+  {
+    "name": "Milad Mohammadi",
+    "team_fifa_code": "IRN",
+    "position": "DF",
+    "jersey_number": 5,
+    "birth_date": "1993-09-29"
+  },
+  {
+    "name": "Saeid Ezatolahi",
+    "team_fifa_code": "IRN",
+    "position": "MF",
+    "jersey_number": 6,
+    "birth_date": "1996-10-01"
+  },
+  {
+    "name": "Alireza Jahanbakhsh",
+    "team_fifa_code": "IRN",
+    "position": "MF",
+    "jersey_number": 7,
+    "birth_date": "1993-08-11"
+  },
+  {
+    "name": "Mohammad Mohebi",
+    "team_fifa_code": "IRN",
+    "position": "MF",
+    "jersey_number": 8,
+    "birth_date": "1998-12-20"
+  },
+  {
+    "name": "Mehdi Taremi",
+    "team_fifa_code": "IRN",
+    "position": "FW",
+    "jersey_number": 9,
+    "birth_date": "1992-07-18"
+  },
+  {
+    "name": "Mehdi Ghayedi",
+    "team_fifa_code": "IRN",
+    "position": "FW",
+    "jersey_number": 10,
+    "birth_date": "1998-12-05"
+  },
+  {
+    "name": "Ali Alipour",
+    "team_fifa_code": "IRN",
+    "position": "FW",
+    "jersey_number": 11,
+    "birth_date": "1995-11-11"
+  },
+  {
+    "name": "Payam Niazmand",
+    "team_fifa_code": "IRN",
+    "position": "GK",
+    "jersey_number": 12,
+    "birth_date": "1995-04-06"
+  },
+  {
+    "name": "Hossein Kanaanizadegan",
+    "team_fifa_code": "IRN",
+    "position": "DF",
+    "jersey_number": 13,
+    "birth_date": "1994-03-23"
+  },
+  {
+    "name": "Saman Ghoddos",
+    "team_fifa_code": "IRN",
+    "position": "MF",
+    "jersey_number": 14,
+    "birth_date": "1993-09-06"
+  },
+  {
+    "name": "Rouzbeh Cheshmi",
+    "team_fifa_code": "IRN",
+    "position": "MF",
+    "jersey_number": 15,
+    "birth_date": "1993-07-24"
+  },
+  {
+    "name": "Mehdi Torabi",
+    "team_fifa_code": "IRN",
+    "position": "MF",
+    "jersey_number": 16,
+    "birth_date": "1994-09-10"
+  },
+  {
+    "name": "Aria Yousefi",
+    "team_fifa_code": "IRN",
+    "position": "DF",
+    "jersey_number": 17,
+    "birth_date": "2002-04-22"
+  },
+  {
+    "name": "Amirhossein Hosseinzadeh",
+    "team_fifa_code": "IRN",
+    "position": "FW",
+    "jersey_number": 18,
+    "birth_date": "2000-10-30"
+  },
+  {
+    "name": "Ali Nemati",
+    "team_fifa_code": "IRN",
+    "position": "DF",
+    "jersey_number": 19,
+    "birth_date": "1996-02-08"
+  },
+  {
+    "name": "Shahriyar Moghanlou",
+    "team_fifa_code": "IRN",
+    "position": "FW",
+    "jersey_number": 20,
+    "birth_date": "1994-12-21"
+  },
+  {
+    "name": "Mohammad Ghorbani",
+    "team_fifa_code": "IRN",
+    "position": "MF",
+    "jersey_number": 21,
+    "birth_date": "2001-10-07"
+  },
+  {
+    "name": "Hossein Hosseini",
+    "team_fifa_code": "IRN",
+    "position": "GK",
+    "jersey_number": 22,
+    "birth_date": "1992-06-30"
+  },
+  {
+    "name": "Ramin Rezaeian",
+    "team_fifa_code": "IRN",
+    "position": "DF",
+    "jersey_number": 23,
+    "birth_date": "1990-03-21"
+  },
+  {
+    "name": "Dennis Eckert",
+    "team_fifa_code": "IRN",
+    "position": "FW",
+    "jersey_number": 24,
+    "birth_date": "1997-01-09"
+  },
+  {
+    "name": "Danial Eiri",
+    "team_fifa_code": "IRN",
+    "position": "DF",
+    "jersey_number": 25,
+    "birth_date": "2003-10-26"
+  },
+  {
+    "name": "Amirmohammad Razzaghinia",
+    "team_fifa_code": "IRN",
+    "position": "MF",
+    "jersey_number": 26,
+    "birth_date": "2006-04-11"
+  },
+  {
+    "name": "Max Crocombe",
+    "team_fifa_code": "NZL",
+    "position": "GK",
+    "jersey_number": 1,
+    "birth_date": "1993-08-12"
+  },
+  {
+    "name": "Tim Payne",
+    "team_fifa_code": "NZL",
+    "position": "DF",
+    "jersey_number": 2,
+    "birth_date": "1994-01-10"
+  },
+  {
+    "name": "Francis de Vries",
+    "team_fifa_code": "NZL",
+    "position": "DF",
+    "jersey_number": 3,
+    "birth_date": "1994-11-28"
+  },
+  {
+    "name": "Tyler Bindon",
+    "team_fifa_code": "NZL",
+    "position": "DF",
+    "jersey_number": 4,
+    "birth_date": "2005-01-27"
+  },
+  {
+    "name": "Michael Boxall",
+    "team_fifa_code": "NZL",
+    "position": "DF",
+    "jersey_number": 5,
+    "birth_date": "1988-08-18"
+  },
+  {
+    "name": "Joe Bell",
+    "team_fifa_code": "NZL",
+    "position": "MF",
+    "jersey_number": 6,
+    "birth_date": "1999-04-27"
+  },
+  {
+    "name": "Matthew Garbett",
+    "team_fifa_code": "NZL",
+    "position": "MF",
+    "jersey_number": 7,
+    "birth_date": "2002-04-13"
+  },
+  {
+    "name": "Marko Stamenić",
+    "team_fifa_code": "NZL",
+    "position": "MF",
+    "jersey_number": 8,
+    "birth_date": "2002-02-19"
+  },
+  {
+    "name": "Chris Wood ( captain )",
+    "team_fifa_code": "NZL",
+    "position": "FW",
+    "jersey_number": 9,
+    "birth_date": "1991-12-07"
+  },
+  {
+    "name": "Sarpreet Singh",
+    "team_fifa_code": "NZL",
+    "position": "MF",
+    "jersey_number": 10,
+    "birth_date": "1999-02-20"
+  },
+  {
+    "name": "Elijah Just",
+    "team_fifa_code": "NZL",
+    "position": "MF",
+    "jersey_number": 11,
+    "birth_date": "2000-05-01"
+  },
+  {
+    "name": "Alex Paulsen",
+    "team_fifa_code": "NZL",
+    "position": "GK",
+    "jersey_number": 12,
+    "birth_date": "2002-07-04"
+  },
+  {
+    "name": "Liberato Cacace",
+    "team_fifa_code": "NZL",
+    "position": "DF",
+    "jersey_number": 13,
+    "birth_date": "2000-09-27"
+  },
+  {
+    "name": "Alex Rufer",
+    "team_fifa_code": "NZL",
+    "position": "MF",
+    "jersey_number": 14,
+    "birth_date": "1996-06-12"
+  },
+  {
+    "name": "Nando Pijnaker",
+    "team_fifa_code": "NZL",
+    "position": "DF",
+    "jersey_number": 15,
+    "birth_date": "1999-02-25"
+  },
+  {
+    "name": "Finn Surman",
+    "team_fifa_code": "NZL",
+    "position": "DF",
+    "jersey_number": 16,
+    "birth_date": "2003-09-23"
+  },
+  {
+    "name": "Kosta Barbarouses",
+    "team_fifa_code": "NZL",
+    "position": "FW",
+    "jersey_number": 17,
+    "birth_date": "1990-02-19"
+  },
+  {
+    "name": "Ben Waine",
+    "team_fifa_code": "NZL",
+    "position": "FW",
+    "jersey_number": 18,
+    "birth_date": "2001-06-11"
+  },
+  {
+    "name": "Ben Old",
+    "team_fifa_code": "NZL",
+    "position": "MF",
+    "jersey_number": 19,
+    "birth_date": "2002-08-13"
+  },
+  {
+    "name": "Callum McCowatt",
+    "team_fifa_code": "NZL",
+    "position": "MF",
+    "jersey_number": 20,
+    "birth_date": "1999-04-30"
+  },
+  {
+    "name": "Jesse Randall",
+    "team_fifa_code": "NZL",
+    "position": "FW",
+    "jersey_number": 21,
+    "birth_date": "2002-08-19"
+  },
+  {
+    "name": "Michael Woud",
+    "team_fifa_code": "NZL",
+    "position": "GK",
+    "jersey_number": 22,
+    "birth_date": "1999-01-16"
+  },
+  {
+    "name": "Ryan Thomas",
+    "team_fifa_code": "NZL",
+    "position": "MF",
+    "jersey_number": 23,
+    "birth_date": "1994-12-20"
+  },
+  {
+    "name": "Callan Elliot",
+    "team_fifa_code": "NZL",
+    "position": "DF",
+    "jersey_number": 24,
+    "birth_date": "1999-07-07"
+  },
+  {
+    "name": "Lachlan Bayliss",
+    "team_fifa_code": "NZL",
+    "position": "MF",
+    "jersey_number": 25,
+    "birth_date": "2002-07-24"
+  },
+  {
+    "name": "Tommy Smith",
+    "team_fifa_code": "NZL",
+    "position": "DF",
+    "jersey_number": 26,
+    "birth_date": "1990-03-31"
+  },
+  {
+    "name": "Vozinha",
+    "team_fifa_code": "CPV",
+    "position": "GK",
+    "jersey_number": 1,
+    "birth_date": "1986-06-03"
+  },
+  {
+    "name": "Stopira",
+    "team_fifa_code": "CPV",
+    "position": "DF",
+    "jersey_number": 2,
+    "birth_date": "1988-05-20"
+  },
+  {
+    "name": "Diney",
+    "team_fifa_code": "CPV",
+    "position": "DF",
+    "jersey_number": 3,
+    "birth_date": "1995-01-17"
+  },
+  {
+    "name": "Roberto Lopes",
+    "team_fifa_code": "CPV",
+    "position": "DF",
+    "jersey_number": 4,
+    "birth_date": "1992-06-17"
+  },
+  {
+    "name": "Logan Costa",
+    "team_fifa_code": "CPV",
+    "position": "DF",
+    "jersey_number": 5,
+    "birth_date": "2001-04-01"
+  },
+  {
+    "name": "Kevin Pina",
+    "team_fifa_code": "CPV",
+    "position": "MF",
+    "jersey_number": 6,
+    "birth_date": "1997-01-27"
+  },
+  {
+    "name": "Jovane Cabral",
+    "team_fifa_code": "CPV",
+    "position": "MF",
+    "jersey_number": 7,
+    "birth_date": "1998-06-14"
+  },
+  {
+    "name": "João Paulo",
+    "team_fifa_code": "CPV",
+    "position": "MF",
+    "jersey_number": 8,
+    "birth_date": "1998-05-26"
+  },
+  {
+    "name": "Gilson Benchimol",
+    "team_fifa_code": "CPV",
+    "position": "FW",
+    "jersey_number": 9,
+    "birth_date": "2001-12-29"
+  },
+  {
+    "name": "Jamiro Monteiro",
+    "team_fifa_code": "CPV",
+    "position": "MF",
+    "jersey_number": 10,
+    "birth_date": "1993-11-23"
+  },
+  {
+    "name": "Garry Rodrigues",
+    "team_fifa_code": "CPV",
+    "position": "MF",
+    "jersey_number": 11,
+    "birth_date": "1990-11-27"
+  },
+  {
+    "name": "Márcio Rosa",
+    "team_fifa_code": "CPV",
+    "position": "GK",
+    "jersey_number": 12,
+    "birth_date": "1997-02-23"
+  },
+  {
+    "name": "Sidny Lopes Cabral",
+    "team_fifa_code": "CPV",
+    "position": "DF",
+    "jersey_number": 13,
+    "birth_date": "2002-09-18"
+  },
+  {
+    "name": "Deroy Duarte",
+    "team_fifa_code": "CPV",
+    "position": "MF",
+    "jersey_number": 14,
+    "birth_date": "1999-07-04"
+  },
+  {
+    "name": "Laros Duarte",
+    "team_fifa_code": "CPV",
+    "position": "MF",
+    "jersey_number": 15,
+    "birth_date": "1997-02-28"
+  },
+  {
+    "name": "Yannick Semedo",
+    "team_fifa_code": "CPV",
+    "position": "MF",
+    "jersey_number": 16,
+    "birth_date": "1995-12-29"
+  },
+  {
+    "name": "Willy Semedo",
+    "team_fifa_code": "CPV",
+    "position": "MF",
+    "jersey_number": 17,
+    "birth_date": "1994-04-27"
+  },
+  {
+    "name": "Telmo Arcanjo",
+    "team_fifa_code": "CPV",
+    "position": "MF",
+    "jersey_number": 18,
+    "birth_date": "2001-06-21"
+  },
+  {
+    "name": "Dailon Livramento",
+    "team_fifa_code": "CPV",
+    "position": "FW",
+    "jersey_number": 19,
+    "birth_date": "2001-05-04"
+  },
+  {
+    "name": "Ryan Mendes ( captain )",
+    "team_fifa_code": "CPV",
+    "position": "FW",
+    "jersey_number": 20,
+    "birth_date": "1990-01-08"
+  },
+  {
+    "name": "Nuno da Costa",
+    "team_fifa_code": "CPV",
+    "position": "MF",
+    "jersey_number": 21,
+    "birth_date": "1991-02-10"
+  },
+  {
+    "name": "Steven Moreira",
+    "team_fifa_code": "CPV",
+    "position": "DF",
+    "jersey_number": 22,
+    "birth_date": "1994-08-13"
+  },
+  {
+    "name": "CJ dos Santos",
+    "team_fifa_code": "CPV",
+    "position": "GK",
+    "jersey_number": 23,
+    "birth_date": "2000-08-24"
+  },
+  {
+    "name": "Wagner Pina",
+    "team_fifa_code": "CPV",
+    "position": "DF",
+    "jersey_number": 24,
+    "birth_date": "2002-11-03"
+  },
+  {
+    "name": "Kelvin Pires",
+    "team_fifa_code": "CPV",
+    "position": "DF",
+    "jersey_number": 25,
+    "birth_date": "2000-06-05"
+  },
+  {
+    "name": "Hélio Varela",
+    "team_fifa_code": "CPV",
+    "position": "MF",
+    "jersey_number": 26,
+    "birth_date": "2002-05-03"
+  },
+  {
+    "name": "Nawaf Al-Aqidi",
+    "team_fifa_code": "KSA",
+    "position": "GK",
+    "jersey_number": 1,
+    "birth_date": "2000-05-10"
+  },
+  {
+    "name": "Ali Majrashi",
+    "team_fifa_code": "KSA",
+    "position": "DF",
+    "jersey_number": 2,
+    "birth_date": "1999-10-02"
+  },
+  {
+    "name": "Ali Lajami",
+    "team_fifa_code": "KSA",
+    "position": "DF",
+    "jersey_number": 3,
+    "birth_date": "1996-04-24"
+  },
+  {
+    "name": "Abdulelah Al-Amri",
+    "team_fifa_code": "KSA",
+    "position": "DF",
+    "jersey_number": 4,
+    "birth_date": "1997-01-15"
+  },
+  {
+    "name": "Hassan Al-Tambakti",
+    "team_fifa_code": "KSA",
+    "position": "DF",
+    "jersey_number": 5,
+    "birth_date": "1999-02-09"
+  },
+  {
+    "name": "Nasser Al-Dawsari",
+    "team_fifa_code": "KSA",
+    "position": "MF",
+    "jersey_number": 6,
+    "birth_date": "1998-12-19"
+  },
+  {
+    "name": "Musab Al-Juwayr",
+    "team_fifa_code": "KSA",
+    "position": "MF",
+    "jersey_number": 7,
+    "birth_date": "2003-06-20"
+  },
+  {
+    "name": "Ayman Yahya",
+    "team_fifa_code": "KSA",
+    "position": "FW",
+    "jersey_number": 8,
+    "birth_date": "2001-05-14"
+  },
+  {
+    "name": "Firas Al-Buraikan",
+    "team_fifa_code": "KSA",
+    "position": "FW",
+    "jersey_number": 9,
+    "birth_date": "2000-05-14"
+  },
+  {
+    "name": "Salem Al-Dawsari ( captain )",
+    "team_fifa_code": "KSA",
+    "position": "FW",
+    "jersey_number": 10,
+    "birth_date": "1991-08-19"
+  },
+  {
+    "name": "Saleh Al-Shehri",
+    "team_fifa_code": "KSA",
+    "position": "FW",
+    "jersey_number": 11,
+    "birth_date": "1993-11-01"
+  },
+  {
+    "name": "Saud Abdulhamid",
+    "team_fifa_code": "KSA",
+    "position": "DF",
+    "jersey_number": 12,
+    "birth_date": "1999-07-18"
+  },
+  {
+    "name": "Nawaf Boushal",
+    "team_fifa_code": "KSA",
+    "position": "DF",
+    "jersey_number": 13,
+    "birth_date": "1999-09-16"
+  },
+  {
+    "name": "Hassan Kadesh",
+    "team_fifa_code": "KSA",
+    "position": "DF",
+    "jersey_number": 14,
+    "birth_date": "1992-09-26"
+  },
+  {
+    "name": "Abdullah Al-Khaibari",
+    "team_fifa_code": "KSA",
+    "position": "MF",
+    "jersey_number": 15,
+    "birth_date": "1996-08-16"
+  },
+  {
+    "name": "Ziyad Al-Johani",
+    "team_fifa_code": "KSA",
+    "position": "MF",
+    "jersey_number": 16,
+    "birth_date": "2001-11-11"
+  },
+  {
+    "name": "Khalid Al-Ghannam",
+    "team_fifa_code": "KSA",
+    "position": "FW",
+    "jersey_number": 17,
+    "birth_date": "2000-11-08"
+  },
+  {
+    "name": "Alaa Al-Hejji",
+    "team_fifa_code": "KSA",
+    "position": "MF",
+    "jersey_number": 18,
+    "birth_date": "1995-12-03"
+  },
+  {
+    "name": "Abdullah Al-Hamdan",
+    "team_fifa_code": "KSA",
+    "position": "FW",
+    "jersey_number": 19,
+    "birth_date": "1999-09-13"
+  },
+  {
+    "name": "Sultan Mandash",
+    "team_fifa_code": "KSA",
+    "position": "FW",
+    "jersey_number": 20,
+    "birth_date": "1994-10-17"
+  },
+  {
+    "name": "Mohammed Al-Owais",
+    "team_fifa_code": "KSA",
+    "position": "GK",
+    "jersey_number": 21,
+    "birth_date": "1991-10-10"
+  },
+  {
+    "name": "Ahmed Al-Kassar",
+    "team_fifa_code": "KSA",
+    "position": "GK",
+    "jersey_number": 22,
+    "birth_date": "1991-05-08"
+  },
+  {
+    "name": "Mohamed Kanno",
+    "team_fifa_code": "KSA",
+    "position": "MF",
+    "jersey_number": 23,
+    "birth_date": "1994-09-22"
+  },
+  {
+    "name": "Moteb Al-Harbi",
+    "team_fifa_code": "KSA",
+    "position": "DF",
+    "jersey_number": 24,
+    "birth_date": "2000-02-20"
+  },
+  {
+    "name": "Jehad Thakri",
+    "team_fifa_code": "KSA",
+    "position": "DF",
+    "jersey_number": 25,
+    "birth_date": "2001-07-21"
+  },
+  {
+    "name": "Mohammed Abu Al-Shamat",
+    "team_fifa_code": "KSA",
+    "position": "DF",
+    "jersey_number": 26,
+    "birth_date": "2002-08-11"
+  },
+  {
+    "name": "David Raya",
+    "team_fifa_code": "ESP",
+    "position": "GK",
+    "jersey_number": 1,
+    "birth_date": "1995-09-15"
+  },
+  {
+    "name": "Marc Pubill",
+    "team_fifa_code": "ESP",
+    "position": "DF",
+    "jersey_number": 2,
+    "birth_date": "2003-06-20"
+  },
+  {
+    "name": "Álex Grimaldo",
+    "team_fifa_code": "ESP",
+    "position": "DF",
+    "jersey_number": 3,
+    "birth_date": "1995-09-20"
+  },
+  {
+    "name": "Eric García",
+    "team_fifa_code": "ESP",
+    "position": "DF",
+    "jersey_number": 4,
+    "birth_date": "2001-01-09"
+  },
+  {
+    "name": "Marcos Llorente",
+    "team_fifa_code": "ESP",
+    "position": "DF",
+    "jersey_number": 5,
+    "birth_date": "1995-01-30"
+  },
+  {
+    "name": "Mikel Merino",
+    "team_fifa_code": "ESP",
+    "position": "MF",
+    "jersey_number": 6,
+    "birth_date": "1996-06-22"
+  },
+  {
+    "name": "Ferran Torres",
+    "team_fifa_code": "ESP",
+    "position": "FW",
+    "jersey_number": 7,
+    "birth_date": "2000-02-29"
+  },
+  {
+    "name": "Fabián Ruiz",
+    "team_fifa_code": "ESP",
+    "position": "MF",
+    "jersey_number": 8,
+    "birth_date": "1996-04-03"
+  },
+  {
+    "name": "Gavi",
+    "team_fifa_code": "ESP",
+    "position": "MF",
+    "jersey_number": 9,
+    "birth_date": "2004-08-05"
+  },
+  {
+    "name": "Dani Olmo",
+    "team_fifa_code": "ESP",
+    "position": "FW",
+    "jersey_number": 10,
+    "birth_date": "1998-05-07"
+  },
+  {
+    "name": "Yéremy Pino",
+    "team_fifa_code": "ESP",
+    "position": "FW",
+    "jersey_number": 11,
+    "birth_date": "2002-10-20"
+  },
+  {
+    "name": "Pedro Porro",
+    "team_fifa_code": "ESP",
+    "position": "DF",
+    "jersey_number": 12,
+    "birth_date": "1999-09-13"
+  },
+  {
+    "name": "Joan Garcia",
+    "team_fifa_code": "ESP",
+    "position": "GK",
+    "jersey_number": 13,
+    "birth_date": "2001-05-04"
+  },
+  {
+    "name": "Aymeric Laporte",
+    "team_fifa_code": "ESP",
+    "position": "DF",
+    "jersey_number": 14,
+    "birth_date": "1994-05-27"
+  },
+  {
+    "name": "Álex Baena",
+    "team_fifa_code": "ESP",
+    "position": "MF",
+    "jersey_number": 15,
+    "birth_date": "2001-07-20"
+  },
+  {
+    "name": "Rodri ( captain )",
+    "team_fifa_code": "ESP",
+    "position": "MF",
+    "jersey_number": 16,
+    "birth_date": "1996-06-22"
+  },
+  {
+    "name": "Nico Williams",
+    "team_fifa_code": "ESP",
+    "position": "FW",
+    "jersey_number": 17,
+    "birth_date": "2002-07-12"
+  },
+  {
+    "name": "Martín Zubimendi",
+    "team_fifa_code": "ESP",
+    "position": "MF",
+    "jersey_number": 18,
+    "birth_date": "1999-02-02"
+  },
+  {
+    "name": "Lamine Yamal",
+    "team_fifa_code": "ESP",
+    "position": "FW",
+    "jersey_number": 19,
+    "birth_date": "2007-07-13"
+  },
+  {
+    "name": "Pedri",
+    "team_fifa_code": "ESP",
+    "position": "MF",
+    "jersey_number": 20,
+    "birth_date": "2002-11-25"
+  },
+  {
+    "name": "Mikel Oyarzabal",
+    "team_fifa_code": "ESP",
+    "position": "FW",
+    "jersey_number": 21,
+    "birth_date": "1997-04-21"
+  },
+  {
+    "name": "Pau Cubarsí",
+    "team_fifa_code": "ESP",
+    "position": "DF",
+    "jersey_number": 22,
+    "birth_date": "2007-01-22"
+  },
+  {
+    "name": "Unai Simón",
+    "team_fifa_code": "ESP",
+    "position": "GK",
+    "jersey_number": 23,
+    "birth_date": "1997-06-11"
+  },
+  {
+    "name": "Marc Cucurella",
+    "team_fifa_code": "ESP",
+    "position": "DF",
+    "jersey_number": 24,
+    "birth_date": "1998-07-22"
+  },
+  {
+    "name": "Víctor Muñoz",
+    "team_fifa_code": "ESP",
+    "position": "FW",
+    "jersey_number": 25,
+    "birth_date": "2003-07-13"
+  },
+  {
+    "name": "Borja Iglesias",
+    "team_fifa_code": "ESP",
+    "position": "FW",
+    "jersey_number": 26,
+    "birth_date": "1993-01-17"
+  },
+  {
+    "name": "Sergio Rochet",
+    "team_fifa_code": "URU",
+    "position": "GK",
+    "jersey_number": 1,
+    "birth_date": "1993-03-23"
+  },
+  {
+    "name": "José Giménez ( captain )",
+    "team_fifa_code": "URU",
+    "position": "DF",
+    "jersey_number": 2,
+    "birth_date": "1995-01-20"
+  },
+  {
+    "name": "Sebastián Cáceres",
+    "team_fifa_code": "URU",
+    "position": "DF",
+    "jersey_number": 3,
+    "birth_date": "1999-08-18"
+  },
+  {
+    "name": "Ronald Araújo",
+    "team_fifa_code": "URU",
+    "position": "DF",
+    "jersey_number": 4,
+    "birth_date": "1999-03-07"
+  },
+  {
+    "name": "Manuel Ugarte",
+    "team_fifa_code": "URU",
+    "position": "MF",
+    "jersey_number": 5,
+    "birth_date": "2001-04-11"
+  },
+  {
+    "name": "Rodrigo Bentancur",
+    "team_fifa_code": "URU",
+    "position": "MF",
+    "jersey_number": 6,
+    "birth_date": "1997-06-25"
+  },
+  {
+    "name": "Nicolás de la Cruz",
+    "team_fifa_code": "URU",
+    "position": "MF",
+    "jersey_number": 7,
+    "birth_date": "1997-06-01"
+  },
+  {
+    "name": "Federico Valverde",
+    "team_fifa_code": "URU",
+    "position": "MF",
+    "jersey_number": 8,
+    "birth_date": "1998-07-22"
+  },
+  {
+    "name": "Darwin Núñez",
+    "team_fifa_code": "URU",
+    "position": "FW",
+    "jersey_number": 9,
+    "birth_date": "1999-06-24"
+  },
+  {
+    "name": "Giorgian de Arrascaeta",
+    "team_fifa_code": "URU",
+    "position": "MF",
+    "jersey_number": 10,
+    "birth_date": "1994-06-01"
+  },
+  {
+    "name": "Facundo Pellistri",
+    "team_fifa_code": "URU",
+    "position": "FW",
+    "jersey_number": 11,
+    "birth_date": "2001-12-20"
+  },
+  {
+    "name": "Santiago Mele",
+    "team_fifa_code": "URU",
+    "position": "GK",
+    "jersey_number": 12,
+    "birth_date": "1997-09-06"
+  },
+  {
+    "name": "Guillermo Varela",
+    "team_fifa_code": "URU",
+    "position": "DF",
+    "jersey_number": 13,
+    "birth_date": "1993-03-24"
+  },
+  {
+    "name": "Agustín Canobbio",
+    "team_fifa_code": "URU",
+    "position": "MF",
+    "jersey_number": 14,
+    "birth_date": "1998-10-01"
+  },
+  {
+    "name": "Emiliano Martínez",
+    "team_fifa_code": "URU",
+    "position": "MF",
+    "jersey_number": 15,
+    "birth_date": "1999-08-17"
+  },
+  {
+    "name": "Mathías Olivera",
+    "team_fifa_code": "URU",
+    "position": "DF",
+    "jersey_number": 16,
+    "birth_date": "1997-10-31"
+  },
+  {
+    "name": "Matías Viña",
+    "team_fifa_code": "URU",
+    "position": "DF",
+    "jersey_number": 17,
+    "birth_date": "1997-11-09"
+  },
+  {
+    "name": "Brian Rodríguez",
+    "team_fifa_code": "URU",
+    "position": "FW",
+    "jersey_number": 18,
+    "birth_date": "2000-05-20"
+  },
+  {
+    "name": "Rodrigo Aguirre",
+    "team_fifa_code": "URU",
+    "position": "FW",
+    "jersey_number": 19,
+    "birth_date": "1994-10-01"
+  },
+  {
+    "name": "Maximiliano Araújo",
+    "team_fifa_code": "URU",
+    "position": "MF",
+    "jersey_number": 20,
+    "birth_date": "2000-02-15"
+  },
+  {
+    "name": "Federico Viñas",
+    "team_fifa_code": "URU",
+    "position": "FW",
+    "jersey_number": 21,
+    "birth_date": "1998-06-30"
+  },
+  {
+    "name": "Joaquín Piquerez",
+    "team_fifa_code": "URU",
+    "position": "MF",
+    "jersey_number": 22,
+    "birth_date": "1998-08-24"
+  },
+  {
+    "name": "Fernando Muslera",
+    "team_fifa_code": "URU",
+    "position": "GK",
+    "jersey_number": 23,
+    "birth_date": "1986-06-16"
+  },
+  {
+    "name": "Santiago Bueno",
+    "team_fifa_code": "URU",
+    "position": "DF",
+    "jersey_number": 24,
+    "birth_date": "1998-11-09"
+  },
+  {
+    "name": "Juan Manuel Sanabria",
+    "team_fifa_code": "URU",
+    "position": "MF",
+    "jersey_number": 25,
+    "birth_date": "2000-03-29"
+  },
+  {
+    "name": "Rodrigo Zalazar",
+    "team_fifa_code": "URU",
+    "position": "MF",
+    "jersey_number": 26,
+    "birth_date": "1999-08-12"
+  },
+  {
+    "name": "Brice Samba",
+    "team_fifa_code": "FRA",
+    "position": "GK",
+    "jersey_number": 1,
+    "birth_date": "1994-04-25"
+  },
+  {
+    "name": "Malo Gusto",
+    "team_fifa_code": "FRA",
+    "position": "DF",
+    "jersey_number": 2,
+    "birth_date": "2003-05-19"
+  },
+  {
+    "name": "Lucas Digne",
+    "team_fifa_code": "FRA",
+    "position": "DF",
+    "jersey_number": 3,
+    "birth_date": "1993-07-20"
+  },
+  {
+    "name": "Dayot Upamecano",
+    "team_fifa_code": "FRA",
+    "position": "DF",
+    "jersey_number": 4,
+    "birth_date": "1998-10-27"
+  },
+  {
+    "name": "Jules Koundé",
+    "team_fifa_code": "FRA",
+    "position": "DF",
+    "jersey_number": 5,
+    "birth_date": "1998-11-12"
+  },
+  {
+    "name": "Manu Koné",
+    "team_fifa_code": "FRA",
+    "position": "MF",
+    "jersey_number": 6,
+    "birth_date": "2001-05-17"
+  },
+  {
+    "name": "Ousmane Dembélé",
+    "team_fifa_code": "FRA",
+    "position": "FW",
+    "jersey_number": 7,
+    "birth_date": "1997-05-15"
+  },
+  {
+    "name": "Aurélien Tchouaméni",
+    "team_fifa_code": "FRA",
+    "position": "MF",
+    "jersey_number": 8,
+    "birth_date": "2000-01-27"
+  },
+  {
+    "name": "Marcus Thuram",
+    "team_fifa_code": "FRA",
+    "position": "FW",
+    "jersey_number": 9,
+    "birth_date": "1997-08-06"
+  },
+  {
+    "name": "Kylian Mbappé ( captain )",
+    "team_fifa_code": "FRA",
+    "position": "FW",
+    "jersey_number": 10,
+    "birth_date": "1998-12-20"
+  },
+  {
+    "name": "Michael Olise",
+    "team_fifa_code": "FRA",
+    "position": "FW",
+    "jersey_number": 11,
+    "birth_date": "2001-12-12"
+  },
+  {
+    "name": "Bradley Barcola",
+    "team_fifa_code": "FRA",
+    "position": "FW",
+    "jersey_number": 12,
+    "birth_date": "2002-09-02"
+  },
+  {
+    "name": "N'Golo Kanté",
+    "team_fifa_code": "FRA",
+    "position": "MF",
+    "jersey_number": 13,
+    "birth_date": "1991-03-29"
+  },
+  {
+    "name": "Adrien Rabiot",
+    "team_fifa_code": "FRA",
+    "position": "MF",
+    "jersey_number": 14,
+    "birth_date": "1995-04-03"
+  },
+  {
+    "name": "Ibrahima Konaté",
+    "team_fifa_code": "FRA",
+    "position": "DF",
+    "jersey_number": 15,
+    "birth_date": "1999-05-25"
+  },
+  {
+    "name": "Mike Maignan",
+    "team_fifa_code": "FRA",
+    "position": "GK",
+    "jersey_number": 16,
+    "birth_date": "1995-07-03"
+  },
+  {
+    "name": "William Saliba",
+    "team_fifa_code": "FRA",
+    "position": "DF",
+    "jersey_number": 17,
+    "birth_date": "2001-03-24"
+  },
+  {
+    "name": "Warren Zaïre-Emery",
+    "team_fifa_code": "FRA",
+    "position": "MF",
+    "jersey_number": 18,
+    "birth_date": "2006-03-08"
+  },
+  {
+    "name": "Théo Hernandez",
+    "team_fifa_code": "FRA",
+    "position": "DF",
+    "jersey_number": 19,
+    "birth_date": "1997-10-06"
+  },
+  {
+    "name": "Désiré Doué",
+    "team_fifa_code": "FRA",
+    "position": "FW",
+    "jersey_number": 20,
+    "birth_date": "2005-06-03"
+  },
+  {
+    "name": "Lucas Hernandez",
+    "team_fifa_code": "FRA",
+    "position": "DF",
+    "jersey_number": 21,
+    "birth_date": "1996-02-14"
+  },
+  {
+    "name": "Jean-Philippe Mateta",
+    "team_fifa_code": "FRA",
+    "position": "FW",
+    "jersey_number": 22,
+    "birth_date": "1997-06-28"
+  },
+  {
+    "name": "Robin Risser",
+    "team_fifa_code": "FRA",
+    "position": "GK",
+    "jersey_number": 23,
+    "birth_date": "2004-12-02"
+  },
+  {
+    "name": "Rayan Cherki",
+    "team_fifa_code": "FRA",
+    "position": "MF",
+    "jersey_number": 24,
+    "birth_date": "2003-08-17"
+  },
+  {
+    "name": "Maghnes Akliouche",
+    "team_fifa_code": "FRA",
+    "position": "MF",
+    "jersey_number": 25,
+    "birth_date": "2002-02-25"
+  },
+  {
+    "name": "Maxence Lacroix",
+    "team_fifa_code": "FRA",
+    "position": "DF",
+    "jersey_number": 26,
+    "birth_date": "2000-04-06"
+  },
+  {
+    "name": "Fahad Talib",
+    "team_fifa_code": "IRQ",
+    "position": "GK",
+    "jersey_number": 1,
+    "birth_date": "1994-10-21"
+  },
+  {
+    "name": "Rebin Sulaka",
+    "team_fifa_code": "IRQ",
+    "position": "DF",
+    "jersey_number": 2,
+    "birth_date": "1992-04-12"
+  },
+  {
+    "name": "Hussein Ali",
+    "team_fifa_code": "IRQ",
+    "position": "DF",
+    "jersey_number": 3,
+    "birth_date": "2002-03-01"
+  },
+  {
+    "name": "Zaid Tahseen",
+    "team_fifa_code": "IRQ",
+    "position": "DF",
+    "jersey_number": 4,
+    "birth_date": "2001-01-29"
+  },
+  {
+    "name": "Akam Hashim",
+    "team_fifa_code": "IRQ",
+    "position": "DF",
+    "jersey_number": 5,
+    "birth_date": "1998-08-16"
+  },
+  {
+    "name": "Manaf Younis",
+    "team_fifa_code": "IRQ",
+    "position": "DF",
+    "jersey_number": 6,
+    "birth_date": "1996-11-16"
+  },
+  {
+    "name": "Youssef Amyn",
+    "team_fifa_code": "IRQ",
+    "position": "MF",
+    "jersey_number": 7,
+    "birth_date": "2003-08-21"
+  },
+  {
+    "name": "Ibrahim Bayesh",
+    "team_fifa_code": "IRQ",
+    "position": "MF",
+    "jersey_number": 8,
+    "birth_date": "2000-05-01"
+  },
+  {
+    "name": "Ali Al-Hamadi",
+    "team_fifa_code": "IRQ",
+    "position": "FW",
+    "jersey_number": 9,
+    "birth_date": "2002-03-01"
+  },
+  {
+    "name": "Mohanad Ali",
+    "team_fifa_code": "IRQ",
+    "position": "FW",
+    "jersey_number": 10,
+    "birth_date": "2000-06-20"
+  },
+  {
+    "name": "Ahmed Qasem",
+    "team_fifa_code": "IRQ",
+    "position": "FW",
+    "jersey_number": 11,
+    "birth_date": "2003-07-12"
+  },
+  {
+    "name": "Jalal Hassan ( captain )",
+    "team_fifa_code": "IRQ",
+    "position": "GK",
+    "jersey_number": 12,
+    "birth_date": "1991-05-18"
+  },
+  {
+    "name": "Ali Yousif",
+    "team_fifa_code": "IRQ",
+    "position": "FW",
+    "jersey_number": 13,
+    "birth_date": "1996-01-19"
+  },
+  {
+    "name": "Zidane Iqbal",
+    "team_fifa_code": "IRQ",
+    "position": "MF",
+    "jersey_number": 14,
+    "birth_date": "2003-04-27"
+  },
+  {
+    "name": "Ahmed Maknzi",
+    "team_fifa_code": "IRQ",
+    "position": "DF",
+    "jersey_number": 15,
+    "birth_date": "2001-09-24"
+  },
+  {
+    "name": "Amir Al-Ammari",
+    "team_fifa_code": "IRQ",
+    "position": "MF",
+    "jersey_number": 16,
+    "birth_date": "1997-07-27"
+  },
+  {
+    "name": "Ali Jasim",
+    "team_fifa_code": "IRQ",
+    "position": "FW",
+    "jersey_number": 17,
+    "birth_date": "2004-01-20"
+  },
+  {
+    "name": "Aymen Hussein",
+    "team_fifa_code": "IRQ",
+    "position": "FW",
+    "jersey_number": 18,
+    "birth_date": "1996-03-22"
+  },
+  {
+    "name": "Kevin Yakob",
+    "team_fifa_code": "IRQ",
+    "position": "MF",
+    "jersey_number": 19,
+    "birth_date": "2000-10-10"
+  },
+  {
+    "name": "Aimar Sher",
+    "team_fifa_code": "IRQ",
+    "position": "MF",
+    "jersey_number": 20,
+    "birth_date": "2002-12-20"
+  },
+  {
+    "name": "Marko Farji",
+    "team_fifa_code": "IRQ",
+    "position": "FW",
+    "jersey_number": 21,
+    "birth_date": "2004-03-16"
+  },
+  {
+    "name": "Ahmed Basil",
+    "team_fifa_code": "IRQ",
+    "position": "GK",
+    "jersey_number": 22,
+    "birth_date": "1996-08-19"
+  },
+  {
+    "name": "Merchas Doski",
+    "team_fifa_code": "IRQ",
+    "position": "DF",
+    "jersey_number": 23,
+    "birth_date": "1999-12-07"
+  },
+  {
+    "name": "Zaid Ismail",
+    "team_fifa_code": "IRQ",
+    "position": "MF",
+    "jersey_number": 24,
+    "birth_date": "2002-01-03"
+  },
+  {
+    "name": "Mustafa Saadoon",
+    "team_fifa_code": "IRQ",
+    "position": "DF",
+    "jersey_number": 25,
+    "birth_date": "2001-05-25"
+  },
+  {
+    "name": "Frans Putros",
+    "team_fifa_code": "IRQ",
+    "position": "DF",
+    "jersey_number": 26,
+    "birth_date": "1993-07-14"
+  },
+  {
+    "name": "Ørjan Nyland",
+    "team_fifa_code": "NOR",
+    "position": "GK",
+    "jersey_number": 1,
+    "birth_date": "1990-09-10"
+  },
+  {
+    "name": "Morten Thorsby",
+    "team_fifa_code": "NOR",
+    "position": "MF",
+    "jersey_number": 2,
+    "birth_date": "1996-05-05"
+  },
+  {
+    "name": "Kristoffer Ajer",
+    "team_fifa_code": "NOR",
+    "position": "DF",
+    "jersey_number": 3,
+    "birth_date": "1998-04-17"
+  },
+  {
+    "name": "Leo Østigård",
+    "team_fifa_code": "NOR",
+    "position": "DF",
+    "jersey_number": 4,
+    "birth_date": "1999-11-28"
+  },
+  {
+    "name": "David Møller Wolfe",
+    "team_fifa_code": "NOR",
+    "position": "DF",
+    "jersey_number": 5,
+    "birth_date": "2002-04-23"
+  },
+  {
+    "name": "Patrick Berg",
+    "team_fifa_code": "NOR",
+    "position": "MF",
+    "jersey_number": 6,
+    "birth_date": "1997-11-24"
+  },
+  {
+    "name": "Alexander Sørloth",
+    "team_fifa_code": "NOR",
+    "position": "FW",
+    "jersey_number": 7,
+    "birth_date": "1995-12-05"
+  },
+  {
+    "name": "Sander Berge",
+    "team_fifa_code": "NOR",
+    "position": "MF",
+    "jersey_number": 8,
+    "birth_date": "1998-02-14"
+  },
+  {
+    "name": "Erling Haaland",
+    "team_fifa_code": "NOR",
+    "position": "FW",
+    "jersey_number": 9,
+    "birth_date": "2000-07-21"
+  },
+  {
+    "name": "Martin Ødegaard ( captain )",
+    "team_fifa_code": "NOR",
+    "position": "MF",
+    "jersey_number": 10,
+    "birth_date": "1998-12-17"
+  },
+  {
+    "name": "Jørgen Strand Larsen",
+    "team_fifa_code": "NOR",
+    "position": "FW",
+    "jersey_number": 11,
+    "birth_date": "2000-02-06"
+  },
+  {
+    "name": "Sander Tangvik",
+    "team_fifa_code": "NOR",
+    "position": "GK",
+    "jersey_number": 12,
+    "birth_date": "2002-11-29"
+  },
+  {
+    "name": "Egil Selvik",
+    "team_fifa_code": "NOR",
+    "position": "GK",
+    "jersey_number": 13,
+    "birth_date": "1997-07-30"
+  },
+  {
+    "name": "Fredrik Aursnes",
+    "team_fifa_code": "NOR",
+    "position": "MF",
+    "jersey_number": 14,
+    "birth_date": "1995-12-10"
+  },
+  {
+    "name": "Fredrik André Bjørkan",
+    "team_fifa_code": "NOR",
+    "position": "DF",
+    "jersey_number": 15,
+    "birth_date": "1998-08-21"
+  },
+  {
+    "name": "Marcus Holmgren Pedersen",
+    "team_fifa_code": "NOR",
+    "position": "DF",
+    "jersey_number": 16,
+    "birth_date": "2000-07-16"
+  },
+  {
+    "name": "Torbjørn Heggem",
+    "team_fifa_code": "NOR",
+    "position": "DF",
+    "jersey_number": 17,
+    "birth_date": "1999-01-12"
+  },
+  {
+    "name": "Kristian Thorstvedt",
+    "team_fifa_code": "NOR",
+    "position": "MF",
+    "jersey_number": 18,
+    "birth_date": "1999-03-13"
+  },
+  {
+    "name": "Thelo Aasgaard",
+    "team_fifa_code": "NOR",
+    "position": "MF",
+    "jersey_number": 19,
+    "birth_date": "2002-05-02"
+  },
+  {
+    "name": "Antonio Nusa",
+    "team_fifa_code": "NOR",
+    "position": "FW",
+    "jersey_number": 20,
+    "birth_date": "2005-04-17"
+  },
+  {
+    "name": "Andreas Schjelderup",
+    "team_fifa_code": "NOR",
+    "position": "MF",
+    "jersey_number": 21,
+    "birth_date": "2004-06-01"
+  },
+  {
+    "name": "Oscar Bobb",
+    "team_fifa_code": "NOR",
+    "position": "MF",
+    "jersey_number": 22,
+    "birth_date": "2003-07-12"
+  },
+  {
+    "name": "Jens Petter Hauge",
+    "team_fifa_code": "NOR",
+    "position": "MF",
+    "jersey_number": 23,
+    "birth_date": "1999-10-12"
+  },
+  {
+    "name": "Sondre Langås",
+    "team_fifa_code": "NOR",
+    "position": "DF",
+    "jersey_number": 24,
+    "birth_date": "2001-02-02"
+  },
+  {
+    "name": "Henrik Falchener",
+    "team_fifa_code": "NOR",
+    "position": "DF",
+    "jersey_number": 25,
+    "birth_date": "2003-05-08"
+  },
+  {
+    "name": "Julian Ryerson",
+    "team_fifa_code": "NOR",
+    "position": "FW",
+    "jersey_number": 26,
+    "birth_date": "1997-11-17"
+  },
+  {
+    "name": "Yehvann Diouf",
+    "team_fifa_code": "SEN",
+    "position": "GK",
+    "jersey_number": 1,
+    "birth_date": "1999-11-16"
+  },
+  {
+    "name": "Mamadou Sarr",
+    "team_fifa_code": "SEN",
+    "position": "DF",
+    "jersey_number": 2,
+    "birth_date": "2005-08-29"
+  },
+  {
+    "name": "Kalidou Koulibaly ( captain )",
+    "team_fifa_code": "SEN",
+    "position": "DF",
+    "jersey_number": 3,
+    "birth_date": "1991-06-20"
+  },
+  {
+    "name": "Abdoulaye Seck",
+    "team_fifa_code": "SEN",
+    "position": "DF",
+    "jersey_number": 4,
+    "birth_date": "1992-06-04"
+  },
+  {
+    "name": "Idrissa Gueye",
+    "team_fifa_code": "SEN",
+    "position": "MF",
+    "jersey_number": 5,
+    "birth_date": "1989-09-26"
+  },
+  {
+    "name": "Pathé Ciss",
+    "team_fifa_code": "SEN",
+    "position": "MF",
+    "jersey_number": 6,
+    "birth_date": "1994-03-16"
+  },
+  {
+    "name": "Assane Diao",
+    "team_fifa_code": "SEN",
+    "position": "FW",
+    "jersey_number": 7,
+    "birth_date": "2005-09-07"
+  },
+  {
+    "name": "Lamine Camara",
+    "team_fifa_code": "SEN",
+    "position": "MF",
+    "jersey_number": 8,
+    "birth_date": "2004-01-01"
+  },
+  {
+    "name": "Bamba Dieng",
+    "team_fifa_code": "SEN",
+    "position": "FW",
+    "jersey_number": 9,
+    "birth_date": "2000-03-23"
+  },
+  {
+    "name": "Sadio Mané",
+    "team_fifa_code": "SEN",
+    "position": "FW",
+    "jersey_number": 10,
+    "birth_date": "1992-04-10"
+  },
+  {
+    "name": "Nicolas Jackson",
+    "team_fifa_code": "SEN",
+    "position": "FW",
+    "jersey_number": 11,
+    "birth_date": "2001-06-20"
+  },
+  {
+    "name": "Cherif Ndiaye",
+    "team_fifa_code": "SEN",
+    "position": "FW",
+    "jersey_number": 12,
+    "birth_date": "1996-01-23"
+  },
+  {
+    "name": "Iliman Ndiaye",
+    "team_fifa_code": "SEN",
+    "position": "FW",
+    "jersey_number": 13,
+    "birth_date": "2000-03-06"
+  },
+  {
+    "name": "Ismail Jakobs",
+    "team_fifa_code": "SEN",
+    "position": "DF",
+    "jersey_number": 14,
+    "birth_date": "1999-08-17"
+  },
+  {
+    "name": "Krépin Diatta",
+    "team_fifa_code": "SEN",
+    "position": "DF",
+    "jersey_number": 15,
+    "birth_date": "1999-02-25"
+  },
+  {
+    "name": "Édouard Mendy",
+    "team_fifa_code": "SEN",
+    "position": "GK",
+    "jersey_number": 16,
+    "birth_date": "1992-03-01"
+  },
+  {
+    "name": "Pape Matar Sarr",
+    "team_fifa_code": "SEN",
+    "position": "MF",
+    "jersey_number": 17,
+    "birth_date": "2002-09-14"
+  },
+  {
+    "name": "Ismaïla Sarr",
+    "team_fifa_code": "SEN",
+    "position": "FW",
+    "jersey_number": 18,
+    "birth_date": "1998-02-25"
+  },
+  {
+    "name": "Moussa Niakhaté",
+    "team_fifa_code": "SEN",
+    "position": "DF",
+    "jersey_number": 19,
+    "birth_date": "1996-03-08"
+  },
+  {
+    "name": "Ibrahim Mbaye",
+    "team_fifa_code": "SEN",
+    "position": "FW",
+    "jersey_number": 20,
+    "birth_date": "2008-01-24"
+  },
+  {
+    "name": "Habib Diarra",
+    "team_fifa_code": "SEN",
+    "position": "MF",
+    "jersey_number": 21,
+    "birth_date": "2004-01-03"
+  },
+  {
+    "name": "Bara Sapoko Ndiaye",
+    "team_fifa_code": "SEN",
+    "position": "MF",
+    "jersey_number": 22,
+    "birth_date": "2007-12-31"
+  },
+  {
+    "name": "Mory Diaw",
+    "team_fifa_code": "SEN",
+    "position": "GK",
+    "jersey_number": 23,
+    "birth_date": "1993-06-22"
+  },
+  {
+    "name": "Antoine Mendy",
+    "team_fifa_code": "SEN",
+    "position": "DF",
+    "jersey_number": 24,
+    "birth_date": "2004-05-27"
+  },
+  {
+    "name": "El Hadji Malick Diouf",
+    "team_fifa_code": "SEN",
+    "position": "DF",
+    "jersey_number": 25,
+    "birth_date": "2004-12-29"
+  },
+  {
+    "name": "Pape Gueye",
+    "team_fifa_code": "SEN",
+    "position": "MF",
+    "jersey_number": 26,
+    "birth_date": "1999-01-24"
+  },
+  {
+    "name": "Melvin Mastil",
+    "team_fifa_code": "ALG",
+    "position": "GK",
+    "jersey_number": 1,
+    "birth_date": "2000-02-19"
+  },
+  {
+    "name": "Aïssa Mandi",
+    "team_fifa_code": "ALG",
+    "position": "DF",
+    "jersey_number": 2,
+    "birth_date": "1991-10-22"
+  },
+  {
+    "name": "Achref Abada",
+    "team_fifa_code": "ALG",
+    "position": "DF",
+    "jersey_number": 3,
+    "birth_date": "1999-06-15"
+  },
+  {
+    "name": "Mohamed Amine Tougai",
+    "team_fifa_code": "ALG",
+    "position": "DF",
+    "jersey_number": 4,
+    "birth_date": "2000-01-22"
+  },
+  {
+    "name": "Zineddine Belaïd",
+    "team_fifa_code": "ALG",
+    "position": "DF",
+    "jersey_number": 5,
+    "birth_date": "1999-03-20"
+  },
+  {
+    "name": "Ramiz Zerrouki",
+    "team_fifa_code": "ALG",
+    "position": "MF",
+    "jersey_number": 6,
+    "birth_date": "1998-05-26"
+  },
+  {
+    "name": "Riyad Mahrez ( captain )",
+    "team_fifa_code": "ALG",
+    "position": "FW",
+    "jersey_number": 7,
+    "birth_date": "1991-02-21"
+  },
+  {
+    "name": "Houssem Aouar",
+    "team_fifa_code": "ALG",
+    "position": "MF",
+    "jersey_number": 8,
+    "birth_date": "1998-06-30"
+  },
+  {
+    "name": "Amine Gouiri",
+    "team_fifa_code": "ALG",
+    "position": "FW",
+    "jersey_number": 9,
+    "birth_date": "2000-02-16"
+  },
+  {
+    "name": "Farès Chaïbi",
+    "team_fifa_code": "ALG",
+    "position": "MF",
+    "jersey_number": 10,
+    "birth_date": "2002-11-28"
+  },
+  {
+    "name": "Anis Hadj Moussa",
+    "team_fifa_code": "ALG",
+    "position": "FW",
+    "jersey_number": 11,
+    "birth_date": "2002-02-11"
+  },
+  {
+    "name": "Nadhir Benbouali",
+    "team_fifa_code": "ALG",
+    "position": "FW",
+    "jersey_number": 12,
+    "birth_date": "2000-04-17"
+  },
+  {
+    "name": "Jaouen Hadjam",
+    "team_fifa_code": "ALG",
+    "position": "DF",
+    "jersey_number": 13,
+    "birth_date": "2003-03-26"
+  },
+  {
+    "name": "Hicham Boudaoui",
+    "team_fifa_code": "ALG",
+    "position": "MF",
+    "jersey_number": 14,
+    "birth_date": "1999-09-23"
+  },
+  {
+    "name": "Rayan Aït-Nouri",
+    "team_fifa_code": "ALG",
+    "position": "DF",
+    "jersey_number": 15,
+    "birth_date": "2001-06-06"
+  },
+  {
+    "name": "Oussama Benbot",
+    "team_fifa_code": "ALG",
+    "position": "GK",
+    "jersey_number": 16,
+    "birth_date": "1994-10-11"
+  },
+  {
+    "name": "Rafik Belghali",
+    "team_fifa_code": "ALG",
+    "position": "DF",
+    "jersey_number": 17,
+    "birth_date": "2002-06-07"
+  },
+  {
+    "name": "Mohamed Amoura",
+    "team_fifa_code": "ALG",
+    "position": "FW",
+    "jersey_number": 18,
+    "birth_date": "2000-05-09"
+  },
+  {
+    "name": "Nabil Bentaleb",
+    "team_fifa_code": "ALG",
+    "position": "MF",
+    "jersey_number": 19,
+    "birth_date": "1994-11-24"
+  },
+  {
+    "name": "Adil Boulbina",
+    "team_fifa_code": "ALG",
+    "position": "FW",
+    "jersey_number": 20,
+    "birth_date": "2003-05-02"
+  },
+  {
+    "name": "Ramy Bensebaini",
+    "team_fifa_code": "ALG",
+    "position": "DF",
+    "jersey_number": 21,
+    "birth_date": "1995-04-16"
+  },
+  {
+    "name": "Ibrahim Maza",
+    "team_fifa_code": "ALG",
+    "position": "MF",
+    "jersey_number": 22,
+    "birth_date": "2005-11-24"
+  },
+  {
+    "name": "Luca Zidane",
+    "team_fifa_code": "ALG",
+    "position": "GK",
+    "jersey_number": 23,
+    "birth_date": "1998-05-13"
+  },
+  {
+    "name": "Yacine Titraoui",
+    "team_fifa_code": "ALG",
+    "position": "MF",
+    "jersey_number": 24,
+    "birth_date": "2003-08-26"
+  },
+  {
+    "name": "Farès Ghedjemis",
+    "team_fifa_code": "ALG",
+    "position": "FW",
+    "jersey_number": 25,
+    "birth_date": "2002-09-06"
+  },
+  {
+    "name": "Samir Chergui",
+    "team_fifa_code": "ALG",
+    "position": "DF",
+    "jersey_number": 26,
+    "birth_date": "1999-02-06"
+  },
+  {
+    "name": "Juan Musso",
+    "team_fifa_code": "ARG",
+    "position": "GK",
+    "jersey_number": 1,
+    "birth_date": "1994-05-06"
+  },
+  {
+    "name": "Nicolás Tagliafico",
+    "team_fifa_code": "ARG",
+    "position": "DF",
+    "jersey_number": 3,
+    "birth_date": "1992-08-31"
+  },
+  {
+    "name": "Gonzalo Montiel",
+    "team_fifa_code": "ARG",
+    "position": "DF",
+    "jersey_number": 4,
+    "birth_date": "1997-01-01"
+  },
+  {
+    "name": "Leandro Paredes",
+    "team_fifa_code": "ARG",
+    "position": "MF",
+    "jersey_number": 5,
+    "birth_date": "1994-06-29"
+  },
+  {
+    "name": "Lisandro Martínez",
+    "team_fifa_code": "ARG",
+    "position": "DF",
+    "jersey_number": 6,
+    "birth_date": "1998-01-18"
+  },
+  {
+    "name": "Rodrigo De Paul",
+    "team_fifa_code": "ARG",
+    "position": "MF",
+    "jersey_number": 7,
+    "birth_date": "1994-05-24"
+  },
+  {
+    "name": "Valentín Barco",
+    "team_fifa_code": "ARG",
+    "position": "MF",
+    "jersey_number": 8,
+    "birth_date": "2004-07-23"
+  },
+  {
+    "name": "Julián Alvarez",
+    "team_fifa_code": "ARG",
+    "position": "FW",
+    "jersey_number": 9,
+    "birth_date": "2000-01-31"
+  },
+  {
+    "name": "Lionel Messi ( captain )",
+    "team_fifa_code": "ARG",
+    "position": "FW",
+    "jersey_number": 10,
+    "birth_date": "1987-06-24"
+  },
+  {
+    "name": "Giovani Lo Celso",
+    "team_fifa_code": "ARG",
+    "position": "MF",
+    "jersey_number": 11,
+    "birth_date": "1996-04-09"
+  },
+  {
+    "name": "Gerónimo Rulli",
+    "team_fifa_code": "ARG",
+    "position": "GK",
+    "jersey_number": 12,
+    "birth_date": "1992-05-20"
+  },
+  {
+    "name": "Cristian Romero",
+    "team_fifa_code": "ARG",
+    "position": "DF",
+    "jersey_number": 13,
+    "birth_date": "1998-04-27"
+  },
+  {
+    "name": "Exequiel Palacios",
+    "team_fifa_code": "ARG",
+    "position": "MF",
+    "jersey_number": 14,
+    "birth_date": "1998-10-05"
+  },
+  {
+    "name": "Nicolás González",
+    "team_fifa_code": "ARG",
+    "position": "MF",
+    "jersey_number": 15,
+    "birth_date": "1998-04-06"
+  },
+  {
+    "name": "Thiago Almada",
+    "team_fifa_code": "ARG",
+    "position": "FW",
+    "jersey_number": 16,
+    "birth_date": "2001-04-26"
+  },
+  {
+    "name": "Giuliano Simeone",
+    "team_fifa_code": "ARG",
+    "position": "FW",
+    "jersey_number": 17,
+    "birth_date": "2002-12-18"
+  },
+  {
+    "name": "Nico Paz",
+    "team_fifa_code": "ARG",
+    "position": "FW",
+    "jersey_number": 18,
+    "birth_date": "2004-09-08"
+  },
+  {
+    "name": "Nicolás Otamendi",
+    "team_fifa_code": "ARG",
+    "position": "DF",
+    "jersey_number": 19,
+    "birth_date": "1988-02-12"
+  },
+  {
+    "name": "Alexis Mac Allister",
+    "team_fifa_code": "ARG",
+    "position": "MF",
+    "jersey_number": 20,
+    "birth_date": "1998-12-24"
+  },
+  {
+    "name": "José Manuel López",
+    "team_fifa_code": "ARG",
+    "position": "FW",
+    "jersey_number": 21,
+    "birth_date": "2000-12-06"
+  },
+  {
+    "name": "Lautaro Martínez",
+    "team_fifa_code": "ARG",
+    "position": "FW",
+    "jersey_number": 22,
+    "birth_date": "1997-08-22"
+  },
+  {
+    "name": "Emiliano Martínez",
+    "team_fifa_code": "ARG",
+    "position": "GK",
+    "jersey_number": 23,
+    "birth_date": "1992-09-02"
+  },
+  {
+    "name": "Enzo Fernández",
+    "team_fifa_code": "ARG",
+    "position": "MF",
+    "jersey_number": 24,
+    "birth_date": "2001-01-17"
+  },
+  {
+    "name": "Facundo Medina",
+    "team_fifa_code": "ARG",
+    "position": "DF",
+    "jersey_number": 25,
+    "birth_date": "1999-05-28"
+  },
+  {
+    "name": "Nahuel Molina",
+    "team_fifa_code": "ARG",
+    "position": "DF",
+    "jersey_number": 26,
+    "birth_date": "1998-04-06"
+  },
+  {
+    "name": "Alexander Schlager",
+    "team_fifa_code": "AUT",
+    "position": "GK",
+    "jersey_number": 1,
+    "birth_date": "1996-02-01"
+  },
+  {
+    "name": "David Affengruber",
+    "team_fifa_code": "AUT",
+    "position": "DF",
+    "jersey_number": 2,
+    "birth_date": "2001-03-19"
+  },
+  {
+    "name": "Kevin Danso",
+    "team_fifa_code": "AUT",
+    "position": "DF",
+    "jersey_number": 3,
+    "birth_date": "1998-09-19"
+  },
+  {
+    "name": "Xaver Schlager",
+    "team_fifa_code": "AUT",
+    "position": "MF",
+    "jersey_number": 4,
+    "birth_date": "1997-09-28"
+  },
+  {
+    "name": "Stefan Posch",
+    "team_fifa_code": "AUT",
+    "position": "DF",
+    "jersey_number": 5,
+    "birth_date": "1997-05-14"
+  },
+  {
+    "name": "Nicolas Seiwald",
+    "team_fifa_code": "AUT",
+    "position": "MF",
+    "jersey_number": 6,
+    "birth_date": "2001-05-04"
+  },
+  {
+    "name": "Marko Arnautović",
+    "team_fifa_code": "AUT",
+    "position": "FW",
+    "jersey_number": 7,
+    "birth_date": "1989-04-19"
+  },
+  {
+    "name": "David Alaba ( captain )",
+    "team_fifa_code": "AUT",
+    "position": "DF",
+    "jersey_number": 8,
+    "birth_date": "1992-06-24"
+  },
+  {
+    "name": "Marcel Sabitzer",
+    "team_fifa_code": "AUT",
+    "position": "MF",
+    "jersey_number": 9,
+    "birth_date": "1994-03-17"
+  },
+  {
+    "name": "Florian Grillitsch",
+    "team_fifa_code": "AUT",
+    "position": "MF",
+    "jersey_number": 10,
+    "birth_date": "1995-08-07"
+  },
+  {
+    "name": "Michael Gregoritsch",
+    "team_fifa_code": "AUT",
+    "position": "FW",
+    "jersey_number": 11,
+    "birth_date": "1994-04-18"
+  },
+  {
+    "name": "Florian Wiegele",
+    "team_fifa_code": "AUT",
+    "position": "GK",
+    "jersey_number": 12,
+    "birth_date": "2001-03-21"
+  },
+  {
+    "name": "Patrick Pentz",
+    "team_fifa_code": "AUT",
+    "position": "GK",
+    "jersey_number": 13,
+    "birth_date": "1997-01-02"
+  },
+  {
+    "name": "Saša Kalajdžić",
+    "team_fifa_code": "AUT",
+    "position": "FW",
+    "jersey_number": 14,
+    "birth_date": "1997-07-07"
+  },
+  {
+    "name": "Philipp Lienhart",
+    "team_fifa_code": "AUT",
+    "position": "DF",
+    "jersey_number": 15,
+    "birth_date": "1996-07-11"
+  },
+  {
+    "name": "Phillipp Mwene",
+    "team_fifa_code": "AUT",
+    "position": "DF",
+    "jersey_number": 16,
+    "birth_date": "1994-01-29"
+  },
+  {
+    "name": "Carney Chukwuemeka",
+    "team_fifa_code": "AUT",
+    "position": "MF",
+    "jersey_number": 17,
+    "birth_date": "2003-10-20"
+  },
+  {
+    "name": "Romano Schmid",
+    "team_fifa_code": "AUT",
+    "position": "MF",
+    "jersey_number": 18,
+    "birth_date": "2000-01-27"
+  },
+  {
+    "name": "Konrad Laimer",
+    "team_fifa_code": "AUT",
+    "position": "MF",
+    "jersey_number": 20,
+    "birth_date": "1997-05-27"
+  },
+  {
+    "name": "Patrick Wimmer",
+    "team_fifa_code": "AUT",
+    "position": "FW",
+    "jersey_number": 21,
+    "birth_date": "2001-05-30"
+  },
+  {
+    "name": "Alexander Prass",
+    "team_fifa_code": "AUT",
+    "position": "MF",
+    "jersey_number": 22,
+    "birth_date": "2001-05-26"
+  },
+  {
+    "name": "Marco Friedl",
+    "team_fifa_code": "AUT",
+    "position": "DF",
+    "jersey_number": 23,
+    "birth_date": "1998-03-16"
+  },
+  {
+    "name": "Paul Wanner",
+    "team_fifa_code": "AUT",
+    "position": "MF",
+    "jersey_number": 24,
+    "birth_date": "2005-12-23"
+  },
+  {
+    "name": "Michael Svoboda",
+    "team_fifa_code": "AUT",
+    "position": "DF",
+    "jersey_number": 25,
+    "birth_date": "1998-10-15"
+  },
+  {
+    "name": "Alessandro Schöpf",
+    "team_fifa_code": "AUT",
+    "position": "MF",
+    "jersey_number": 26,
+    "birth_date": "1994-02-07"
+  },
+  {
+    "name": "Yazeed Abulaila",
+    "team_fifa_code": "JOR",
+    "position": "GK",
+    "jersey_number": 1,
+    "birth_date": "1993-01-08"
+  },
+  {
+    "name": "Mohammad Abu Hashish",
+    "team_fifa_code": "JOR",
+    "position": "DF",
+    "jersey_number": 2,
+    "birth_date": "1995-05-09"
+  },
+  {
+    "name": "Abdallah Nasib",
+    "team_fifa_code": "JOR",
+    "position": "DF",
+    "jersey_number": 3,
+    "birth_date": "1994-02-25"
+  },
+  {
+    "name": "Husam Abu Dahab",
+    "team_fifa_code": "JOR",
+    "position": "DF",
+    "jersey_number": 4,
+    "birth_date": "2000-05-13"
+  },
+  {
+    "name": "Yazan Al-Arab",
+    "team_fifa_code": "JOR",
+    "position": "DF",
+    "jersey_number": 5,
+    "birth_date": "1996-01-31"
+  },
+  {
+    "name": "Amer Jamous",
+    "team_fifa_code": "JOR",
+    "position": "MF",
+    "jersey_number": 6,
+    "birth_date": "2002-07-03"
+  },
+  {
+    "name": "Mohammad Abu Zrayq",
+    "team_fifa_code": "JOR",
+    "position": "FW",
+    "jersey_number": 7,
+    "birth_date": "1997-12-30"
+  },
+  {
+    "name": "Noor Al-Rawabdeh",
+    "team_fifa_code": "JOR",
+    "position": "MF",
+    "jersey_number": 8,
+    "birth_date": "1997-02-24"
+  },
+  {
+    "name": "Ali Olwan",
+    "team_fifa_code": "JOR",
+    "position": "FW",
+    "jersey_number": 9,
+    "birth_date": "2000-03-26"
+  },
+  {
+    "name": "Musa Al-Taamari",
+    "team_fifa_code": "JOR",
+    "position": "FW",
+    "jersey_number": 10,
+    "birth_date": "1997-06-10"
+  },
+  {
+    "name": "Odeh Al-Fakhouri",
+    "team_fifa_code": "JOR",
+    "position": "FW",
+    "jersey_number": 11,
+    "birth_date": "2005-11-22"
+  },
+  {
+    "name": "Nour Bani Attiah",
+    "team_fifa_code": "JOR",
+    "position": "GK",
+    "jersey_number": 12,
+    "birth_date": "1993-01-25"
+  },
+  {
+    "name": "Mahmoud Al-Mardi",
+    "team_fifa_code": "JOR",
+    "position": "FW",
+    "jersey_number": 13,
+    "birth_date": "1993-10-06"
+  },
+  {
+    "name": "Rajaei Ayed",
+    "team_fifa_code": "JOR",
+    "position": "MF",
+    "jersey_number": 14,
+    "birth_date": "1993-07-25"
+  },
+  {
+    "name": "Ibrahim Sadeh",
+    "team_fifa_code": "JOR",
+    "position": "MF",
+    "jersey_number": 15,
+    "birth_date": "2000-04-27"
+  },
+  {
+    "name": "Mo Abualnadi",
+    "team_fifa_code": "JOR",
+    "position": "DF",
+    "jersey_number": 16,
+    "birth_date": "2001-02-08"
+  },
+  {
+    "name": "Salim Obaid",
+    "team_fifa_code": "JOR",
+    "position": "DF",
+    "jersey_number": 17,
+    "birth_date": "1992-01-17"
+  },
+  {
+    "name": "Saed Al-Rosan",
+    "team_fifa_code": "JOR",
+    "position": "DF",
+    "jersey_number": 19,
+    "birth_date": "1997-02-01"
+  },
+  {
+    "name": "Mohannad Abu Taha",
+    "team_fifa_code": "JOR",
+    "position": "MF",
+    "jersey_number": 20,
+    "birth_date": "2003-02-02"
+  },
+  {
+    "name": "Nizar Al-Rashdan",
+    "team_fifa_code": "JOR",
+    "position": "MF",
+    "jersey_number": 21,
+    "birth_date": "1999-03-23"
+  },
+  {
+    "name": "Abdallah Al-Fakhouri",
+    "team_fifa_code": "JOR",
+    "position": "GK",
+    "jersey_number": 22,
+    "birth_date": "2000-01-22"
+  },
+  {
+    "name": "Ihsan Haddad ( captain )",
+    "team_fifa_code": "JOR",
+    "position": "DF",
+    "jersey_number": 23,
+    "birth_date": "1994-02-05"
+  },
+  {
+    "name": "Ali Azaizeh",
+    "team_fifa_code": "JOR",
+    "position": "FW",
+    "jersey_number": 24,
+    "birth_date": "2004-04-13"
+  },
+  {
+    "name": "Mohammad Al-Dawoud",
+    "team_fifa_code": "JOR",
+    "position": "MF",
+    "jersey_number": 25,
+    "birth_date": "1992-04-12"
+  },
+  {
+    "name": "Anas Badawi",
+    "team_fifa_code": "JOR",
+    "position": "DF",
+    "jersey_number": 26,
+    "birth_date": "1997-09-13"
+  },
+  {
+    "name": "David Ospina",
+    "team_fifa_code": "COL",
+    "position": "GK",
+    "jersey_number": 1,
+    "birth_date": "1988-08-31"
+  },
+  {
+    "name": "Daniel Muñoz",
+    "team_fifa_code": "COL",
+    "position": "DF",
+    "jersey_number": 2,
+    "birth_date": "1996-05-26"
+  },
+  {
+    "name": "Jhon Lucumí",
+    "team_fifa_code": "COL",
+    "position": "DF",
+    "jersey_number": 3,
+    "birth_date": "1998-06-26"
+  },
+  {
+    "name": "Santiago Arias",
+    "team_fifa_code": "COL",
+    "position": "DF",
+    "jersey_number": 4,
+    "birth_date": "1992-01-13"
+  },
+  {
+    "name": "Kevin Castaño",
+    "team_fifa_code": "COL",
+    "position": "MF",
+    "jersey_number": 5,
+    "birth_date": "2000-09-29"
+  },
+  {
+    "name": "Richard Ríos",
+    "team_fifa_code": "COL",
+    "position": "MF",
+    "jersey_number": 6,
+    "birth_date": "2000-06-02"
+  },
+  {
+    "name": "Luis Díaz",
+    "team_fifa_code": "COL",
+    "position": "FW",
+    "jersey_number": 7,
+    "birth_date": "1997-01-13"
+  },
+  {
+    "name": "Jorge Carrascal",
+    "team_fifa_code": "COL",
+    "position": "MF",
+    "jersey_number": 8,
+    "birth_date": "1998-05-25"
+  },
+  {
+    "name": "Jhon Córdoba",
+    "team_fifa_code": "COL",
+    "position": "FW",
+    "jersey_number": 9,
+    "birth_date": "1993-05-11"
+  },
+  {
+    "name": "James Rodríguez ( captain )",
+    "team_fifa_code": "COL",
+    "position": "MF",
+    "jersey_number": 10,
+    "birth_date": "1991-07-12"
+  },
+  {
+    "name": "Jhon Arias",
+    "team_fifa_code": "COL",
+    "position": "MF",
+    "jersey_number": 11,
+    "birth_date": "1997-09-21"
+  },
+  {
+    "name": "Camilo Vargas",
+    "team_fifa_code": "COL",
+    "position": "GK",
+    "jersey_number": 12,
+    "birth_date": "1989-03-09"
+  },
+  {
+    "name": "Yerry Mina",
+    "team_fifa_code": "COL",
+    "position": "DF",
+    "jersey_number": 13,
+    "birth_date": "1994-09-23"
+  },
+  {
+    "name": "Gustavo Puerta",
+    "team_fifa_code": "COL",
+    "position": "DF",
+    "jersey_number": 14,
+    "birth_date": "2003-07-23"
+  },
+  {
+    "name": "Juan Portilla",
+    "team_fifa_code": "COL",
+    "position": "MF",
+    "jersey_number": 15,
+    "birth_date": "1998-09-12"
+  },
+  {
+    "name": "Jefferson Lerma",
+    "team_fifa_code": "COL",
+    "position": "MF",
+    "jersey_number": 16,
+    "birth_date": "1994-10-25"
+  },
+  {
+    "name": "Johan Mojica",
+    "team_fifa_code": "COL",
+    "position": "DF",
+    "jersey_number": 17,
+    "birth_date": "1992-08-21"
+  },
+  {
+    "name": "Willer Ditta",
+    "team_fifa_code": "COL",
+    "position": "DF",
+    "jersey_number": 18,
+    "birth_date": "1998-01-23"
+  },
+  {
+    "name": "Cucho Hernández",
+    "team_fifa_code": "COL",
+    "position": "FW",
+    "jersey_number": 19,
+    "birth_date": "1999-04-20"
+  },
+  {
+    "name": "Juan Fernando Quintero",
+    "team_fifa_code": "COL",
+    "position": "MF",
+    "jersey_number": 20,
+    "birth_date": "1993-01-18"
+  },
+  {
+    "name": "Jaminton Campaz",
+    "team_fifa_code": "COL",
+    "position": "FW",
+    "jersey_number": 21,
+    "birth_date": "2000-05-24"
+  },
+  {
+    "name": "Deiver Machado",
+    "team_fifa_code": "COL",
+    "position": "DF",
+    "jersey_number": 22,
+    "birth_date": "1993-09-02"
+  },
+  {
+    "name": "Davinson Sánchez",
+    "team_fifa_code": "COL",
+    "position": "DF",
+    "jersey_number": 23,
+    "birth_date": "1996-06-12"
+  },
+  {
+    "name": "Álvaro Montero",
+    "team_fifa_code": "COL",
+    "position": "GK",
+    "jersey_number": 24,
+    "birth_date": "1995-03-29"
+  },
+  {
+    "name": "Luis Suárez",
+    "team_fifa_code": "COL",
+    "position": "FW",
+    "jersey_number": 25,
+    "birth_date": "1997-12-02"
+  },
+  {
+    "name": "Andrés Gómez",
+    "team_fifa_code": "COL",
+    "position": "FW",
+    "jersey_number": 26,
+    "birth_date": "2002-09-12"
+  },
+  {
+    "name": "Lionel Mpasi",
+    "team_fifa_code": "CGO",
+    "position": "GK",
+    "jersey_number": 1,
+    "birth_date": "1994-08-01"
+  },
+  {
+    "name": "Aaron Wan-Bissaka",
+    "team_fifa_code": "CGO",
+    "position": "DF",
+    "jersey_number": 2,
+    "birth_date": "1997-11-26"
+  },
+  {
+    "name": "Steve Kapuadi",
+    "team_fifa_code": "CGO",
+    "position": "DF",
+    "jersey_number": 3,
+    "birth_date": "1998-04-30"
+  },
+  {
+    "name": "Axel Tuanzebe",
+    "team_fifa_code": "CGO",
+    "position": "DF",
+    "jersey_number": 4,
+    "birth_date": "1997-11-14"
+  },
+  {
+    "name": "Dylan Batubinsika",
+    "team_fifa_code": "CGO",
+    "position": "DF",
+    "jersey_number": 5,
+    "birth_date": "1996-02-15"
+  },
+  {
+    "name": "Ngal'ayel Mukau",
+    "team_fifa_code": "CGO",
+    "position": "MF",
+    "jersey_number": 6,
+    "birth_date": "2004-11-03"
+  },
+  {
+    "name": "Nathanaël Mbuku",
+    "team_fifa_code": "CGO",
+    "position": "MF",
+    "jersey_number": 7,
+    "birth_date": "2002-03-16"
+  },
+  {
+    "name": "Samuel Moutoussamy",
+    "team_fifa_code": "CGO",
+    "position": "MF",
+    "jersey_number": 8,
+    "birth_date": "1996-08-12"
+  },
+  {
+    "name": "Brian Cipenga",
+    "team_fifa_code": "CGO",
+    "position": "FW",
+    "jersey_number": 9,
+    "birth_date": "1998-03-11"
+  },
+  {
+    "name": "Théo Bongonda",
+    "team_fifa_code": "CGO",
+    "position": "MF",
+    "jersey_number": 10,
+    "birth_date": "1995-11-20"
+  },
+  {
+    "name": "Gaël Kakuta",
+    "team_fifa_code": "CGO",
+    "position": "FW",
+    "jersey_number": 11,
+    "birth_date": "1991-06-21"
+  },
+  {
+    "name": "Joris Kayembe",
+    "team_fifa_code": "CGO",
+    "position": "DF",
+    "jersey_number": 12,
+    "birth_date": "1994-08-08"
+  },
+  {
+    "name": "Meschak Elia",
+    "team_fifa_code": "CGO",
+    "position": "FW",
+    "jersey_number": 13,
+    "birth_date": "1997-08-06"
+  },
+  {
+    "name": "Noah Sadiki",
+    "team_fifa_code": "CGO",
+    "position": "MF",
+    "jersey_number": 14,
+    "birth_date": "2004-12-17"
+  },
+  {
+    "name": "Aaron Tshibola",
+    "team_fifa_code": "CGO",
+    "position": "MF",
+    "jersey_number": 15,
+    "birth_date": "1995-01-02"
+  },
+  {
+    "name": "Timothy Fayulu",
+    "team_fifa_code": "CGO",
+    "position": "GK",
+    "jersey_number": 16,
+    "birth_date": "1999-07-24"
+  },
+  {
+    "name": "Cédric Bakambu",
+    "team_fifa_code": "CGO",
+    "position": "FW",
+    "jersey_number": 17,
+    "birth_date": "1991-04-11"
+  },
+  {
+    "name": "Charles Pickel",
+    "team_fifa_code": "CGO",
+    "position": "MF",
+    "jersey_number": 18,
+    "birth_date": "1997-05-15"
+  },
+  {
+    "name": "Fiston Mayele",
+    "team_fifa_code": "CGO",
+    "position": "FW",
+    "jersey_number": 19,
+    "birth_date": "1994-06-24"
+  },
+  {
+    "name": "Yoane Wissa",
+    "team_fifa_code": "CGO",
+    "position": "FW",
+    "jersey_number": 20,
+    "birth_date": "1996-09-03"
+  },
+  {
+    "name": "Matthieu Epolo",
+    "team_fifa_code": "CGO",
+    "position": "GK",
+    "jersey_number": 21,
+    "birth_date": "2005-01-15"
+  },
+  {
+    "name": "Chancel Mbemba ( captain )",
+    "team_fifa_code": "CGO",
+    "position": "DF",
+    "jersey_number": 22,
+    "birth_date": "1994-08-08"
+  },
+  {
+    "name": "Simon Banza",
+    "team_fifa_code": "CGO",
+    "position": "FW",
+    "jersey_number": 23,
+    "birth_date": "1996-08-13"
+  },
+  {
+    "name": "Gédéon Kalulu",
+    "team_fifa_code": "CGO",
+    "position": "DF",
+    "jersey_number": 24,
+    "birth_date": "1997-08-29"
+  },
+  {
+    "name": "Edo Kayembe",
+    "team_fifa_code": "CGO",
+    "position": "MF",
+    "jersey_number": 25,
+    "birth_date": "1998-06-03"
+  },
+  {
+    "name": "Arthur Masuaku",
+    "team_fifa_code": "CGO",
+    "position": "DF",
+    "jersey_number": 26,
+    "birth_date": "1993-11-07"
+  },
+  {
+    "name": "Diogo Costa",
+    "team_fifa_code": "POR",
+    "position": "GK",
+    "jersey_number": 1,
+    "birth_date": "1999-09-19"
+  },
+  {
+    "name": "Nélson Semedo",
+    "team_fifa_code": "POR",
+    "position": "DF",
+    "jersey_number": 2,
+    "birth_date": "1993-11-16"
+  },
+  {
+    "name": "Rúben Dias",
+    "team_fifa_code": "POR",
+    "position": "DF",
+    "jersey_number": 3,
+    "birth_date": "1997-05-14"
+  },
+  {
+    "name": "Tomás Araújo",
+    "team_fifa_code": "POR",
+    "position": "DF",
+    "jersey_number": 4,
+    "birth_date": "2002-05-16"
+  },
+  {
+    "name": "Diogo Dalot",
+    "team_fifa_code": "POR",
+    "position": "DF",
+    "jersey_number": 5,
+    "birth_date": "1999-03-18"
+  },
+  {
+    "name": "Matheus Nunes",
+    "team_fifa_code": "POR",
+    "position": "MF",
+    "jersey_number": 6,
+    "birth_date": "1998-08-27"
+  },
+  {
+    "name": "Cristiano Ronaldo ( captain )",
+    "team_fifa_code": "POR",
+    "position": "FW",
+    "jersey_number": 7,
+    "birth_date": "1985-02-05"
+  },
+  {
+    "name": "Bruno Fernandes",
+    "team_fifa_code": "POR",
+    "position": "MF",
+    "jersey_number": 8,
+    "birth_date": "1994-09-08"
+  },
+  {
+    "name": "Gonçalo Ramos",
+    "team_fifa_code": "POR",
+    "position": "FW",
+    "jersey_number": 9,
+    "birth_date": "2001-06-20"
+  },
+  {
+    "name": "Bernardo Silva",
+    "team_fifa_code": "POR",
+    "position": "MF",
+    "jersey_number": 10,
+    "birth_date": "1994-08-10"
+  },
+  {
+    "name": "João Félix",
+    "team_fifa_code": "POR",
+    "position": "FW",
+    "jersey_number": 11,
+    "birth_date": "1999-11-10"
+  },
+  {
+    "name": "José Sá",
+    "team_fifa_code": "POR",
+    "position": "GK",
+    "jersey_number": 12,
+    "birth_date": "1993-01-17"
+  },
+  {
+    "name": "Renato Veiga",
+    "team_fifa_code": "POR",
+    "position": "DF",
+    "jersey_number": 13,
+    "birth_date": "2003-07-29"
+  },
+  {
+    "name": "Gonçalo Inácio",
+    "team_fifa_code": "POR",
+    "position": "DF",
+    "jersey_number": 14,
+    "birth_date": "2001-08-25"
+  },
+  {
+    "name": "João Neves",
+    "team_fifa_code": "POR",
+    "position": "MF",
+    "jersey_number": 15,
+    "birth_date": "2004-09-27"
+  },
+  {
+    "name": "Francisco Trincão",
+    "team_fifa_code": "POR",
+    "position": "FW",
+    "jersey_number": 16,
+    "birth_date": "1999-12-29"
+  },
+  {
+    "name": "Rafael Leão",
+    "team_fifa_code": "POR",
+    "position": "FW",
+    "jersey_number": 17,
+    "birth_date": "1999-06-10"
+  },
+  {
+    "name": "Pedro Neto",
+    "team_fifa_code": "POR",
+    "position": "FW",
+    "jersey_number": 18,
+    "birth_date": "2000-03-09"
+  },
+  {
+    "name": "Gonçalo Guedes",
+    "team_fifa_code": "POR",
+    "position": "FW",
+    "jersey_number": 19,
+    "birth_date": "1996-11-29"
+  },
+  {
+    "name": "João Cancelo",
+    "team_fifa_code": "POR",
+    "position": "DF",
+    "jersey_number": 20,
+    "birth_date": "1994-05-27"
+  },
+  {
+    "name": "Rúben Neves",
+    "team_fifa_code": "POR",
+    "position": "MF",
+    "jersey_number": 21,
+    "birth_date": "1997-03-13"
+  },
+  {
+    "name": "Rui Silva",
+    "team_fifa_code": "POR",
+    "position": "GK",
+    "jersey_number": 22,
+    "birth_date": "1994-02-07"
+  },
+  {
+    "name": "Vitinha",
+    "team_fifa_code": "POR",
+    "position": "MF",
+    "jersey_number": 23,
+    "birth_date": "2000-02-13"
+  },
+  {
+    "name": "Samú Costa",
+    "team_fifa_code": "POR",
+    "position": "DF",
+    "jersey_number": 24,
+    "birth_date": "2000-11-27"
+  },
+  {
+    "name": "Nuno Mendes",
+    "team_fifa_code": "POR",
+    "position": "DF",
+    "jersey_number": 25,
+    "birth_date": "2002-06-19"
+  },
+  {
+    "name": "Francisco Conceição",
+    "team_fifa_code": "POR",
+    "position": "FW",
+    "jersey_number": 26,
+    "birth_date": "2002-12-14"
+  },
+  {
+    "name": "Utkir Yusupov",
+    "team_fifa_code": "UZB",
+    "position": "GK",
+    "jersey_number": 1,
+    "birth_date": "1991-01-04"
+  },
+  {
+    "name": "Abdukodir Khusanov",
+    "team_fifa_code": "UZB",
+    "position": "DF",
+    "jersey_number": 2,
+    "birth_date": "2004-02-29"
+  },
+  {
+    "name": "Khojiakbar Alijonov",
+    "team_fifa_code": "UZB",
+    "position": "DF",
+    "jersey_number": 3,
+    "birth_date": "1997-04-19"
+  },
+  {
+    "name": "Farrukh Sayfiev",
+    "team_fifa_code": "UZB",
+    "position": "DF",
+    "jersey_number": 4,
+    "birth_date": "1991-01-17"
+  },
+  {
+    "name": "Rustam Ashurmatov",
+    "team_fifa_code": "UZB",
+    "position": "DF",
+    "jersey_number": 5,
+    "birth_date": "1996-07-07"
+  },
+  {
+    "name": "Akmal Mozgovoy",
+    "team_fifa_code": "UZB",
+    "position": "MF",
+    "jersey_number": 6,
+    "birth_date": "1999-04-02"
+  },
+  {
+    "name": "Otabek Shukurov",
+    "team_fifa_code": "UZB",
+    "position": "MF",
+    "jersey_number": 7,
+    "birth_date": "1996-06-22"
+  },
+  {
+    "name": "Jamshid Iskanderov",
+    "team_fifa_code": "UZB",
+    "position": "MF",
+    "jersey_number": 8,
+    "birth_date": "1993-10-16"
+  },
+  {
+    "name": "Odiljon Hamrobekov",
+    "team_fifa_code": "UZB",
+    "position": "MF",
+    "jersey_number": 9,
+    "birth_date": "1996-02-13"
+  },
+  {
+    "name": "Jaloliddin Masharipov",
+    "team_fifa_code": "UZB",
+    "position": "MF",
+    "jersey_number": 10,
+    "birth_date": "1993-09-01"
+  },
+  {
+    "name": "Oston Urunov",
+    "team_fifa_code": "UZB",
+    "position": "MF",
+    "jersey_number": 11,
+    "birth_date": "2000-12-19"
+  },
+  {
+    "name": "Abduvohid Nematov",
+    "team_fifa_code": "UZB",
+    "position": "GK",
+    "jersey_number": 12,
+    "birth_date": "2001-03-20"
+  },
+  {
+    "name": "Sherzod Nasrullaev",
+    "team_fifa_code": "UZB",
+    "position": "DF",
+    "jersey_number": 13,
+    "birth_date": "1998-07-23"
+  },
+  {
+    "name": "Eldor Shomurodov ( captain )",
+    "team_fifa_code": "UZB",
+    "position": "FW",
+    "jersey_number": 14,
+    "birth_date": "1995-06-29"
+  },
+  {
+    "name": "Umar Eshmurodov",
+    "team_fifa_code": "UZB",
+    "position": "DF",
+    "jersey_number": 15,
+    "birth_date": "1992-11-30"
+  },
+  {
+    "name": "Botirali Ergashev",
+    "team_fifa_code": "UZB",
+    "position": "GK",
+    "jersey_number": 16,
+    "birth_date": "1995-06-23"
+  },
+  {
+    "name": "Dostonbek Khamdamov",
+    "team_fifa_code": "UZB",
+    "position": "MF",
+    "jersey_number": 17,
+    "birth_date": "1996-07-24"
+  },
+  {
+    "name": "Abdulla Abdullaev",
+    "team_fifa_code": "UZB",
+    "position": "DF",
+    "jersey_number": 18,
+    "birth_date": "1997-09-01"
+  },
+  {
+    "name": "Azizjon Ganiev",
+    "team_fifa_code": "UZB",
+    "position": "MF",
+    "jersey_number": 19,
+    "birth_date": "1998-02-22"
+  },
+  {
+    "name": "Azizbek Amonov",
+    "team_fifa_code": "UZB",
+    "position": "FW",
+    "jersey_number": 20,
+    "birth_date": "1997-10-30"
+  },
+  {
+    "name": "Igor Sergeev",
+    "team_fifa_code": "UZB",
+    "position": "FW",
+    "jersey_number": 21,
+    "birth_date": "1993-04-30"
+  },
+  {
+    "name": "Abbosbek Fayzullaev",
+    "team_fifa_code": "UZB",
+    "position": "MF",
+    "jersey_number": 22,
+    "birth_date": "2003-10-03"
+  },
+  {
+    "name": "Sherzod Esanov",
+    "team_fifa_code": "UZB",
+    "position": "MF",
+    "jersey_number": 23,
+    "birth_date": "2003-02-01"
+  },
+  {
+    "name": "Bekhruz Karimov",
+    "team_fifa_code": "UZB",
+    "position": "DF",
+    "jersey_number": 24,
+    "birth_date": "2007-08-07"
+  },
+  {
+    "name": "Avazbek Ulmasaliev",
+    "team_fifa_code": "UZB",
+    "position": "DF",
+    "jersey_number": 25,
+    "birth_date": "2000-03-27"
+  },
+  {
+    "name": "Jakhongir Urozov",
+    "team_fifa_code": "UZB",
+    "position": "DF",
+    "jersey_number": 26,
+    "birth_date": "2004-01-18"
+  },
+  {
+    "name": "Dominik Livaković",
+    "team_fifa_code": "CRO",
+    "position": "GK",
+    "jersey_number": 1,
+    "birth_date": "1995-01-09"
+  },
+  {
+    "name": "Josip Stanišić",
+    "team_fifa_code": "CRO",
+    "position": "DF",
+    "jersey_number": 2,
+    "birth_date": "2000-04-02"
+  },
+  {
+    "name": "Marin Pongračić",
+    "team_fifa_code": "CRO",
+    "position": "DF",
+    "jersey_number": 3,
+    "birth_date": "1997-09-11"
+  },
+  {
+    "name": "Joško Gvardiol",
+    "team_fifa_code": "CRO",
+    "position": "DF",
+    "jersey_number": 4,
+    "birth_date": "2002-01-23"
+  },
+  {
+    "name": "Duje Ćaleta-Car",
+    "team_fifa_code": "CRO",
+    "position": "DF",
+    "jersey_number": 5,
+    "birth_date": "1996-09-17"
+  },
+  {
+    "name": "Josip Šutalo",
+    "team_fifa_code": "CRO",
+    "position": "DF",
+    "jersey_number": 6,
+    "birth_date": "2000-02-28"
+  },
+  {
+    "name": "Nikola Moro",
+    "team_fifa_code": "CRO",
+    "position": "MF",
+    "jersey_number": 7,
+    "birth_date": "1998-03-12"
+  },
+  {
+    "name": "Mateo Kovačić",
+    "team_fifa_code": "CRO",
+    "position": "MF",
+    "jersey_number": 8,
+    "birth_date": "1994-05-06"
+  },
+  {
+    "name": "Andrej Kramarić",
+    "team_fifa_code": "CRO",
+    "position": "FW",
+    "jersey_number": 9,
+    "birth_date": "1991-06-19"
+  },
+  {
+    "name": "Luka Modrić ( captain )",
+    "team_fifa_code": "CRO",
+    "position": "MF",
+    "jersey_number": 10,
+    "birth_date": "1985-09-09"
+  },
+  {
+    "name": "Ante Budimir",
+    "team_fifa_code": "CRO",
+    "position": "FW",
+    "jersey_number": 11,
+    "birth_date": "1991-07-22"
+  },
+  {
+    "name": "Ivor Pandur",
+    "team_fifa_code": "CRO",
+    "position": "GK",
+    "jersey_number": 12,
+    "birth_date": "2000-03-25"
+  },
+  {
+    "name": "Nikola Vlašić",
+    "team_fifa_code": "CRO",
+    "position": "MF",
+    "jersey_number": 13,
+    "birth_date": "1997-10-04"
+  },
+  {
+    "name": "Ivan Perišić",
+    "team_fifa_code": "CRO",
+    "position": "FW",
+    "jersey_number": 14,
+    "birth_date": "1989-02-02"
+  },
+  {
+    "name": "Mario Pašalić",
+    "team_fifa_code": "CRO",
+    "position": "MF",
+    "jersey_number": 15,
+    "birth_date": "1995-02-09"
+  },
+  {
+    "name": "Martin Baturina",
+    "team_fifa_code": "CRO",
+    "position": "MF",
+    "jersey_number": 16,
+    "birth_date": "2003-02-16"
+  },
+  {
+    "name": "Petar Sučić",
+    "team_fifa_code": "CRO",
+    "position": "MF",
+    "jersey_number": 17,
+    "birth_date": "2003-10-25"
+  },
+  {
+    "name": "Kristijan Jakić",
+    "team_fifa_code": "CRO",
+    "position": "DF",
+    "jersey_number": 18,
+    "birth_date": "1997-05-14"
+  },
+  {
+    "name": "Toni Fruk",
+    "team_fifa_code": "CRO",
+    "position": "MF",
+    "jersey_number": 19,
+    "birth_date": "2001-03-09"
+  },
+  {
+    "name": "Igor Matanović",
+    "team_fifa_code": "CRO",
+    "position": "FW",
+    "jersey_number": 20,
+    "birth_date": "2003-03-31"
+  },
+  {
+    "name": "Luka Sučić",
+    "team_fifa_code": "CRO",
+    "position": "MF",
+    "jersey_number": 21,
+    "birth_date": "2002-09-08"
+  },
+  {
+    "name": "Luka Vušković",
+    "team_fifa_code": "CRO",
+    "position": "DF",
+    "jersey_number": 22,
+    "birth_date": "2007-02-24"
+  },
+  {
+    "name": "Dominik Kotarski",
+    "team_fifa_code": "CRO",
+    "position": "GK",
+    "jersey_number": 23,
+    "birth_date": "2000-02-10"
+  },
+  {
+    "name": "Marco Pašalić",
+    "team_fifa_code": "CRO",
+    "position": "FW",
+    "jersey_number": 24,
+    "birth_date": "2000-09-14"
+  },
+  {
+    "name": "Martin Erlić",
+    "team_fifa_code": "CRO",
+    "position": "DF",
+    "jersey_number": 25,
+    "birth_date": "1998-01-24"
+  },
+  {
+    "name": "Petar Musa",
+    "team_fifa_code": "CRO",
+    "position": "FW",
+    "jersey_number": 26,
+    "birth_date": "1998-03-04"
+  },
+  {
+    "name": "Jordan Pickford",
+    "team_fifa_code": "ENG",
+    "position": "GK",
+    "jersey_number": 1,
+    "birth_date": "1994-03-07"
+  },
+  {
+    "name": "Ezri Konsa",
+    "team_fifa_code": "ENG",
+    "position": "DF",
+    "jersey_number": 2,
+    "birth_date": "1997-10-23"
+  },
+  {
+    "name": "Nico O'Reilly",
+    "team_fifa_code": "ENG",
+    "position": "DF",
+    "jersey_number": 3,
+    "birth_date": "2005-03-21"
+  },
+  {
+    "name": "Declan Rice",
+    "team_fifa_code": "ENG",
+    "position": "MF",
+    "jersey_number": 4,
+    "birth_date": "1999-01-14"
+  },
+  {
+    "name": "John Stones",
+    "team_fifa_code": "ENG",
+    "position": "DF",
+    "jersey_number": 5,
+    "birth_date": "1994-05-28"
+  },
+  {
+    "name": "Marc Guéhi",
+    "team_fifa_code": "ENG",
+    "position": "DF",
+    "jersey_number": 6,
+    "birth_date": "2000-07-13"
+  },
+  {
+    "name": "Bukayo Saka",
+    "team_fifa_code": "ENG",
+    "position": "FW",
+    "jersey_number": 7,
+    "birth_date": "2001-09-05"
+  },
+  {
+    "name": "Elliot Anderson",
+    "team_fifa_code": "ENG",
+    "position": "MF",
+    "jersey_number": 8,
+    "birth_date": "2002-11-06"
+  },
+  {
+    "name": "Harry Kane ( captain )",
+    "team_fifa_code": "ENG",
+    "position": "FW",
+    "jersey_number": 9,
+    "birth_date": "1993-07-28"
+  },
+  {
+    "name": "Jude Bellingham",
+    "team_fifa_code": "ENG",
+    "position": "MF",
+    "jersey_number": 10,
+    "birth_date": "2003-06-29"
+  },
+  {
+    "name": "Marcus Rashford",
+    "team_fifa_code": "ENG",
+    "position": "FW",
+    "jersey_number": 11,
+    "birth_date": "1997-10-31"
+  },
+  {
+    "name": "Tino Livramento",
+    "team_fifa_code": "ENG",
+    "position": "DF",
+    "jersey_number": 12,
+    "birth_date": "2002-11-12"
+  },
+  {
+    "name": "Dean Henderson",
+    "team_fifa_code": "ENG",
+    "position": "GK",
+    "jersey_number": 13,
+    "birth_date": "1997-03-12"
+  },
+  {
+    "name": "Jordan Henderson",
+    "team_fifa_code": "ENG",
+    "position": "MF",
+    "jersey_number": 14,
+    "birth_date": "1990-06-17"
+  },
+  {
+    "name": "Dan Burn",
+    "team_fifa_code": "ENG",
+    "position": "DF",
+    "jersey_number": 15,
+    "birth_date": "1992-05-09"
+  },
+  {
+    "name": "Kobbie Mainoo",
+    "team_fifa_code": "ENG",
+    "position": "MF",
+    "jersey_number": 16,
+    "birth_date": "2005-04-19"
+  },
+  {
+    "name": "Morgan Rogers",
+    "team_fifa_code": "ENG",
+    "position": "MF",
+    "jersey_number": 17,
+    "birth_date": "2002-07-26"
+  },
+  {
+    "name": "Anthony Gordon",
+    "team_fifa_code": "ENG",
+    "position": "FW",
+    "jersey_number": 18,
+    "birth_date": "2001-02-24"
+  },
+  {
+    "name": "Ollie Watkins",
+    "team_fifa_code": "ENG",
+    "position": "FW",
+    "jersey_number": 19,
+    "birth_date": "1995-12-30"
+  },
+  {
+    "name": "Noni Madueke",
+    "team_fifa_code": "ENG",
+    "position": "FW",
+    "jersey_number": 20,
+    "birth_date": "2002-03-10"
+  },
+  {
+    "name": "Eberechi Eze",
+    "team_fifa_code": "ENG",
+    "position": "MF",
+    "jersey_number": 21,
+    "birth_date": "1998-06-29"
+  },
+  {
+    "name": "Ivan Toney",
+    "team_fifa_code": "ENG",
+    "position": "FW",
+    "jersey_number": 22,
+    "birth_date": "1996-03-16"
+  },
+  {
+    "name": "James Trafford",
+    "team_fifa_code": "ENG",
+    "position": "GK",
+    "jersey_number": 23,
+    "birth_date": "2002-10-10"
+  },
+  {
+    "name": "Reece James",
+    "team_fifa_code": "ENG",
+    "position": "DF",
+    "jersey_number": 24,
+    "birth_date": "1999-12-08"
+  },
+  {
+    "name": "Djed Spence",
+    "team_fifa_code": "ENG",
+    "position": "DF",
+    "jersey_number": 25,
+    "birth_date": "2000-08-09"
+  },
+  {
+    "name": "Jarell Quansah",
+    "team_fifa_code": "ENG",
+    "position": "DF",
+    "jersey_number": 26,
+    "birth_date": "2003-01-29"
+  },
+  {
+    "name": "Lawrence Ati-Zigi",
+    "team_fifa_code": "GHA",
+    "position": "GK",
+    "jersey_number": 1,
+    "birth_date": "1996-11-29"
+  },
+  {
+    "name": "Alidu Seidu",
+    "team_fifa_code": "GHA",
+    "position": "DF",
+    "jersey_number": 2,
+    "birth_date": "2000-06-04"
+  },
+  {
+    "name": "Caleb Yirenkyi",
+    "team_fifa_code": "GHA",
+    "position": "MF",
+    "jersey_number": 3,
+    "birth_date": "2006-01-15"
+  },
+  {
+    "name": "Jonas Adjetey",
+    "team_fifa_code": "GHA",
+    "position": "DF",
+    "jersey_number": 4,
+    "birth_date": "2003-12-13"
+  },
+  {
+    "name": "Thomas Partey",
+    "team_fifa_code": "GHA",
+    "position": "MF",
+    "jersey_number": 5,
+    "birth_date": "1993-06-13"
+  },
+  {
+    "name": "Abdul Mumin",
+    "team_fifa_code": "GHA",
+    "position": "DF",
+    "jersey_number": 6,
+    "birth_date": "1998-06-06"
+  },
+  {
+    "name": "Abdul Fatawu",
+    "team_fifa_code": "GHA",
+    "position": "FW",
+    "jersey_number": 7,
+    "birth_date": "2004-03-08"
+  },
+  {
+    "name": "Kwasi Sibo",
+    "team_fifa_code": "GHA",
+    "position": "MF",
+    "jersey_number": 8,
+    "birth_date": "1998-06-24"
+  },
+  {
+    "name": "Jordan Ayew ( captain )",
+    "team_fifa_code": "GHA",
+    "position": "FW",
+    "jersey_number": 9,
+    "birth_date": "1991-09-11"
+  },
+  {
+    "name": "Brandon Thomas-Asante",
+    "team_fifa_code": "GHA",
+    "position": "FW",
+    "jersey_number": 10,
+    "birth_date": "1998-12-29"
+  },
+  {
+    "name": "Antoine Semenyo",
+    "team_fifa_code": "GHA",
+    "position": "MF",
+    "jersey_number": 11,
+    "birth_date": "2000-01-07"
+  },
+  {
+    "name": "Joseph Anang",
+    "team_fifa_code": "GHA",
+    "position": "GK",
+    "jersey_number": 12,
+    "birth_date": "2000-06-08"
+  },
+  {
+    "name": "Christopher Bonsu Baah",
+    "team_fifa_code": "GHA",
+    "position": "FW",
+    "jersey_number": 13,
+    "birth_date": "2004-12-14"
+  },
+  {
+    "name": "Gideon Mensah",
+    "team_fifa_code": "GHA",
+    "position": "DF",
+    "jersey_number": 14,
+    "birth_date": "1998-07-18"
+  },
+  {
+    "name": "Elisha Owusu",
+    "team_fifa_code": "GHA",
+    "position": "MF",
+    "jersey_number": 15,
+    "birth_date": "1997-11-07"
+  },
+  {
+    "name": "Benjamin Asare",
+    "team_fifa_code": "GHA",
+    "position": "GK",
+    "jersey_number": 16,
+    "birth_date": "1992-07-13"
+  },
+  {
+    "name": "Abdul Rahman Baba",
+    "team_fifa_code": "GHA",
+    "position": "DF",
+    "jersey_number": 17,
+    "birth_date": "1994-07-02"
+  },
+  {
+    "name": "Jerome Opoku",
+    "team_fifa_code": "GHA",
+    "position": "DF",
+    "jersey_number": 18,
+    "birth_date": "1998-10-14"
+  },
+  {
+    "name": "Iñaki Williams",
+    "team_fifa_code": "GHA",
+    "position": "FW",
+    "jersey_number": 19,
+    "birth_date": "1994-06-15"
+  },
+  {
+    "name": "Augustine Boakye",
+    "team_fifa_code": "GHA",
+    "position": "MF",
+    "jersey_number": 20,
+    "birth_date": "2000-11-03"
+  },
+  {
+    "name": "Kojo Peprah Oppong",
+    "team_fifa_code": "GHA",
+    "position": "DF",
+    "jersey_number": 21,
+    "birth_date": "2004-06-04"
+  },
+  {
+    "name": "Kamaldeen Sulemana",
+    "team_fifa_code": "GHA",
+    "position": "FW",
+    "jersey_number": 22,
+    "birth_date": "2002-02-15"
+  },
+  {
+    "name": "Derrick Luckassen",
+    "team_fifa_code": "GHA",
+    "position": "DF",
+    "jersey_number": 23,
+    "birth_date": "1995-07-03"
+  },
+  {
+    "name": "Ernest Nuamah",
+    "team_fifa_code": "GHA",
+    "position": "FW",
+    "jersey_number": 24,
+    "birth_date": "2003-11-01"
+  },
+  {
+    "name": "Prince Kwabena Adu",
+    "team_fifa_code": "GHA",
+    "position": "FW",
+    "jersey_number": 25,
+    "birth_date": "2003-09-23"
+  },
+  {
+    "name": "Marvin Senaya",
+    "team_fifa_code": "GHA",
+    "position": "DF",
+    "jersey_number": 26,
+    "birth_date": "2001-01-28"
+  },
+  {
+    "name": "Luis Mejía",
+    "team_fifa_code": "PAN",
+    "position": "GK",
+    "jersey_number": 1,
+    "birth_date": "1991-03-16"
+  },
+  {
+    "name": "César Blackman",
+    "team_fifa_code": "PAN",
+    "position": "DF",
+    "jersey_number": 2,
+    "birth_date": "1998-04-02"
+  },
+  {
+    "name": "José Córdoba",
+    "team_fifa_code": "PAN",
+    "position": "DF",
+    "jersey_number": 3,
+    "birth_date": "2001-06-03"
+  },
+  {
+    "name": "Fidel Escobar",
+    "team_fifa_code": "PAN",
+    "position": "DF",
+    "jersey_number": 4,
+    "birth_date": "1995-01-09"
+  },
+  {
+    "name": "Edgardo Fariña",
+    "team_fifa_code": "PAN",
+    "position": "DF",
+    "jersey_number": 5,
+    "birth_date": "2001-10-19"
+  },
+  {
+    "name": "Cristian Martínez",
+    "team_fifa_code": "PAN",
+    "position": "MF",
+    "jersey_number": 6,
+    "birth_date": "1997-02-06"
+  },
+  {
+    "name": "José Luis Rodríguez",
+    "team_fifa_code": "PAN",
+    "position": "MF",
+    "jersey_number": 7,
+    "birth_date": "1998-06-19"
+  },
+  {
+    "name": "Adalberto Carrasquilla",
+    "team_fifa_code": "PAN",
+    "position": "MF",
+    "jersey_number": 8,
+    "birth_date": "1998-11-28"
+  },
+  {
+    "name": "Tomás Rodríguez",
+    "team_fifa_code": "PAN",
+    "position": "FW",
+    "jersey_number": 9,
+    "birth_date": "1999-03-09"
+  },
+  {
+    "name": "Ismael Díaz",
+    "team_fifa_code": "PAN",
+    "position": "MF",
+    "jersey_number": 10,
+    "birth_date": "1997-05-12"
+  },
+  {
+    "name": "Yoel Bárcenas",
+    "team_fifa_code": "PAN",
+    "position": "MF",
+    "jersey_number": 11,
+    "birth_date": "1993-10-23"
+  },
+  {
+    "name": "César Samudio",
+    "team_fifa_code": "PAN",
+    "position": "GK",
+    "jersey_number": 12,
+    "birth_date": "1994-02-23"
+  },
+  {
+    "name": "Jiovany Ramos",
+    "team_fifa_code": "PAN",
+    "position": "DF",
+    "jersey_number": 13,
+    "birth_date": "1997-01-26"
+  },
+  {
+    "name": "Carlos Harvey",
+    "team_fifa_code": "PAN",
+    "position": "DF",
+    "jersey_number": 14,
+    "birth_date": "2000-02-03"
+  },
+  {
+    "name": "Eric Davis",
+    "team_fifa_code": "PAN",
+    "position": "DF",
+    "jersey_number": 15,
+    "birth_date": "1991-03-31"
+  },
+  {
+    "name": "Andrés Andrade",
+    "team_fifa_code": "PAN",
+    "position": "DF",
+    "jersey_number": 16,
+    "birth_date": "1998-10-16"
+  },
+  {
+    "name": "José Fajardo",
+    "team_fifa_code": "PAN",
+    "position": "FW",
+    "jersey_number": 17,
+    "birth_date": "1993-08-18"
+  },
+  {
+    "name": "Cecilio Waterman",
+    "team_fifa_code": "PAN",
+    "position": "FW",
+    "jersey_number": 18,
+    "birth_date": "1991-04-13"
+  },
+  {
+    "name": "Alberto Quintero",
+    "team_fifa_code": "PAN",
+    "position": "MF",
+    "jersey_number": 19,
+    "birth_date": "1987-12-18"
+  },
+  {
+    "name": "Aníbal Godoy ( captain )",
+    "team_fifa_code": "PAN",
+    "position": "MF",
+    "jersey_number": 20,
+    "birth_date": "1990-02-10"
+  },
+  {
+    "name": "César Yanis",
+    "team_fifa_code": "PAN",
+    "position": "MF",
+    "jersey_number": 21,
+    "birth_date": "1996-01-28"
+  },
+  {
+    "name": "Orlando Mosquera",
+    "team_fifa_code": "PAN",
+    "position": "GK",
+    "jersey_number": 22,
+    "birth_date": "1994-12-25"
+  },
+  {
+    "name": "Michael Amir Murillo",
+    "team_fifa_code": "PAN",
+    "position": "DF",
+    "jersey_number": 23,
+    "birth_date": "1996-02-11"
+  },
+  {
+    "name": "Azarias Londoño",
+    "team_fifa_code": "PAN",
+    "position": "FW",
+    "jersey_number": 24,
+    "birth_date": "2001-06-21"
+  },
+  {
+    "name": "Roderick Miller",
+    "team_fifa_code": "PAN",
+    "position": "DF",
+    "jersey_number": 25,
+    "birth_date": "1992-04-03"
+  },
+  {
+    "name": "Jorge Gutiérrez",
+    "team_fifa_code": "PAN",
+    "position": "DF",
+    "jersey_number": 26,
+    "birth_date": "1998-09-01"
+  }
+]
