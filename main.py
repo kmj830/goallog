@@ -212,8 +212,37 @@ def open_team_detail(page: ft.Page, fifa_code: str):
             for _, p in df.iterrows():
                 pc = pos_colors.get(str(p.get("position",""))[:2], "#F3F4F6")
                 tc = pos_text.get(str(p.get("position",""))[:2], "#374151")
+
+                def make_delete_handler(pid):
+                    def on_delete(e):
+                        def confirm_delete(ev):
+                            dlg.open = False
+                            page.update()
+                            if ev.control.text == "삭제":
+                                player_repo.delete_by_id(pid)
+                                refresh_players()
+
+                        dlg = ft.AlertDialog(
+                            modal=True,
+                            title=ft.Text("선수 삭제", weight=ft.FontWeight.W_700),
+                            content=ft.Text("정말 이 선수를 삭제하시겠습니까?"),
+                            actions=[
+                                ft.TextButton("취소", on_click=confirm_delete),
+                                ft.FilledButton(
+                                    "삭제",
+                                    style=ft.ButtonStyle(bgcolor=C_ACCENT),
+                                    on_click=confirm_delete,
+                                ),
+                            ],
+                            actions_alignment=ft.MainAxisAlignment.END,
+                        )
+                        page.overlay.append(dlg)
+                        dlg.open = True
+                        page.update()
+                    return on_delete
+
                 player_list.controls.append(
-                    _player_row(p, pc, tc)
+                    _player_row(p, pc, tc, on_delete=make_delete_handler(int(p["player_id"])))
                 )
         page.update()
 
@@ -250,11 +279,76 @@ def open_team_detail(page: ft.Page, fifa_code: str):
         shadow=ft.BoxShadow(blur_radius=6, color="#12000000", offset=ft.Offset(0, 2)),
     )
 
+    # ── 선수 추가 다이얼로그
+    def open_add_player_dialog(e):
+        name_field     = ft.TextField(label="이름", autofocus=True, border_radius=8)
+        pos_dropdown   = ft.Dropdown(
+            label="포지션",
+            options=[ft.dropdown.Option(p) for p in ["GK", "DF", "MF", "FW"]],
+            border_radius=8,
+        )
+        number_field   = ft.TextField(label="등번호", keyboard_type=ft.KeyboardType.NUMBER, border_radius=8)
+        birth_field    = ft.TextField(label="생년월일 (YYYY-MM-DD)", border_radius=8)
+        error_text     = ft.Text("", color=C_ACCENT, size=12)
+
+        def on_save(ev):
+            name   = name_field.value.strip()
+            pos    = pos_dropdown.value or ""
+            number = number_field.value.strip()
+            birth  = birth_field.value.strip()
+            if not name or not pos or not number:
+                error_text.value = "이름, 포지션, 등번호는 필수입니다."
+                page.update()
+                return
+            try:
+                num = int(number)
+            except ValueError:
+                error_text.value = "등번호는 숫자여야 합니다."
+                page.update()
+                return
+            ok = player_repo.save(name, fifa_code, pos, num, birth if birth else None)
+            if ok:
+                dlg.open = False
+                page.update()
+                refresh_players()
+            else:
+                error_text.value = "저장에 실패했습니다. 다시 시도해주세요."
+                page.update()
+
+        def on_cancel(ev):
+            dlg.open = False
+            page.update()
+
+        dlg = ft.AlertDialog(
+            modal=True,
+            title=ft.Text("선수 추가", weight=ft.FontWeight.W_700),
+            content=ft.Column(
+                [name_field, pos_dropdown, number_field, birth_field, error_text],
+                spacing=10,
+                tight=True,
+            ),
+            actions=[
+                ft.TextButton("취소", on_click=on_cancel),
+                ft.FilledButton("저장", on_click=on_save),
+            ],
+            actions_alignment=ft.MainAxisAlignment.END,
+        )
+        page.overlay.append(dlg)
+        dlg.open = True
+        page.update()
+
     # ── 선수 섹션 헤더
     player_header = ft.Container(
         content=ft.Row(
             [
                 section_chip("선수 명단"),
+                ft.Container(expand=True),
+                ft.IconButton(
+                    icon=ft.Icons.PERSON_ADD_ALT_1,
+                    icon_color=C_PRIMARY,
+                    tooltip="선수 추가",
+                    on_click=open_add_player_dialog,
+                ),
             ],
             vertical_alignment=ft.CrossAxisAlignment.CENTER,
         ),
@@ -297,7 +391,7 @@ def _info_row(label: str, value: str) -> ft.Row:
     )
 
 
-def _player_row(p, bg_color: str, txt_color: str) -> ft.Container:
+def _player_row(p, bg_color: str, txt_color: str, on_delete=None) -> ft.Container:
     raw_name = str(p.get("name", ""))
     is_captain = "captain" in raw_name.lower()
     name = raw_name.replace("( captain )", "").replace("(captain)", "").strip()
@@ -315,6 +409,14 @@ def _player_row(p, bg_color: str, txt_color: str) -> ft.Container:
             )
         )
 
+    delete_btn = ft.IconButton(
+        icon=ft.Icons.DELETE_OUTLINE,
+        icon_color=C_SUBTEXT,
+        icon_size=18,
+        tooltip="삭제",
+        on_click=on_delete,
+    ) if on_delete else ft.Container(width=0)
+
     return ft.Container(
         content=ft.Row(
             [
@@ -330,6 +432,7 @@ def _player_row(p, bg_color: str, txt_color: str) -> ft.Container:
                         text_align=ft.TextAlign.CENTER),
                 ft.Row(name_row, spacing=6, expand=True,
                        vertical_alignment=ft.CrossAxisAlignment.CENTER),
+                delete_btn,
             ],
             vertical_alignment=ft.CrossAxisAlignment.CENTER,
             spacing=6,
