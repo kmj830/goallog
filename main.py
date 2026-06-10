@@ -124,14 +124,29 @@ def build_teams_tab(page: ft.Page) -> ft.Column:
     )
 
 
+def _flag_img(url: str | None, size: int = 36) -> ft.Control:
+    """flag_url이 있으면 실제 이미지, 없으면 이모지 텍스트로 폴백"""
+    if url:
+        return ft.Image(
+            src=url,
+            width=size,
+            height=int(size * 0.67),   # 약 2:3 비율
+            fit=ft.BoxFit.CONTAIN,
+            error_content=ft.Text("🏳️", size=size * 0.7),
+        )
+    return ft.Text("🏳️", size=size * 0.7)
+
+
 def _team_card(row, page: ft.Page) -> ft.Container:
     def on_tap(e):
         open_team_detail(page, row["fifa_code"])
 
+    flag_widget = _flag_img(row.get("flag_url"), size=40)
+
     return ft.Container(
         content=ft.Row(
             [
-                ft.Text(row["flag_icon"], size=32),
+                ft.Container(flag_widget, width=52, alignment=ft.Alignment(0, 0)),
                 ft.Column(
                     [
                         ft.Text(row["name"], size=14, weight=ft.FontWeight.W_600, color=C_TEXT),
@@ -254,7 +269,11 @@ def open_team_detail(page: ft.Page, fifa_code: str):
             [
                 ft.Row(
                     [
-                        ft.Text(row["flag_icon"], size=52),
+                        ft.Container(
+                            _flag_img(row.get("flag_url"), size=60),
+                            width=72,
+                            alignment=ft.Alignment(0, 0),
+                        ),
                         ft.Column(
                             [
                                 ft.Text(row["name"], size=20, weight=ft.FontWeight.W_700, color=C_TEXT),
@@ -539,8 +558,8 @@ def build_matches_tab(page: ft.Page) -> ft.Column:
 
 
 def _match_card(row, page: ft.Page) -> ft.Container:
-    flag1 = row.get("flag1", "🏳️") or "🏳️"
-    flag2 = row.get("flag2", "🏳️") or "🏳️"
+    flag_url1 = row.get("flag_url1") or None
+    flag_url2 = row.get("flag_url2") or None
     team1 = str(row.get("team1", ""))
     team2 = str(row.get("team2", ""))
     code1 = str(row.get("code1", ""))
@@ -559,11 +578,15 @@ def _match_card(row, page: ft.Page) -> ft.Container:
                 ft.Row(
                     [
                         ft.Column(
-                            [ft.Text(flag1, size=28), ft.Text(team1, size=11, color=C_TEXT,
-                                                               weight=ft.FontWeight.W_600,
-                                                               text_align=ft.TextAlign.CENTER)],
+                            [
+                                _flag_img(flag_url1, size=44),
+                                ft.Text(team1, size=11, color=C_TEXT,
+                                        weight=ft.FontWeight.W_600,
+                                        text_align=ft.TextAlign.CENTER),
+                            ],
                             horizontal_alignment=ft.CrossAxisAlignment.CENTER,
                             expand=True,
+                            spacing=4,
                         ),
                         ft.Container(
                             content=ft.Column(
@@ -580,11 +603,15 @@ def _match_card(row, page: ft.Page) -> ft.Container:
                             alignment=ft.Alignment(0, 0),
                         ),
                         ft.Column(
-                            [ft.Text(flag2, size=28), ft.Text(team2, size=11, color=C_TEXT,
-                                                               weight=ft.FontWeight.W_600,
-                                                               text_align=ft.TextAlign.CENTER)],
+                            [
+                                _flag_img(flag_url2, size=44),
+                                ft.Text(team2, size=11, color=C_TEXT,
+                                        weight=ft.FontWeight.W_600,
+                                        text_align=ft.TextAlign.CENTER),
+                            ],
                             horizontal_alignment=ft.CrossAxisAlignment.CENTER,
                             expand=True,
+                            spacing=4,
                         ),
                     ],
                     vertical_alignment=ft.CrossAxisAlignment.CENTER,
@@ -622,8 +649,8 @@ def open_match_detail(page: ft.Page, match_key: str):
 
     team1  = str(match_row.get("team1", ""))
     team2  = str(match_row.get("team2", ""))
-    flag1  = match_row.get("flag1", "🏳️") or "🏳️"
-    flag2  = match_row.get("flag2", "🏳️") or "🏳️"
+    flag_url1 = match_row.get("flag_url1") or None
+    flag_url2 = match_row.get("flag_url2") or None
     grp    = match_row.get("group", "")
     rnd    = match_row.get("round", "")
     date   = match_row.get("date", "")
@@ -644,11 +671,15 @@ def open_match_detail(page: ft.Page, match_key: str):
                 ft.Row(
                     [
                         ft.Column(
-                            [ft.Text(flag1, size=40), ft.Text(team1, size=12,
-                                                               text_align=ft.TextAlign.CENTER,
-                                                               weight=ft.FontWeight.W_700)],
+                            [
+                                _flag_img(flag_url1, size=56),
+                                ft.Text(team1, size=12,
+                                        text_align=ft.TextAlign.CENTER,
+                                        weight=ft.FontWeight.W_700),
+                            ],
                             horizontal_alignment=ft.CrossAxisAlignment.CENTER,
                             expand=True,
+                            spacing=6,
                         ),
                         ft.Container(
                             content=ft.Text("VS", size=22, weight=ft.FontWeight.W_900,
@@ -656,11 +687,15 @@ def open_match_detail(page: ft.Page, match_key: str):
                             width=64, alignment=ft.Alignment(0, 0),
                         ),
                         ft.Column(
-                            [ft.Text(flag2, size=40), ft.Text(team2, size=12,
-                                                               text_align=ft.TextAlign.CENTER,
-                                                               weight=ft.FontWeight.W_700)],
+                            [
+                                _flag_img(flag_url2, size=56),
+                                ft.Text(team2, size=12,
+                                        text_align=ft.TextAlign.CENTER,
+                                        weight=ft.FontWeight.W_700),
+                            ],
                             horizontal_alignment=ft.CrossAxisAlignment.CENTER,
                             expand=True,
+                            spacing=6,
                         ),
                     ],
                     vertical_alignment=ft.CrossAxisAlignment.CENTER,

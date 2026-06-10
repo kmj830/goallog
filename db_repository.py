@@ -21,14 +21,15 @@ class TeamRepository(ITeamRepository):
     def find_all(self) -> pd.DataFrame:
         with _get_conn(read_only=True) as conn:
             return conn.execute(
-                'SELECT name, flag_icon, fifa_code, "group", confed, continent '
+                'SELECT name, flag_icon, flag_url, fifa_code, "group", confed, continent '
                 'FROM teams ORDER BY "group", name'
             ).fetchdf()
 
     def find_by_id(self, team_fifa_code: str) -> pd.DataFrame:
         with _get_conn(read_only=True) as conn:
             return conn.execute(
-                'SELECT * FROM teams WHERE fifa_code = ?',
+                'SELECT name, flag_icon, flag_url, fifa_code, "group", confed, continent '
+                'FROM teams WHERE fifa_code = ?',
                 [team_fifa_code]
             ).fetchdf()
 
@@ -103,8 +104,8 @@ class MatchRepository(IMatchRepository):
             return conn.execute(
                 """SELECT m.date, m.time, m.round, m."group",
                           m.team1, m.team2, m.ground,
-                          t1.flag_icon AS flag1, t1.fifa_code AS code1,
-                          t2.flag_icon AS flag2, t2.fifa_code AS code2
+                          t1.flag_icon AS flag1, t1.flag_url AS flag_url1, t1.fifa_code AS code1,
+                          t2.flag_icon AS flag2, t2.flag_url AS flag_url2, t2.fifa_code AS code2
                    FROM matches m
                    LEFT JOIN teams t1 ON t1.name = m.team1
                    LEFT JOIN teams t2 ON t2.name = m.team2
@@ -116,8 +117,8 @@ class MatchRepository(IMatchRepository):
             return conn.execute(
                 """SELECT m.date, m.time, m.round, m."group",
                           m.team1, m.team2, m.ground,
-                          t1.flag_icon AS flag1, t1.fifa_code AS code1,
-                          t2.flag_icon AS flag2, t2.fifa_code AS code2
+                          t1.flag_icon AS flag1, t1.flag_url AS flag_url1, t1.fifa_code AS code1,
+                          t2.flag_icon AS flag2, t2.flag_url AS flag_url2, t2.fifa_code AS code2
                    FROM matches m
                    LEFT JOIN teams t1 ON t1.name = m.team1
                    LEFT JOIN teams t2 ON t2.name = m.team2
@@ -147,9 +148,11 @@ class WorldCupQueryRepository(IWorldCupQueryRepository):
             match_df = conn.execute(
                 """SELECT m.date, m.time, m.round, m."group", m.ground,
                           m.team1, m.team2,
-                          t1.flag_icon AS flag1, t1.fifa_code AS code1,
+                          t1.flag_icon AS flag1, t1.flag_url AS flag_url1,
+                          t1.fifa_code AS code1,
                           t1.confed AS confed1, t1.continent AS continent1,
-                          t2.flag_icon AS flag2, t2.fifa_code AS code2,
+                          t2.flag_icon AS flag2, t2.flag_url AS flag_url2,
+                          t2.fifa_code AS code2,
                           t2.confed AS confed2, t2.continent AS continent2
                    FROM matches m
                    LEFT JOIN teams t1 ON t1.name = m.team1
